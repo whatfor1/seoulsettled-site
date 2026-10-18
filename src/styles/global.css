@@ -1,0 +1,326 @@
+/* Seoul Settled — the reader is anxious, in a new country, trying not to miss a deadline.
+   So: a document, not a magazine. Paper ground, one accent, numbers made loud. */
+
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300..700;1,6..72,300..600&display=swap');
+
+:root {
+  --paper:      #faf8f3;
+  --paper-sunk: #f2eee4;
+  --ink:        #16181b;
+  --ink-soft:   #4a5158;
+  --ink-faint:  #7b8289;
+  --accent:     #0d5349;
+  --accent-ink: #f4f7f4;
+  --rule:       #e2dcd0;
+
+  --serif: 'Newsreader', Georgia, 'Times New Roman', serif;
+  --sans: ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  --measure: 36rem;
+  --wide: 52rem;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 1.125rem;
+  line-height: 1.65;
+  font-optical-sizing: auto;
+}
+
+::selection { background: var(--accent); color: var(--accent-ink); }
+
+a { color: inherit; text-underline-offset: 0.18em; text-decoration-thickness: 1px; }
+a:hover { text-decoration-color: var(--accent); }
+
+img { max-width: 100%; height: auto; display: block; }
+
+.wrap { width: min(100% - 2.5rem, var(--wide)); margin-inline: auto; }
+.measure { width: min(100%, var(--measure)); }
+
+/* ── masthead ─────────────────────────────────────────── */
+.masthead {
+  border-bottom: 1px solid var(--rule);
+  padding: 1.1rem 0;
+}
+.masthead .wrap {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+.wordmark {
+  font-size: 1.3rem;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  text-decoration: none;
+}
+.wordmark span { color: var(--accent); }
+.masthead nav {
+  display: flex;
+  gap: 1.25rem;
+  font-family: var(--sans);
+  font-size: 0.82rem;
+  letter-spacing: 0.01em;
+}
+.masthead nav a { color: var(--ink-soft); text-decoration: none; }
+.masthead nav a:hover { color: var(--accent); }
+
+/* ── home ─────────────────────────────────────────────── */
+.lede {
+  padding: 3.5rem 0 2.5rem;
+  border-bottom: 1px solid var(--rule);
+}
+.lede h1 {
+  font-size: clamp(2rem, 5.5vw, 3rem);
+  line-height: 1.1;
+  letter-spacing: -0.025em;
+  font-weight: 500;
+  margin: 0 0 0.9rem;
+  max-width: 18ch;
+}
+.lede p {
+  margin: 0;
+  color: var(--ink-soft);
+  max-width: 46ch;
+  font-size: 1.1rem;
+}
+
+.index-head {
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  padding: 2.5rem 0 0.75rem;
+}
+
+/* the post list reads as a reference index, not a deck of cards */
+.index { list-style: none; margin: 0; padding: 0; }
+.index li { border-top: 1px solid var(--rule); }
+.index li:last-child { border-bottom: 1px solid var(--rule); }
+
+.entry {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.3rem;
+  padding: 1.5rem 0;
+  text-decoration: none;
+}
+.entry:hover .entry-title { color: var(--accent); }
+.entry-title {
+  font-size: 1.35rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: -0.015em;
+  margin: 0;
+  transition: color 0.12s ease;
+}
+.entry-desc {
+  margin: 0;
+  color: var(--ink-soft);
+  font-size: 1rem;
+  line-height: 1.5;
+  max-width: 54ch;
+}
+.entry-meta {
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  color: var(--ink-faint);
+  letter-spacing: 0.02em;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.9rem;
+  margin-top: 0.15rem;
+}
+
+/* only reserve the right-hand column on entries that actually carry a key fact,
+   otherwise the list ends in a column of dead space */
+@media (min-width: 46rem) {
+  .entry.has-fact { grid-template-columns: 1fr 9rem; column-gap: 2rem; align-items: start; }
+  .entry.has-fact .entry-title,
+  .entry.has-fact .entry-desc,
+  .entry.has-fact .entry-meta { grid-column: 1; }
+  .entry.has-fact .entry-fact { grid-column: 2; grid-row: 1 / span 3; text-align: right; }
+}
+.entry-fact { color: var(--accent); }
+.entry-fact b {
+  display: block;
+  font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+}
+.entry-fact small {
+  font-family: var(--sans);
+  font-size: 0.68rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+/* ── article ──────────────────────────────────────────── */
+.post-head { padding: 3rem 0 1.75rem; }
+.post-head .standfirst, .post-head .byline, .keyfact { max-width: var(--measure); }
+.post-head h1 {
+  font-size: clamp(1.9rem, 5vw, 2.7rem);
+  line-height: 1.12;
+  letter-spacing: -0.025em;
+  font-weight: 500;
+  margin: 0 0 0.8rem;
+  max-width: 22ch;
+}
+.post-head .standfirst {
+  margin: 0;
+  font-size: 1.15rem;
+  color: var(--ink-soft);
+  max-width: 50ch;
+}
+.byline {
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  letter-spacing: 0.03em;
+  color: var(--ink-faint);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.8rem;
+  margin-top: 1.1rem;
+}
+
+.keyfact {
+  display: flex;
+  align-items: baseline;
+  gap: 0.7rem;
+  background: var(--accent);
+  color: var(--accent-ink);
+  padding: 0.85rem 1.1rem;
+  margin: 1.75rem 0 0;
+}
+.keyfact b { font-size: 1.6rem; font-weight: 600; letter-spacing: -0.02em; }
+.keyfact span {
+  font-family: var(--sans);
+  font-size: 0.74rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  opacity: 0.85;
+}
+
+.hero { margin: 2rem 0 0; }
+.hero img { width: 100%; }
+.credit, .fig figcaption {
+  font-family: var(--sans);
+  font-size: 0.7rem;
+  color: var(--ink-faint);
+  margin-top: 0.45rem;
+  letter-spacing: 0.01em;
+}
+.credit a, .fig figcaption a { color: inherit; }
+
+/* one left edge for everything: text and in-body figures share the same measure, so the
+   column never reads as shoved to the left of its own images. Only the hero runs wide. */
+.prose { padding: 2.25rem 0 3rem; }
+.prose > * { max-width: var(--measure); }
+.prose h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  line-height: 1.25;
+  margin: 2.5rem 0 0.7rem;
+}
+.prose h3 { font-size: 1.2rem; font-weight: 600; margin: 1.9rem 0 0.5rem; }
+.prose p { margin: 0 0 1.15rem; }
+.prose ul, .prose ol { margin: 0 0 1.3rem; padding-left: 1.3rem; }
+.prose li { margin-bottom: 0.45rem; }
+.prose li::marker { color: var(--ink-faint); }
+.prose strong { font-weight: 600; }
+.prose a { color: var(--accent); text-decoration-color: color-mix(in srgb, var(--accent) 35%, transparent); }
+.prose blockquote {
+  margin: 1.6rem 0;
+  padding-left: 1.1rem;
+  border-left: 2px solid var(--accent);
+  color: var(--ink-soft);
+  font-style: italic;
+}
+.prose .fig { margin: 2rem 0; max-width: var(--measure); }
+.prose .fig img { width: 100%; }
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  padding: 0 0 2rem;
+  font-family: var(--sans);
+  font-size: 0.74rem;
+}
+.tags a {
+  color: var(--ink-soft);
+  text-decoration: none;
+  background: var(--paper-sunk);
+  padding: 0.28rem 0.6rem;
+}
+.tags a:hover { color: var(--accent); }
+
+.checked {
+  font-family: var(--sans);
+  font-size: 0.76rem;
+  color: var(--ink-faint);
+  border-top: 1px solid var(--rule);
+  padding-top: 1rem;
+  margin-bottom: 2.5rem;
+  max-width: var(--measure);
+}
+
+.next { border-top: 1px solid var(--rule); padding: 2rem 0 0; }
+.next h2 {
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  margin: 0 0 0.9rem;
+  font-weight: 500;
+}
+
+/* ── static pages ─────────────────────────────────────── */
+.page { padding: 3rem 0 3.5rem; }
+.page h1 {
+  font-size: clamp(1.8rem, 4.5vw, 2.4rem);
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  margin: 0 0 1.5rem;
+}
+.page h2 { font-size: 1.3rem; font-weight: 600; margin: 2rem 0 0.6rem; }
+.page p, .page li { max-width: var(--measure); }
+.page a { color: var(--accent); }
+
+/* ── footer ───────────────────────────────────────────── */
+footer.site {
+  border-top: 1px solid var(--rule);
+  padding: 2rem 0 3rem;
+  font-family: var(--sans);
+  font-size: 0.78rem;
+  color: var(--ink-faint);
+}
+footer.site .wrap { display: flex; flex-wrap: wrap; gap: 0.6rem 1.5rem; justify-content: space-between; }
+footer.site a { color: var(--ink-soft); text-decoration: none; }
+footer.site a:hover { color: var(--accent); }
+footer.site nav { display: flex; gap: 1.2rem; }
+
+.skip {
+  position: absolute;
+  left: -9999px;
+}
+.skip:focus {
+  left: 1rem; top: 1rem;
+  position: fixed;
+  background: var(--ink);
+  color: var(--paper);
+  padding: 0.6rem 1rem;
+  z-index: 10;
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://whatfor1.github.io/seoulsettled-site/sitemap-index.xml

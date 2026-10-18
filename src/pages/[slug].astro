@@ -1,0 +1,116 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts', ({ data }) => !data.draft);
+  return posts.map((post) => ({ params: { slug: post.data.slug }, props: { post, posts } }));
+}
+
+const { post, posts } = Astro.props;
+const { Content } = await render(post);
+const d = post.data;
+
+const base = import.meta.env.BASE_URL;
+const href = (p: string) => (base.replace(/\/$/, '') + '/' + p.replace(/^\//, ''));
+
+const fmt = (x: Date) =>
+  x.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+
+const related = posts
+  .filter((p) => p.data.slug !== d.slug)
+  .filter((p) => p.data.tags.some((t) => d.tags.includes(t)))
+  .slice(0, 3);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: d.title,
+  description: d.description,
+  datePublished: d.date.toISOString(),
+  author: { '@type': 'Person', name: 'Jun' },
+  publisher: { '@type': 'Organization', name: 'Seoul Settled' },
+  mainEntityOfPage: new URL(Astro.url.pathname, Astro.site).toString(),
+  ...(d.hero ? { image: d.hero.src } : {}),
+};
+---
+
+<Base
+  title={d.title}
+  description={d.description}
+  image={d.hero?.src}
+  type="article"
+  published={d.date}
+  jsonLd={jsonLd}
+>
+  <article>
+    <header class="wrap post-head">
+      <h1>{d.title}</h1>
+      {/* no standfirst: descriptions are derived from the opening paragraph, so printing
+          one here would show the reader the same sentence twice. It still serves the
+          index listing and the meta/OG description. */}
+      <p class="byline">
+        <span>By Jun, in Seoul</span>
+        <span>{fmt(d.date)}</span>
+      </p>
+
+      {d.keyFact && (
+        <p class="keyfact">
+          <b>{d.keyFact.value}</b>
+          <span>{d.keyFact.label}</span>
+        </p>
+      )}
+
+      {d.hero && (
+        <figure class="hero">
+          <img src={d.hero.src} alt={d.hero.alt} fetchpriority="high" decoding="async" />
+          {d.hero.credit && (
+            <figcaption class="credit">
+              Photo:{' '}
+              {d.hero.creditUrl ? (
+                <a href={d.hero.creditUrl} rel="nofollow noopener">{d.hero.credit}</a>
+              ) : (
+                d.hero.credit
+              )}
+            </figcaption>
+          )}
+        </figure>
+      )}
+    </header>
+
+    <div class="wrap prose">
+      <Content />
+    </div>
+
+    <div class="wrap">
+      {d.sourcesCheckedOn && (
+        <p class="checked">
+          Official sources for this guide were last re-checked on {fmt(d.sourcesCheckedOn)}.
+          Rules change — the links above go to the government pages this is based on.
+        </p>
+      )}
+
+      {d.tags.length > 0 && (
+        <p class="tags">
+          {d.tags.map((t) => <a href={href('/')}>{t}</a>)}
+        </p>
+      )}
+
+      {related.length > 0 && (
+        <section class="next">
+          <h2>Read next</h2>
+          <ul class="index">
+            {related.map((p) => (
+              <li>
+                <a class="entry" href={href(p.data.slug + '/')}>
+                  <h3 class="entry-title">{p.data.title}</h3>
+                  <p class="entry-desc">{p.data.description}</p>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+    </div>
+  </article>
+</Base>
