@@ -33,7 +33,7 @@ const fullTitle = title === siteName ? title : `${title} — ${siteName}`;
          pinning every origin stops an injected tag from pulling a payload off another host. -->
     <meta
       http-equiv="Content-Security-Policy"
-      content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data: https://images.unsplash.com https://thumb.wikimedia.org https://upload.wikimedia.org; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'; frame-src 'none'"
+      content="default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data: https://images.unsplash.com https://thumb.wikimedia.org https://upload.wikimedia.org; connect-src 'self' https://cloudflareinsights.com; object-src 'none'; base-uri 'self'; form-action 'none'; frame-src 'none'"
     />
     <meta name="referrer" content="strict-origin-when-cross-origin" />
 
@@ -106,5 +106,13 @@ const fullTitle = title === siteName ? title : `${title} — ${siteName}`;
         items.forEach(function (el) { io.observe(el); });
       })();
     </script>
+
+    <!-- Cloudflare Web Analytics: no cookies, so no consent banner is required.
+         The token is public by design — it identifies the site, not the account. -->
+    <script
+      type="module"
+      src="https://static.cloudflareinsights.com/beacon.min.js"
+      data-cf-beacon='{"token": "0d76d7ba242745ebaad655b3753b23a7"}'
+    ></script>
   </body>
 </html>
