@@ -32,10 +32,10 @@ function rehypeBaseLinks(base) {
   };
 }
 
-// SITE/BASE are overridden by the deploy workflow. The defaults are the GitHub Pages
-// preview; moving to a custom domain later is a one-line change here plus a CNAME file.
-const SITE = process.env.SITE_URL || 'https://whatfor1.github.io';
-const BASE = process.env.BASE_PATH ?? '/seoulsettled-site';
+// Served from its own domain at the root. SITE_URL/BASE_PATH stay overridable for a preview
+// build under a sub-path (e.g. BASE_PATH=/seoulsettled-site).
+const SITE = process.env.SITE_URL || 'https://seoulsettled.com';
+const BASE = process.env.BASE_PATH || '/';
 
 export default defineConfig({
   site: SITE,

@@ -3,13 +3,14 @@
 Practical, step-by-step guides to living in Korea — visas, banking, housing, healthcare
 and everyday life, checked against official government sources.
 
-Static site built with [Astro](https://astro.build), deployed to GitHub Pages.
+Static site built with [Astro](https://astro.build), deployed to GitHub Pages at
+https://seoulsettled.com.
 
 ## Local
 
 ```bash
 npm install
-npm run dev      # http://localhost:4321/seoulsettled-site/
+npm run dev      # http://localhost:4321/
 npm run build
 ```
 
