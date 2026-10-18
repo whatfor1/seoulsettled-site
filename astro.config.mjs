@@ -32,6 +32,23 @@ function rehypeBaseLinks(base) {
   };
 }
 
+// Markdown links carry no rel, and every guide links out to government sites. Outbound
+// links get noopener (tab-nabbing) and nofollow (don't vouch for a page we don't control).
+function rehypeExternalLinks() {
+  return (tree) => {
+    const walk = (node) => {
+      if (node.type === 'element' && node.tagName === 'a') {
+        const h = node.properties?.href;
+        if (typeof h === 'string' && /^https?:\/\//i.test(h) && !h.includes('seoulsettled.com')) {
+          node.properties.rel = 'nofollow noopener';
+        }
+      }
+      (node.children || []).forEach(walk);
+    };
+    walk(tree);
+  };
+}
+
 // Served from its own domain at the root. SITE_URL/BASE_PATH stay overridable for a preview
 // build under a sub-path (e.g. BASE_PATH=/seoulsettled-site).
 const SITE = process.env.SITE_URL || 'https://seoulsettled.com';
@@ -44,7 +61,7 @@ export default defineConfig({
   integrations: [sitemap()],
   markdown: {
     shikiConfig: { theme: 'github-light', wrap: true },
-    rehypePlugins: [rehypeRise, rehypeBaseLinks(BASE)],
+    rehypePlugins: [rehypeRise, rehypeBaseLinks(BASE), rehypeExternalLinks],
   },
   build: { format: 'directory' },
 });

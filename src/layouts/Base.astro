@@ -28,6 +28,15 @@ const fullTitle = title === siteName ? title : `${title} — ${siteName}`;
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
 
+    <!-- GitHub Pages serves fixed headers, so the policy has to ride in the document.
+         Scripts still need 'unsafe-inline' (the clock and the reveal are inline), but
+         pinning every origin stops an injected tag from pulling a payload off another host. -->
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data: https://images.unsplash.com https://thumb.wikimedia.org https://upload.wikimedia.org; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'; frame-src 'none'"
+    />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+
     <meta property="og:site_name" content={siteName} />
     <meta property="og:type" content={type} />
     <meta property="og:title" content={fullTitle} />
@@ -40,7 +49,12 @@ const fullTitle = title === siteName ? title : `${title} — ${siteName}`;
     <link rel="alternate" type="application/rss+xml" title={siteName} href={href('rss.xml')} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
+    {jsonLd && (
+      <script
+        type="application/ld+json"
+        set:html={JSON.stringify(jsonLd).replace(/</g, '\\u003c')}
+      />
+    )}
   </head>
 
   <body>
