@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Base from '../layouts/Base.astro';
+import { sized } from '../lib/img';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
@@ -8,7 +9,18 @@ export async function getStaticPaths() {
 }
 
 const { post, posts } = Astro.props;
-const { Content } = await render(post);
+const { Content, headings } = await render(post);
+const toc = headings.filter((h) => h.depth === 2);
+
+// the section most readers are actually after — a checklist, else the step-by-step
+const jumpTarget =
+  toc.find((h) => /checklist/i.test(h.text)) ??
+  toc.find((h) => /step by step|step-by-step|what to do/i.test(h.text)) ??
+  toc.find((h) => /setup order|order i recommend/i.test(h.text));
+const jumpLabel = !jumpTarget ? null
+  : /checklist/i.test(jumpTarget.text) ? 'Skip to the checklist'
+  : /order/i.test(jumpTarget.text) ? 'Skip to the setup order'
+  : 'Skip to the steps';
 const d = post.data;
 
 const base = import.meta.env.BASE_URL;
@@ -17,10 +29,11 @@ const href = (p: string) => (base.replace(/\/$/, '') + '/' + p.replace(/^\//, ''
 const fmt = (x: Date) =>
   x.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
 
-const related = posts
-  .filter((p) => p.data.slug !== d.slug)
-  .filter((p) => p.data.tags.some((t) => d.tags.includes(t)))
-  .slice(0, 3);
+// same topic first, then shared tags, then anything recent — always three
+const others = posts.filter((p) => p.data.slug !== d.slug);
+const score = (p: typeof posts[number]) =>
+  (p.data.topic === d.topic ? 2 : 0) + (p.data.tags.some((t) => d.tags.includes(t)) ? 1 : 0);
+const related = [...others].sort((a, b) => score(b) - score(a)).slice(0, 3);
 
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -45,24 +58,20 @@ const jsonLd = {
 >
   <article>
     <header class="wrap post-head">
-      <h1>{d.title}</h1>
+      <h1 data-rise>{d.displayTitle ?? d.title}</h1>
       {/* no standfirst: descriptions are derived from the opening paragraph, so printing
           one here would show the reader the same sentence twice. It still serves the
           index listing and the meta/OG description. */}
-      <p class="byline">
+      <p class="byline" data-rise style="--rise-delay:60ms">
         <span>By Jun, in Seoul</span>
         <span>{fmt(d.date)}</span>
       </p>
-
-      {d.keyFact && (
-        <p class="keyfact">
-          <b>{d.keyFact.value}</b>
-          <span>{d.keyFact.label}</span>
-        </p>
+      {jumpTarget && (
+        <a class="jump" data-rise style="--rise-delay:90ms" href={`#${jumpTarget.slug}`}>{jumpLabel}</a>
       )}
 
       {d.hero && (
-        <figure class="hero">
+        <figure class="hero" data-rise style="--rise-delay:110ms">
           <img src={d.hero.src} alt={d.hero.alt} fetchpriority="high" decoding="async" />
           {d.hero.credit && (
             <figcaption class="credit">
@@ -78,8 +87,30 @@ const jsonLd = {
       )}
     </header>
 
-    <div class="wrap prose">
-      <Content />
+    <div class="wrap body">
+      <aside class="rail" aria-label="On this page">
+        <div class="rail-inner">
+          {d.keyFact && (
+            <p class="rail-fact">
+              <b>{d.keyFact.value}</b>
+              <span>{d.keyFact.label}</span>
+            </p>
+          )}
+          {toc.length > 2 && (
+            <nav class="toc">
+              <p class="toc-head">On this page</p>
+              <ol>
+                {toc.map((h) => (
+                  <li><a href={`#${h.slug}`}>{h.text}</a></li>
+                ))}
+              </ol>
+            </nav>
+          )}
+        </div>
+      </aside>
+      <div class="prose">
+        <Content />
+      </div>
     </div>
 
     <div class="wrap">
@@ -92,19 +123,20 @@ const jsonLd = {
 
       {d.tags.length > 0 && (
         <p class="tags">
-          {d.tags.map((t) => <a href={href('/')}>{t}</a>)}
+          {d.tags.map((t) => <span>{t}</span>)}
         </p>
       )}
 
       {related.length > 0 && (
         <section class="next">
           <h2>Read next</h2>
-          <ul class="index">
+          <ul class="next-grid">
             {related.map((p) => (
-              <li>
-                <a class="entry" href={href(p.data.slug + '/')}>
-                  <h3 class="entry-title">{p.data.title}</h3>
-                  <p class="entry-desc">{p.data.description}</p>
+              <li data-rise>
+                <a href={href(p.data.slug + '/')}>
+                  {p.data.hero && <img src={sized(p.data.hero.src, 500)} alt="" loading="lazy" decoding="async" />}
+                  <span class="next-title">{p.data.displayTitle ?? p.data.title}</span>
+                  <span class="next-desc">{p.data.description}</span>
                 </a>
               </li>
             ))}

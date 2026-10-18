@@ -1,5 +1,7 @@
 ---
 title: "Seoul Immigration Office Moves to Songpa: New Address Guide"
+displayTitle: "Seoul Immigration Moves to Songpa"
+topic: "arriving"
 slug: "seoul-immigration-office-new-address-songpa"
 date: 2026-10-17
 description: "If you have a HiKorea appointment at the Seoul Immigration Office on or after October 19, 2026, do not go to Mok-dong. The office is moving to a brand-new…"
@@ -10,10 +12,10 @@ tags:
   - "Step-by-Step Guides"
   - "Visa & Immigration"
 hero:
-  src: "https://images.unsplash.com/photo-1783257483216-3f815fbaeb35?w=1200&q=80&auto=format&fit=crop"
-  alt: "The Han River and Seoul skyline at sunset"
-  credit: "Photo via Unsplash"
-  creditUrl: "https://unsplash.com/photos/city-skyline-with-a-bridge-over-a-river-at-sunset-vpk8V_O5-Xk"
+  src: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Ansan_foreigner_immigration_service_interior_02.jpg/1920px-Ansan_foreigner_immigration_service_interior_02.jpg"
+  alt: "Inside a Korean immigration service office"
+  credit: "User:Piotrus, CC BY-SA 3.0, via Wikimedia Commons"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Ansan_foreigner_immigration_service_interior_02.jpg"
 ---
 
 If you have a HiKorea appointment at the Seoul Immigration Office on or after October 19, 2026, do not go to Mok-dong. The office is moving to a brand-new building in Songpa-gu, and the old Mok-dong building stops handling cases from that day. Here is the new address, how to get there by subway and bus, who the office serves, and what changes for your visit.
@@ -49,8 +51,8 @@ The official notice gives three routes:
 You visit the immigration office that covers **where you live**, not where you work. According to [EKW's report on the move](https://www.ekw.co.kr/news/articleView.html?idxno=20886), the Seoul Immigration Office covers these areas:
 
 <figure class="fig">
-  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Ansan_foreigner_immigration_service_interior_02.jpg/1920px-Ansan_foreigner_immigration_service_interior_02.jpg" alt="Inside a Korean immigration service office" loading="lazy" decoding="async" />
-  <figcaption>Photo: <a href="https://commons.wikimedia.org/wiki/File:Ansan_foreigner_immigration_service_interior_02.jpg" rel="nofollow noopener">User:Piotrus, CC BY-SA 3.0, via Wikimedia Commons</a></figcaption>
+  <img src="https://images.unsplash.com/photo-1783257483216-3f815fbaeb35?w=1200&q=80&auto=format&fit=crop" alt="The Han River and Seoul skyline at sunset" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://unsplash.com/photos/city-skyline-with-a-bridge-over-a-river-at-sunset-vpk8V_O5-Xk" rel="nofollow noopener">Photo via Unsplash</a></figcaption>
 </figure>
 
 - **Seoul:** Yongsan, Seongdong, Gwangjin, Dongjak, Gwanak, Gangnam, Seocho, Songpa and Gangdong districts.
@@ -87,20 +89,15 @@ The move doesn't change the paperwork. For a first ARC application you still nee
 
 ## Quick checklist before you go
 
-- ☐ My address is in this office's area (or I called 1345)
-
-- ☐ HiKorea reservation booked and screenshotted
-
-- ☐ Heading to 55 Jeongui-ro, Songpa-gu, not Mok-dong
-
-- ☐ Route planned: Munjeong Station Exit 4, or Songpa 02 village bus
-
-- ☐ Passport, ARC (if you have one), photo and documents packed
-
+<ul class="checklist">
+  <li>My address is in this office's area (or I called 1345)</li>
+  <li>HiKorea reservation booked and screenshotted</li>
+  <li>Heading to 55 Jeongui-ro, Songpa-gu, not Mok-dong</li>
+  <li>Route planned: Munjeong Station Exit 4, or Songpa 02 village bus</li>
+  <li>Passport, ARC (if you have one), photo and documents packed</li>
+</ul>
 ## Next up and your turn
 
 Next, I'll cover how to extend your stay in Korea before your visa runs out, and what to do if you're cutting it close.
-
-Have you visited the new Songpa office yet? Tell me in the comments how long the wait was and whether the signs were in English. It'll help the next reader.
 
 *This post was checked against the official Korea Immigration Service notice and news reports in October 2026. Details can change, so confirm the latest on HiKorea or by calling 1345 before you go.*

@@ -1,5 +1,10 @@
 ---
 title: "Korea Health Insurance for Foreigners: What You Pay"
+displayTitle: "Korea Health Insurance: What You Pay"
+keyFact:
+  label: "of your wage, if employed"
+  value: "7.19%"
+topic: "health"
 slug: "korea-national-health-insurance-foreigners-cost"
 date: 2026-10-16
 description: "Your first Korean paycheck arrives smaller than the contract said, or a bill for health insurance lands in your mailbox and you have no idea why. Korea…"
@@ -10,10 +15,10 @@ tags:
   - "Beginner Guide"
   - "Living in Korea"
 hero:
-  src: "https://images.unsplash.com/photo-1758691462651-611d730c5272?w=1200&q=80&auto=format&fit=crop"
-  alt: "A doctor sitting at a desk in a clinic office"
-  credit: "Vitaly Gariev on Unsplash"
-  creditUrl: "https://unsplash.com/@silverkblack"
+  src: "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/%EC%84%B8%EB%B8%8C%EB%9E%80%EC%8A%A4_%EB%B3%91%EC%9B%90_%EB%B3%B8%EA%B4%80_%EC%9E%85%EA%B5%AC_-_Entrance_to_the_main_building_of_Severance_Hospital.jpg/1920px-%EC%84%B8%EB%B8%8C%EB%9E%80%EC%8A%A4_%EB%B3%91%EC%9B%90_%EB%B3%B8%EA%B4%80_%EC%9E%85%EA%B5%AC_-_Entrance_to_the_main_building_of_Severance_Hospital.jpg"
+  alt: "Entrance to the main building of Severance Hospital in Seoul"
+  credit: "RyuMinjoo, CC BY-SA 4.0, via Wikimedia Commons"
+  creditUrl: "https://commons.wikimedia.org/w/index.php?curid=182107222"
 ---
 
 Your first Korean paycheck arrives smaller than the contract said, or a bill for health insurance lands in your mailbox and you have no idea why. Korea health insurance for foreigners is mandatory for most residents, and the amount depends on one thing: whether you are on a company payroll or not. This guide explains both cases with the 2026 numbers.
@@ -43,8 +48,8 @@ NHIS’s [2026 rate notice](https://www.nhis.or.kr/nhis/etc/20251204_banner_pop0
 Regional subscribers pay by a points system based on income, property and cars. The NHIS contribution page sets the value per point at KRW 211.5 for 2026. Property includes things like a rented home, so your housing situation matters. If you are still choosing a lease, our [jeonse vs wolse guide](/jeonse-wolse-renting-apartment-korea-foreigners/) covers the basics.
 
 <figure class="fig">
-  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/%EC%84%B8%EB%B8%8C%EB%9E%80%EC%8A%A4_%EB%B3%91%EC%9B%90_%EB%B3%B8%EA%B4%80_%EC%9E%85%EA%B5%AC_-_Entrance_to_the_main_building_of_Severance_Hospital.jpg/1920px-%EC%84%B8%EB%B8%8C%EB%9E%80%EC%8A%A4_%EB%B3%91%EC%9B%90_%EB%B3%B8%EA%B4%80_%EC%9E%85%EA%B5%AC_-_Entrance_to_the_main_building_of_Severance_Hospital.jpg" alt="Entrance to the main building of Severance Hospital in Seoul" loading="lazy" decoding="async" />
-  <figcaption>Photo: <a href="https://commons.wikimedia.org/w/index.php?curid=182107222" rel="nofollow noopener">RyuMinjoo, CC BY-SA 4.0, via Wikimedia Commons</a></figcaption>
+  <img src="https://images.unsplash.com/photo-1758691462651-611d730c5272?w=1200&q=80&auto=format&fit=crop" alt="A doctor sitting at a desk in a clinic office" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://unsplash.com/@silverkblack" rel="nofollow noopener">Vitaly Gariev on Unsplash</a></figcaption>
 </figure>
 
 There is also a floor. The NHIS guidance page says that if the calculated fee is less than the average fee, the average fee is charged. The 2026 notice puts the average premium for foreign regional subscribers at KRW 158,630 a month, made up of KRW 140,210 in health insurance and KRW 18,420 in long-term care. Holders of F-5 and F-6 visas are the exception: NHIS says their fee is calculated the same way as for Korean residents.
@@ -71,15 +76,13 @@ NHIS says insurance for foreigners has the same coverage as for Korean citizens:
 
 ## Checklist
 
-- Alien registration card (ARC) ready
-
-- Payslip checked for the health insurance deduction
-
-- Auto-pay set up if you get a bill
-
-- Address kept up to date with immigration and NHIS
-
-- NHIS English line saved in your phone
+<ul class="checklist">
+  <li>Alien registration card (ARC) ready</li>
+  <li>Payslip checked for the health insurance deduction</li>
+  <li>Auto-pay set up if you get a bill</li>
+  <li>Address kept up to date with immigration and NHIS</li>
+  <li>NHIS English line saved in your phone</li>
+</ul>
 
 **Jun’s tip:** If a bill looks wrong, don’t ignore it and don’t just pay it. Call the English line with your ARC number in front of you and ask them to explain the calculation. Unpaid insurance can build up, and fixing it early is far less stressful.
 
@@ -88,5 +91,3 @@ I checked these figures against NHIS’s own pages in October 2026. Rates change
 ## Next up
 
 Next time I’ll cover the Korean tax basics for foreigners, including what the year-end settlement is and when it happens.
-
-**Your turn:** Did your health insurance bill surprise you? Tell me in the comments what confused you most, and I'll cover it in a future post.

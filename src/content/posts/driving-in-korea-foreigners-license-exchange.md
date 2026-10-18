@@ -1,5 +1,7 @@
 ---
 title: "Driving in Korea as a Foreigner: Exchange Your License"
+displayTitle: "Driving in Korea as a Foreigner"
+topic: "money"
 slug: "driving-in-korea-foreigners-license-exchange"
 date: 2026-10-17
 description: "You landed, got your ARC, rented a car for a weekend trip, and then wondered: am I even allowed to drive here? The answer is \"yes, for a while,\" and the…"
@@ -11,10 +13,10 @@ tags:
   - "Foreigners"
   - "Living in Korea"
 hero:
-  src: "https://images.unsplash.com/photo-1677697086774-e4cbdf22a983?w=1200&q=80&auto=format&fit=crop"
-  alt: "Cars at a wide crosswalk in downtown Seoul"
-  credit: "Photo via Unsplash"
-  creditUrl: "https://unsplash.com/photos/a-city-street-filled-with-lots-of-traffic-next-to-tall-buildings-qqrF27NM7ac"
+  src: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/South_Korea_Expressway_Signs.jpg/1920px-South_Korea_Expressway_Signs.jpg"
+  alt: "Expressway direction signs in South Korea"
+  credit: "Hankook12, CC0, via Wikimedia Commons"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:South_Korea_Expressway_Signs.jpg"
 ---
 
 You landed, got your ARC, rented a car for a weekend trip, and then wondered: am I even allowed to drive here? The answer is "yes, for a while," and the clock starts earlier than most people think. This guide explains how driving in Korea as a foreigner works, and how to exchange your foreign license for a Korean one.
@@ -48,8 +50,8 @@ Jun’s tip: carry the physical license or permit every time you drive. Not carr
 If you plan to stay longer than a year, exchange your license. You apply in person at any driver’s license examination office. Proxy applications are not allowed (except for certain ID card holders from the Ministry of Foreign Affairs).
 
 <figure class="fig">
-  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/South_Korea_Expressway_Signs.jpg/1920px-South_Korea_Expressway_Signs.jpg" alt="Expressway direction signs in South Korea" loading="lazy" decoding="async" />
-  <figcaption>Photo: <a href="https://commons.wikimedia.org/wiki/File:South_Korea_Expressway_Signs.jpg" rel="nofollow noopener">Hankook12, CC0, via Wikimedia Commons</a></figcaption>
+  <img src="https://images.unsplash.com/photo-1677697086774-e4cbdf22a983?w=1200&q=80&auto=format&fit=crop" alt="Cars at a wide crosswalk in downtown Seoul" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://unsplash.com/photos/a-city-street-filled-with-lots-of-traffic-next-to-tall-buildings-qqrF27NM7ac" rel="nofollow noopener">Photo via Unsplash</a></figcaption>
 </figure>
 
 The procedure has three steps:
@@ -88,17 +90,14 @@ The issuance fee on the guide is KRW 15,000 for a mobile IC license (Korean and 
 
 ## Quick checklist before you go
 
-- Confirm whether your country is recognized.
-
-- Order the embassy certificate or Apostille.
-
-- Get your entry and exit record certificate.
-
-- Take your passport, ARC, original license and three photos.
-
-- Go in person to a driver’s license examination office.
-
-- Confirm details on the [Road Traffic Authority site](https://www.safedriving.or.kr/).
+<ul class="checklist">
+  <li>Confirm whether your country is recognized.</li>
+  <li>Order the embassy certificate or Apostille.</li>
+  <li>Get your entry and exit record certificate.</li>
+  <li>Take your passport, ARC, original license and three photos.</li>
+  <li>Go in person to a driver’s license examination office.</li>
+  <li>Confirm details on the [Road Traffic Authority site](https://www.safedriving.or.kr/).</li>
+</ul>
 
 ## Common mistakes
 
@@ -107,7 +106,5 @@ Many people wait until month eleven and discover the embassy paperwork takes wee
 ## What’s next on Seoul Settled
 
 Next up: how to send money abroad from Korea without getting hit by bad exchange rates.
-
-Quick question: did you drive on an IDP when you first arrived, or did you exchange right away? Tell me in the comments.
 
 *Rules checked against Korea’s Easy Law portal in October 2026. Rules and fees change, so confirm with the Road Traffic Authority before you go.*

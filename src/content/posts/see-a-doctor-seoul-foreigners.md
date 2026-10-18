@@ -1,5 +1,7 @@
 ---
 title: "Seeing a Doctor in Seoul: Clinics, Hospitals and What to Bring"
+displayTitle: "Seeing a Doctor in Seoul"
+topic: "health"
 slug: "see-a-doctor-seoul-foreigners"
 date: 2026-10-14
 description: "You wake up with a fever, your Korean is limited to “kamsahamnida”, and Google Maps shows forty places that all say “의원” or “병원”. Which door do you walk…"
@@ -10,10 +12,10 @@ tags:
   - "Health"
   - "Living in Korea"
 hero:
-  src: "https://images.unsplash.com/photo-1758691461916-dc7894eb8f94?w=1200&q=80&auto=format&fit=crop"
-  alt: "A doctor with a stethoscope at a clinic desk"
-  credit: "Photo via Unsplash"
-  creditUrl: "https://unsplash.com/photos/doctor-wearing-a-stethoscope-at-his-desk-7ONjxCll0L8"
+  src: "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Emergency_department_gangnam_severance.jpg/1920px-Emergency_department_gangnam_severance.jpg"
+  alt: "Emergency department entrance at Gangnam Severance Hospital"
+  credit: "Parkyongjoo, CC BY-SA 3.0, via Wikimedia Commons"
+  creditUrl: "https://commons.wikimedia.org/w/index.php?curid=30932621"
 ---
 
 You wake up with a fever, your Korean is limited to “kamsahamnida”, and Google Maps shows forty places that all say “의원” or “병원”. Which door do you walk through? Here is how to see a doctor in Seoul as a foreigner.
@@ -41,8 +43,8 @@ If the language gap worries you, use the big hospitals. The Korea Tourism Organi
 Keep this in one pouch so you can grab it when you feel awful:
 
 <figure class="fig">
-  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Emergency_department_gangnam_severance.jpg/1920px-Emergency_department_gangnam_severance.jpg" alt="Emergency department entrance at Gangnam Severance Hospital" loading="lazy" decoding="async" />
-  <figcaption>Photo: <a href="https://commons.wikimedia.org/w/index.php?curid=30932621" rel="nofollow noopener">Parkyongjoo, CC BY-SA 3.0, via Wikimedia Commons</a></figcaption>
+  <img src="https://images.unsplash.com/photo-1758691461916-dc7894eb8f94?w=1200&q=80&auto=format&fit=crop" alt="A doctor with a stethoscope at a clinic desk" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://unsplash.com/photos/doctor-wearing-a-stethoscope-at-his-desk-7ONjxCll0L8" rel="nofollow noopener">Photo via Unsplash</a></figcaption>
 </figure>
 
 - Your ARC (or passport if you are a short-term visitor), since clinics register you as a patient with ID
@@ -56,6 +58,11 @@ Keep this in one pouch so you can grab it when you feel awful:
 If you have lived here for more than six months, the same foreign-ministry page says you are required to enroll in the National Health Insurance Service (NHIS). Questions about enrollment or exemption go to NHIS at 1577-1000, and for foreign-language help press 7 or call 033-811-2000. My earlier guide on [getting your ARC in Korea](/how-to-get-arc-korea/) covers the card you will show at the desk.
 
 Jun’s tip: write the symptom note in two lines, English on top and a translation underneath. A written note saves you from explaining symptoms out loud.
+
+<figure class="fig">
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/COVID19_South_Korea_pharmacy_with_sold_out_sign.jpg/1920px-COVID19_South_Korea_pharmacy_with_sold_out_sign.jpg" alt="A pharmacy counter in South Korea" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://commons.wikimedia.org/w/index.php?curid=88146689" rel="nofollow noopener">Rickinasia, CC BY-SA 4.0, via Wikimedia Commons</a></figcaption>
+</figure>
 
 ## What happens at the clinic, step by step
 
@@ -77,20 +84,16 @@ My rule: if it is life-threatening, call 119 and do not wait. If you are only un
 
 ## Quick checklist
 
-- Save 119, 1339 and 1330 in your phone today
-
-- Put your ARC, insurance card and a payment card in one pouch
-
-- Keep a symptom note in English with a Korean translation
-
-- Learn three department words: 내과, 이비인후과, 정형외과
-
-- Check NHIS enrollment if you have been here six months
+<ul class="checklist">
+  <li>Save 119, 1339 and 1330 in your phone today</li>
+  <li>Put your ARC, insurance card and a payment card in one pouch</li>
+  <li>Keep a symptom note in English with a Korean translation</li>
+  <li>Learn three department words: 내과, 이비인후과, 정형외과</li>
+  <li>Check NHIS enrollment if you have been here six months</li>
+</ul>
 
 ## Next on Seoul Settled
 
 Next up: finding an apartment in Korea, with jeonse, wolse and key money explained without the jargon.
-
-What was your most confusing moment at a Korean clinic or pharmacy? Tell me in the comments and I will cover it in a future guide.
 
 *Checked against the Korea Tourism Organization and Working Holiday Info Center pages in October 2026. Medical rules and hours change, so confirm with the hospital before you go. This guide is general information, not medical advice.*

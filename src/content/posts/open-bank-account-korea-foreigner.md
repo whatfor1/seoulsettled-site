@@ -1,5 +1,7 @@
 ---
 title: "Open a Korean Bank Account as a Foreigner (2026 Guide)"
+displayTitle: "Opening a Korean Bank Account"
+topic: "money"
 slug: "open-bank-account-korea-foreigner"
 date: 2026-10-10
 description: "You can’t get paid, pay rent or use most Korean apps without a Korean bank account, and the first branch visit is where plans fall apart: wrong document,…"
@@ -11,10 +13,10 @@ tags:
   - "Seoul Life"
   - "Step-by-Step Guides"
 hero:
-  src: "https://images.unsplash.com/photo-1643134756961-e2f24abc2919?w=1200&q=80&auto=format&fit=crop"
-  alt: "A Korean 10,000 won banknote"
-  credit: "minho jeong on Unsplash"
-  creditUrl: "https://unsplash.com/@pushingho"
+  src: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Kookmin_Bank_Okcheon_Branch_20240730.jpg/1920px-Kookmin_Bank_Okcheon_Branch_20240730.jpg"
+  alt: "A Kookmin Bank branch in South Korea"
+  credit: "LandAndTree, CC0, via Wikimedia Commons"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Kookmin_Bank_Okcheon_Branch_20240730.jpg"
 ---
 
 You can’t get paid, pay rent or use most Korean apps without a Korean bank account, and the first branch visit is where plans fall apart: wrong document, wrong phone, a “restricted” account you didn’t ask for. Here’s how to open a bank account in Korea as a foreigner, in the right order, so you only go once.
@@ -54,8 +56,8 @@ If a document is missing, the bank can open a restricted account. According to t
 KB Kookmin Bank says foreigners aged 19 or older who live in Korea can open an account and sign up for internet banking in its [KB Star Banking app](https://kbthink.com/saving-guide/foreigner-account.html). You need:
 
 <figure class="fig">
-  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Kookmin_Bank_Okcheon_Branch_20240730.jpg/1920px-Kookmin_Bank_Okcheon_Branch_20240730.jpg" alt="A Kookmin Bank branch in South Korea" loading="lazy" decoding="async" />
-  <figcaption>Photo: <a href="https://commons.wikimedia.org/wiki/File:Kookmin_Bank_Okcheon_Branch_20240730.jpg" rel="nofollow noopener">LandAndTree, CC0, via Wikimedia Commons</a></figcaption>
+  <img src="https://images.unsplash.com/photo-1643134756961-e2f24abc2919?w=1200&q=80&auto=format&fit=crop" alt="A Korean 10,000 won banknote" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://unsplash.com/@pushingho" rel="nofollow noopener">minho jeong on Unsplash</a></figcaption>
 </figure>
 
 - A phone registered in your own name with a Korean carrier. Foreign carriers and prepaid SIMs don’t work for identity checks.
@@ -78,22 +80,17 @@ The Seoul city page says you can send up to $50,000 out of the country at once (
 
 ## Checklist
 
-- Passport and residence card (valid, not expired)
-
-- Certificate of employment or other proof of purpose
-
-- Proof of Korean address if you don’t have the card yet
-
-- Korean phone number in your own name
-
-- Time before 4 p.m. on a weekday
-
-- Request: debit card, online banking, higher limits
+<ul class="checklist">
+  <li>Passport and residence card (valid, not expired)</li>
+  <li>Certificate of employment or other proof of purpose</li>
+  <li>Proof of Korean address if you don’t have the card yet</li>
+  <li>Korean phone number in your own name</li>
+  <li>Time before 4 p.m. on a weekday</li>
+  <li>Request: debit card, online banking, higher limits</li>
+</ul>
 
 ## What’s next
 
 Once the account is open, the next big question is your phone plan: prepaid or postpaid. That’s the next guide here.
-
-**Your turn:** Which bank did you open your account with, and was the process smoother than you expected? Tell me in the comments.
 
 *Checked against official sources in October 2026. Banks and branches set their own rules, so confirm at the counter.*

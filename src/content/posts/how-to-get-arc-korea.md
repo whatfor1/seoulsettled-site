@@ -1,5 +1,10 @@
 ---
 title: "How to Get Your ARC in Korea: Step-by-Step Guide (2026)"
+displayTitle: "How to Get Your ARC in Korea"
+keyFact:
+  label: "to register after you arrive"
+  value: "90 days"
+topic: "arriving"
 slug: "how-to-get-arc-korea"
 date: 2026-10-09
 description: "You landed in Korea, the jet lag is fading, and then someone at work or school asks: \"Did you get your ARC yet?\" Here's the catch nobody tells you on the…"
@@ -12,10 +17,10 @@ tags:
   - "Step-by-Step Guides"
   - "Visa & Immigration"
 hero:
-  src: "https://images.unsplash.com/photo-1747115084263-afbe6739b7ba?w=1200&q=80&auto=format&fit=crop"
-  alt: "Passports resting on a fabric surface"
-  credit: "Jakub Żerdzicki on Unsplash"
-  creditUrl: "https://unsplash.com/@jakubzerdzicki"
+  src: "https://upload.wikimedia.org/wikipedia/commons/0/06/ICN_T2_arrival.jpg"
+  alt: "The arrivals hall at Incheon International Airport — the 90-day clock starts here"
+  credit: "AirportTerminalGuy, CC BY 4.0, via Wikimedia Commons"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:ICN_T2_arrival.jpg"
 ---
 
 You landed in Korea, the jet lag is fading, and then someone at work or school asks: "Did you get your ARC yet?" Here's the catch nobody tells you on the plane: the clock started the day you entered the country. If you're staying more than 90 days, you have 90 days to register, and almost everything else in Korean life (bank account, phone plan, lease) is easier with the card in your hand.
@@ -37,6 +42,11 @@ According to that same page, you'll need the card for many everyday things, incl
 - working legally in Korea
 
 In other words: get this done first, and the rest of your setup gets much easier.
+
+<figure class="fig">
+  <img src="https://images.unsplash.com/photo-1747115084263-afbe6739b7ba?w=1200&q=80&auto=format&fit=crop" alt="Passports resting on a fabric surface" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://unsplash.com/@jakubzerdzicki" rel="nofollow noopener">Jakub Żerdzicki on Unsplash</a></figcaption>
+</figure>
 
 ## Who needs an ARC, and the 90-day deadline
 
@@ -99,6 +109,11 @@ How long does it take? The official sources give slightly different numbers: the
 
 You can receive the card **in person** at the office where you applied **or by mail**, per the Seoul guidebook. If you choose mail, double-check the address on your form; a typo here means a second trip.
 
+<figure class="fig">
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Passport_documents_desk_%28Unsplash%29.jpg/1920px-Passport_documents_desk_%28Unsplash%29.jpg" alt="Passport and documents laid out on a desk" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://commons.wikimedia.org/w/index.php?curid=61806677" rel="nofollow noopener">Alex Robert alexrobert, CC0, via Wikimedia Commons</a></figcaption>
+</figure>
+
 ## After you get your card: three things to remember
 
 1. **Moved? Report it within 15 days.** Under Article 36 of the Immigration Act, registered foreigners must report a new address within 15 days of moving in (some older pages still say 14, so don't cut it close). There's no fee, and you can do it in person (immigration office or your local community service center) or online through HiKorea. Full steps in my [address change guide](/report-address-change-korea-arc-15-days/).
@@ -109,30 +124,20 @@ You can receive the card **in person** at the office where you applied **or by m
 
 ## Quick checklist
 
-- ☐ Entry date noted, 90-day deadline in my calendar
-
-- ☐ Passport
-
-- ☐ One 3.5 × 4.5 cm color photo, white background
-
-- ☐ Visa-specific documents + proof of address
-
-- ☐ 35,000 KRW (cash to be safe)
-
-- ☐ HiKorea reservation at the office covering my address
-
-- ☐ Receipt kept after fingerprinting
-
-- ☐ Pickup or mail address double-checked
-
+<ul class="checklist">
+  <li>Entry date noted, 90-day deadline in my calendar</li>
+  <li>Passport</li>
+  <li>One 3.5 × 4.5 cm color photo, white background</li>
+  <li>Visa-specific documents + proof of address</li>
+  <li>35,000 KRW (cash to be safe)</li>
+  <li>HiKorea reservation at the office covering my address</li>
+  <li>Receipt kept after fingerprinting</li>
+  <li>Pickup or mail address double-checked</li>
+</ul>
 ## Final thoughts
 
 Getting your ARC in Korea isn't hard, but it is unforgiving about details: the right office, the right photo size, the right documents for your visa. Book early, bring copies, and you'll walk out with a receipt on the first try.
 
 Once your card arrives, the next big step is money. In my next post, I'll cover **opening a Korean bank account as a foreigner**. And if you haven't set up your phone yet, start with my list of [10 Korean apps every foreigner in Seoul needs](/korean-apps-for-foreigners-in-seoul/).
 
-**Over to you:** Which document tripped you up at immigration, or what are you still unsure about? Leave a comment and I'll try to answer it in a future post.
-
 *Rules and fees can change. This post was checked against official sources in October 2026; always confirm the latest on HiKorea or by calling 1345.*
-
-*Photos: Photo by Jakub Żerdzicki on Unsplash; Photo by Evgeny Matveev on Unsplash.*

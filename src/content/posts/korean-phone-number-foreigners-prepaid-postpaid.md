@@ -1,5 +1,7 @@
 ---
 title: "Korean Phone Number for Foreigners: Prepaid vs Postpaid"
+displayTitle: "Getting a Korean Phone Number"
+topic: "money"
 slug: "korean-phone-number-foreigners-prepaid-postpaid"
 date: 2026-10-11
 description: "Getting a Korean phone number is a chicken-and-egg problem: you need a number for banking apps and delivery, but the best plans need a residence card you…"
@@ -11,10 +13,10 @@ tags:
   - "Seoul Life"
   - "Step-by-Step Guides"
 hero:
-  src: "https://images.unsplash.com/photo-1720048171286-72ebdbe3eb5b?w=1200&q=80&auto=format&fit=crop"
-  alt: "A hand holding a small card next to a mobile device"
-  credit: "Photo via Unsplash"
-  creditUrl: "https://unsplash.com/photos/a-person-holding-a-cell-phone-in-their-hand-5fJYkeN2HxA"
+  src: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Mobile_phone_shop_in_South_Korea_2021_%28inside%29.jpg"
+  alt: "Inside a mobile phone shop in South Korea"
+  credit: "Piotrus, CC BY-SA 4.0, via Wikimedia Commons"
+  creditUrl: "https://commons.wikimedia.org/w/index.php?curid=104175277"
 ---
 
 Getting a Korean phone number is a chicken-and-egg problem: you need a number for banking apps and delivery, but the best plans need a residence card you don’t have yet. Here is how to get a Korean phone number as a foreigner, in the right order, and when prepaid beats postpaid.
@@ -50,8 +52,8 @@ Most people wait a few weeks for the card. If you haven’t started, read [how t
 Bring your ARC, passport and your account or card details to a store. The Korea.net clerk also warns that the plan you qualify for can depend on your visa type, so ask what your visa allows.
 
 <figure class="fig">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Mobile_phone_shop_in_South_Korea_2021_%28inside%29.jpg" alt="Inside a mobile phone shop in South Korea" loading="lazy" decoding="async" />
-  <figcaption>Photo: <a href="https://commons.wikimedia.org/w/index.php?curid=104175277" rel="nofollow noopener">Piotrus, CC BY-SA 4.0, via Wikimedia Commons</a></figcaption>
+  <img src="https://images.unsplash.com/photo-1720048171286-72ebdbe3eb5b?w=1200&q=80&auto=format&fit=crop" alt="A hand holding a small card next to a mobile device" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://unsplash.com/photos/a-person-holding-a-cell-phone-in-their-hand-5fJYkeN2HxA" rel="nofollow noopener">Photo via Unsplash</a></figcaption>
 </figure>
 
 You don’t have to figure out the Korean on your own. The same article lists English-capable help lines, though these are from 2019 and may have changed, so confirm on each carrier’s site: SK Telecom 080-011-6000, KT 02-2190-1180, LG U+ 1544-0010. The Seoul Global Center also lists a mobile-service line at 02-2075-4134.
@@ -82,15 +84,13 @@ Prices change often, so I won’t list them here. Compare these instead:
 
 ## Checklist before you go to the store
 
-- Passport
-
-- ARC (for postpaid and most MVNO plans)
-
-- Korean bank account or credit card details
-
-- Your phone, unlocked, so the SIM works
-
-- Your current Korean address, if you’ve moved since registering
+<ul class="checklist">
+  <li>Passport</li>
+  <li>ARC (for postpaid and most MVNO plans)</li>
+  <li>Korean bank account or credit card details</li>
+  <li>Your phone, unlocked, so the SIM works</li>
+  <li>Your current Korean address, if you’ve moved since registering</li>
+</ul>
 
 ## Common mistakes
 
@@ -107,5 +107,3 @@ Prices change often, so I won’t list them here. Compare these instead:
 Once you have a number, the next problem is getting around. Next post: how to use Naver Map when Google Maps fails you.
 
 *Checked against official sources in October 2026. Carrier rules change, so confirm at the store.*
-
-**Your turn:** did you start on prepaid or go straight to postpaid? Tell me in the comments what surprised you.

@@ -1,13 +1,29 @@
 ---
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
+import { sized } from '../lib/img';
 
 const base = import.meta.env.BASE_URL;
-const href = (p: string) => (base.replace(/\/$/, '') + '/' + p.replace(/^\//, ''));
+const href = (p: string) => base.replace(/\/$/, '') + '/' + p.replace(/^\//, '');
 
 const posts = (await getCollection('posts', ({ data }) => !data.draft)).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
 );
+const bySlug = Object.fromEntries(posts.map((p) => [p.data.slug, p]));
+
+const ARC = 'how-to-get-arc-korea';
+const MOVE = 'report-address-change-korea-arc-15-days';
+const NHIS = 'korea-national-health-insurance-foreigners-cost';
+const start = bySlug[ARC];
+
+const TOPICS = [
+  { key: 'arriving', title: 'Arriving and staying legal' },
+  { key: 'money', title: 'Money, phone and paperwork' },
+  { key: 'home', title: 'Your home' },
+  { key: 'health', title: 'Health' },
+  { key: 'daily', title: 'Getting around and daily life' },
+] as const;
+
 
 const fmt = (d: Date) =>
   d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
@@ -18,34 +34,128 @@ const fmt = (d: Date) =>
   description="Practical, step-by-step guides to living in Korea — visas, banking, housing, healthcare and everyday life, checked against official sources."
 >
   <section class="wrap lede">
-    <h1>The parts of moving to Korea nobody explains.</h1>
-    <p>
-      Step-by-step guides to the paperwork, the deadlines and the daily logistics — written
-      in Seoul, and checked against the government pages they come from.
-    </p>
+    <div class="lede-text">
+      <h1 data-rise>Settling in Korea, step by step.</h1>
+      <p data-rise style="--rise-delay:70ms">
+        Three clocks start the day you land. The paperwork, the deadlines and the daily
+        logistics nobody explains before you arrive — checked against the government pages
+        they come from.
+      </p>
+      <a class="cta" data-rise style="--rise-delay:140ms" href={href(ARC + '/')}>
+        Start here: getting your ARC
+      </a>
+    </div>
+
+    {start?.data.hero && (
+      <figure class="arrival" data-rise style="--rise-delay:120ms">
+        <div class="arrival-media">
+        <img src={sized(start.data.hero.src, 1280)} alt={start.data.hero.alt} fetchpriority="high" decoding="async" />
+
+        <!-- the live thing: the dates that matter, counted from the reader's own arrival -->
+        <div class="clocks" id="clocks">
+          <label class="clocks-input">
+            <span>I arrived in Korea on</span>
+            <input type="date" id="arrived" />
+          </label>
+          <ol class="clocks-list">
+            <li>
+              <a href={href(ARC + '/')}>
+                <b>90 days</b>
+                <span class="clock-what">Register for your ARC <span class="clock-date" data-add-days="89">within 90 days of arrival</span></span>
+              </a>
+            </li>
+            <li>
+              <a href={href(NHIS + '/')}>
+                <b>6 months</b>
+                <span class="clock-what">Health insurance begins without a Korean employer <span class="clock-date" data-add-months="6">after six months</span></span>
+              </a>
+            </li>
+            <li>
+              <a href={href(MOVE + '/')}>
+                <b>15 days</b>
+                <span class="clock-what">Report your new address <span class="clock-rule">after every move</span></span>
+              </a>
+            </li>
+          </ol>
+          <p class="clocks-note">Dates are counted conservatively from your arrival. Book early — appointment slots fill up.</p>
+        </div>
+        </div>
+
+        {start.data.hero.credit && (
+          <figcaption class="credit">
+            Photo:{' '}
+            <a href={start.data.hero.creditUrl} rel="nofollow noopener">{start.data.hero.credit}</a>
+          </figcaption>
+        )}
+      </figure>
+    )}
   </section>
 
-  <div class="wrap">
-    <p class="index-head">All guides · {posts.length}</p>
-    <ul class="index">
-      {posts.map((post) => (
-        <li>
-          <a class={`entry${post.data.keyFact ? ' has-fact' : ''}`} href={href(post.data.slug + '/')}>
-            <h2 class="entry-title">{post.data.title}</h2>
-            <p class="entry-desc">{post.data.description}</p>
-            <p class="entry-meta">
-              <span>{fmt(post.data.date)}</span>
-              {post.data.tags.slice(0, 2).map((t) => <span>{t}</span>)}
-            </p>
-            {post.data.keyFact && (
-              <p class="entry-fact">
-                <b>{post.data.keyFact.value}</b>
-                <small>{post.data.keyFact.label}</small>
-              </p>
-            )}
-          </a>
-        </li>
-      ))}
-    </ul>
+  <div class="wrap guides">
+    {TOPICS.map((t) => {
+      const group = posts.filter((p) => p.data.topic === t.key);
+      if (!group.length) return null;
+      return (
+        <section class="topic" id={t.key}>
+          <h2 class="index-head" data-rise>{t.title}</h2>
+          <ul class="index">
+            {group.map((post) => (
+              <li data-rise>
+                <a class={`entry${post.data.hero ? ' has-thumb' : ''}`} href={href(post.data.slug + '/')}>
+                  <span class="entry-text">
+                    <span class="entry-title">{post.data.displayTitle ?? post.data.title}</span>
+                    <span class="entry-desc">{post.data.description}</span>
+                    <span class="entry-meta">
+                      {post.data.keyFact && (
+                        <span class="entry-fact">{post.data.keyFact.value} {post.data.keyFact.label}</span>
+                      )}
+                      <span>{fmt(post.data.date)}</span>
+                    </span>
+                  </span>
+                  {post.data.hero && (
+                    <img class="thumb" src={sized(post.data.hero.src, 500)} alt="" loading="lazy" decoding="async" />
+                  )}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      );
+    })}
   </div>
+
+  <script is:inline>
+    // Without this script the clocks still read as rules ("within 90 days of arrival").
+    // With it, they become the reader's own dates.
+    (function () {
+      var input = document.getElementById('arrived');
+      if (!input) return;
+      var pad = function (n) { return (n < 10 ? '0' : '') + n; };
+      var iso = function (d) { return d.getFullYear() + '-' + pad(d.getMonth() + 1) + '-' + pad(d.getDate()); };
+      var show = function (d) {
+        return d.toLocaleDateString('en-GB', { weekday: 'short', day: 'numeric', month: 'short', year: 'numeric' });
+      };
+      var saved = null;
+      try { saved = localStorage.getItem('ss-arrived'); } catch (e) {}
+      input.value = saved || iso(new Date());
+
+      function render() {
+        var parts = input.value.split('-');
+        if (parts.length !== 3) return;
+        var a = new Date(+parts[0], +parts[1] - 1, +parts[2]);
+        if (isNaN(a)) return;
+        document.querySelectorAll('[data-add-days]').forEach(function (el) {
+          var d = new Date(a); d.setDate(d.getDate() + +el.dataset.addDays);
+          el.textContent = 'by ' + show(d);
+        });
+        document.querySelectorAll('[data-add-months]').forEach(function (el) {
+          var d = new Date(a); d.setMonth(d.getMonth() + +el.dataset.addMonths);
+          el.textContent = 'from about ' + show(d);
+        });
+        try { localStorage.setItem('ss-arrived', input.value); } catch (e) {}
+      }
+      input.addEventListener('input', render);
+      render();
+    })();
+  </script>
 </Base>

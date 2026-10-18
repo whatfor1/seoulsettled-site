@@ -1,5 +1,7 @@
 ---
 title: "Order Food Delivery in Korea Without Speaking Korean"
+displayTitle: "Food Delivery Without Korean"
+topic: "daily"
 slug: "order-food-delivery-korea-foreigners"
 date: 2026-10-13
 description: "It's 9 p.m., you're hungry, the fridge is empty, and every delivery app on your phone is in Korean or wants a phone number you don't have. Ordering food…"
@@ -10,10 +12,10 @@ tags:
   - "Daily Life"
   - "Food"
 hero:
-  src: "https://images.unsplash.com/photo-1769558688746-7ac36d8ce999?w=1200&q=80&auto=format&fit=crop"
-  alt: "A table of Korean dishes and side dishes"
-  credit: "Anbinh Pho on Unsplash"
-  creditUrl: "https://unsplash.com/@anbinhpho"
+  src: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Seoul_street_food_2011_march_02.jpg/1920px-Seoul_street_food_2011_march_02.jpg"
+  alt: "A street food stall in Seoul"
+  credit: "LinasD, CC BY-SA 4.0, via Wikimedia Commons"
+  creditUrl: "https://commons.wikimedia.org/w/index.php?curid=78575904"
 ---
 
 It's 9 p.m., you're hungry, the fridge is empty, and every delivery app on your phone is in Korean or wants a phone number you don't have. Ordering food delivery in Korea as a foreigner got a lot easier in 2026, but only if you pick the right app and know which advice online is outdated. Here is how to order delivery in Korea without speaking Korean.
@@ -47,8 +49,8 @@ Jun's tip: restaurant names and menu items are often still Korean, because resta
 This is the part that changes fastest. As reported by Korea Sorted, Baemin's operator said in August that foreigners can order as a guest after a text-message check of an overseas phone number, while a full account needs a Korean number and an alien registration number. If you already have your ARC, my guide to [getting your ARC in Korea](/how-to-get-arc-korea/) covers that card.
 
 <figure class="fig">
-  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Seoul_street_food_2011_march_02.jpg/1920px-Seoul_street_food_2011_march_02.jpg" alt="A street food stall in Seoul" loading="lazy" decoding="async" />
-  <figcaption>Photo: <a href="https://commons.wikimedia.org/w/index.php?curid=78575904" rel="nofollow noopener">LinasD, CC BY-SA 4.0, via Wikimedia Commons</a></figcaption>
+  <img src="https://images.unsplash.com/photo-1769558688746-7ac36d8ce999?w=1200&q=80&auto=format&fit=crop" alt="A table of Korean dishes and side dishes" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://unsplash.com/@anbinhpho" rel="nofollow noopener">Anbinh Pho on Unsplash</a></figcaption>
 </figure>
 
 Rules like this move, so treat the screen in front of you as the final word. If the app asks for something not mentioned here, follow the app.
@@ -60,6 +62,11 @@ Korea Tourism Organization describes Shuttle as [a food delivery app designed sp
 ## Coupang Eats and Yogiyo
 
 Both list English in app stores, but I couldn't find an official statement from either about foreign phone numbers or foreign cards. A language list in an app store also doesn't tell you which screens are really translated. Install one, open the checkout screen, and see what it asks before you count on it.
+
+<figure class="fig">
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Korea_Jeongseon_Traditional_Market_Train_01_%2814202146040%29.jpg/1920px-Korea_Jeongseon_Traditional_Market_Train_01_%2814202146040%29.jpg" alt="A traditional market in Korea" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://commons.wikimedia.org/w/index.php?curid=33680879" rel="nofollow noopener">Korea.net / Korean Culture and Information Service (Jeon Han), CC BY-SA 2.0, via Wikimedia Commons</a></figcaption>
+</figure>
 
 ## Paying: cards, Apple Pay, and what to prepare
 
@@ -73,13 +80,12 @@ Both list English in app stores, but I couldn't find an official statement from 
 
 ## Delivery-day checklist
 
-- Write your address in Korean (한글) and your building entrance details in the delivery note.
-
-- Include a phone number that can receive calls or texts, because riders often call at the door.
-
-- Choose “leave at the door” if you don't want a conversation in Korean.
-
-- Set a minimum-order budget; many restaurants have one.
+<ul class="checklist">
+  <li>Write your address in Korean (한글) and your building entrance details in the delivery note.</li>
+  <li>Include a phone number that can receive calls or texts, because riders often call at the door.</li>
+  <li>Choose “leave at the door” if you don't want a conversation in Korean.</li>
+  <li>Set a minimum-order budget; many restaurants have one.</li>
+</ul>
 
 Jun's tip: apartment buildings are the number one reason a delivery fails. Add the gate code or the words “call on arrival” to the note, and keep your phone on loud for ten minutes after the rider picks up.
 
@@ -93,4 +99,4 @@ Jun's tip: apartment buildings are the number one reason a delivery fails. Add t
 
 ## Next up
 
-Next I'll explain how to see a doctor in Seoul: which clinics take walk-ins, what to bring, and what it costs. Which delivery app worked for you, and what went wrong at checkout? Tell me in the comments.
+Next I'll explain how to see a doctor in Seoul: which clinics take walk-ins, what to bring, and what it costs.

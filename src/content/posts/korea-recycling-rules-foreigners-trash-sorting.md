@@ -1,5 +1,7 @@
 ---
 title: "Korea Recycling Rules for Foreigners: Trash Sorting Guide"
+displayTitle: "Korea Recycling Rules"
+topic: "home"
 slug: "korea-recycling-rules-foreigners-trash-sorting"
 date: 2026-10-15
 description: "You carried your trash downstairs, and a neighbor stared at the bag like you had set something on fire. Korea recycling rules for foreigners are confusing…"
@@ -10,10 +12,10 @@ tags:
   - "Daily Life"
   - "Living in Korea"
 hero:
-  src: "https://images.unsplash.com/photo-1653406384710-08688ec6b979?w=1200&q=80&auto=format&fit=crop"
-  alt: "Plastic bottles collected in a recycling cage"
-  credit: "Killari Hotaru on Unsplash"
-  creditUrl: "https://unsplash.com/@killari_hotaru"
+  src: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Soju_bottles_in_a_glass_recycling_bin%2C_near_apartment_complex%2C_in_Korea.jpg/1920px-Soju_bottles_in_a_glass_recycling_bin%2C_near_apartment_complex%2C_in_Korea.jpg"
+  alt: "Soju bottles in a glass recycling bin beside a Korean apartment complex"
+  credit: "Piotrus, CC BY-SA 4.0, via Wikimedia Commons"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Soju_bottles_in_a_glass_recycling_bin,_near_apartment_complex,_in_Korea.jpg"
 ---
 
 You carried your trash downstairs, and a neighbor stared at the bag like you had set something on fire. Korea recycling rules for foreigners are confusing at first, because you can’t just throw everything in one bin. This guide explains the bags, the sorting, and the timing, so you stop guessing.
@@ -39,8 +41,8 @@ The most important detail: bags are district-specific. The Jung-gu page says dif
 Food waste is where most newcomers slip. Seoul’s [food waste disposal standard](https://english.seoul.go.kr/seoul-distributes-outline-of-food-waste-disposal-standard-in-ten-languages-for-foreign-residents/), distributed in ten languages, says to remove moisture and impurities before disposal. It also says to rinse salty foods such as kimchi and gochujang, and to chop big vegetables like whole radishes and cabbages, because long pieces can break the machines.
 
 <figure class="fig">
-  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Soju_bottles_in_a_glass_recycling_bin%2C_near_apartment_complex%2C_in_Korea.jpg/1920px-Soju_bottles_in_a_glass_recycling_bin%2C_near_apartment_complex%2C_in_Korea.jpg" alt="Soju bottles in a glass recycling bin beside a Korean apartment complex" loading="lazy" decoding="async" />
-  <figcaption>Photo: <a href="https://commons.wikimedia.org/wiki/File:Soju_bottles_in_a_glass_recycling_bin,_near_apartment_complex,_in_Korea.jpg" rel="nofollow noopener">Piotrus, CC BY-SA 4.0, via Wikimedia Commons</a></figcaption>
+  <img src="https://images.unsplash.com/photo-1653406384710-08688ec6b979?w=1200&q=80&auto=format&fit=crop" alt="Plastic bottles collected in a recycling cage" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://unsplash.com/@killari_hotaru" rel="nofollow noopener">Killari Hotaru on Unsplash</a></figcaption>
 </figure>
 
 The same standard lists items that are NOT food waste, including:
@@ -85,22 +87,17 @@ The same Jung-gu page says penalties for illegal disposal range from 100,000 won
 
 ## Quick checklist
 
-- Buy bags from your own district
-
-- White bag for general waste, yellow bag for food waste only
-
-- Drain food waste and remove bones, shells and skins
-
-- Rinse recyclables and sort them by material
-
-- Put trash out from sunset to midnight on your district’s day
-
-- Report bulky items before dumping them
+<ul class="checklist">
+  <li>Buy bags from your own district</li>
+  <li>White bag for general waste, yellow bag for food waste only</li>
+  <li>Drain food waste and remove bones, shells and skins</li>
+  <li>Rinse recyclables and sort them by material</li>
+  <li>Put trash out from sunset to midnight on your district’s day</li>
+  <li>Report bulky items before dumping them</li>
+</ul>
 
 I checked these rules against official Seoul and Jung-gu pages in October 2026. Details vary by district, so confirm your own gu’s collection days.
 
 ## What’s next
 
 If you are new to the neighborhood, you’ll also need coverage for the doctor visits. Next time: National Health Insurance for foreigners, who pays and how much. Settling in? My guide to [renting an apartment in Korea](/jeonse-wolse-renting-apartment-korea-foreigners/) covers the move-in side.
-
-**Your turn:** What is the one trash rule in Korea that confused you the most? Tell me in the comments.

@@ -1,5 +1,10 @@
 ---
 title: "Report Address Change in Korea: 15-Day ARC Rule Guide"
+displayTitle: "Reporting an Address Change"
+keyFact:
+  label: "to report a move"
+  value: "15 days"
+topic: "arriving"
 slug: "report-address-change-korea-arc-15-days"
 date: 2026-10-17
 description: "Moving apartments in Korea and forgetting the address report is one of the easiest ways for a foreigner to pick up a fine. Here is how to report a change…"
@@ -10,10 +15,10 @@ tags:
   - "Living in Korea"
   - "Visa & Residency"
 hero:
-  src: "https://images.unsplash.com/photo-1714647211902-bb711d643a17?w=1200&q=80&auto=format&fit=crop"
-  alt: "Unpacking moving boxes in a new living room"
-  credit: "Photo via Unsplash"
-  creditUrl: "https://unsplash.com/photos/a-woman-moving-boxes-in-a-living-room-wS40ELZROLE"
+  src: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Wide_view_of_Nowon-gu_Apartment_buildings.jpg/1920px-Wide_view_of_Nowon-gu_Apartment_buildings.jpg"
+  alt: "Apartment buildings in Nowon-gu, Seoul"
+  credit: "Ox1997cow, CC BY-SA 3.0, via Wikimedia Commons"
+  creditUrl: "https://commons.wikimedia.org/w/index.php?curid=121586717"
 ---
 
 Moving apartments in Korea and forgetting the address report is one of the easiest ways for a foreigner to pick up a fine. Here is how to report a change of address in Korea, step by step, and what to bring so you only go once.
@@ -45,8 +50,8 @@ You can also apply online through [HiKorea](https://www.hikorea.go.kr). The Hana
 Based on the same official pages:
 
 <figure class="fig">
-  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Wide_view_of_Nowon-gu_Apartment_buildings.jpg/1920px-Wide_view_of_Nowon-gu_Apartment_buildings.jpg" alt="Apartment buildings in Nowon-gu, Seoul" loading="lazy" decoding="async" />
-  <figcaption>Photo: <a href="https://commons.wikimedia.org/w/index.php?curid=121586717" rel="nofollow noopener">Ox1997cow, CC BY-SA 3.0, via Wikimedia Commons</a></figcaption>
+  <img src="https://images.unsplash.com/photo-1714647211902-bb711d643a17?w=1200&q=80&auto=format&fit=crop" alt="Unpacking moving boxes in a new living room" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://unsplash.com/photos/a-woman-moving-boxes-in-a-living-room-wS40ELZROLE" rel="nofollow noopener">Photo via Unsplash</a></figcaption>
 </figure>
 
 1. Your passport.
@@ -87,20 +92,16 @@ Don’t panic, but don’t wait. A fine may be imposed once the deadline passes,
 
 ## Checklist before you go
 
-- Move-in date confirmed
-
-- Passport and ARC in your bag
-
-- Lease or other proof of address
-
-- Application form filled in
-
-- Within 15 days of moving
+<ul class="checklist">
+  <li>Move-in date confirmed</li>
+  <li>Passport and ARC in your bag</li>
+  <li>Lease or other proof of address</li>
+  <li>Application form filled in</li>
+  <li>Within 15 days of moving</li>
+</ul>
 
 ## Next up and your turn
 
 Once your address is sorted, next time I’ll walk through how to set up utilities and a home internet plan in Korea without speaking Korean.
-
-Have you reported a move before? Tell me in the comments which office you used and how long it took. I’d like to compare notes.
 
 *Rules change, so I checked this against official sources in October 2026. Confirm the latest details on HiKorea or by calling 1345 before you go.*

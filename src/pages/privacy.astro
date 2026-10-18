@@ -1,35 +1,36 @@
 ---
 import Base from '../layouts/Base.astro';
+const about = import.meta.env.BASE_URL.replace(/\/$/, '') + '/about/';
 ---
 <Base title="Privacy Policy" description="What data is collected when you visit Seoul Settled, and how it is used.">
   <section class="wrap page">
-    <h1>Privacy Policy</h1>
-    <p>Last updated: October 2026</p>
+    <h1 data-rise>Privacy Policy</h1>
+    <p data-rise>Last updated: October 2026</p>
 
-    <p>Seoul Settled is a personal blog publishing practical guides for foreigners living in Korea. This
+    <p data-rise>Seoul Settled is a personal blog publishing practical guides for foreigners living in Korea. This
     page explains what data is collected when you visit, and how it is used.</p>
 
-    <h2>Cookies and advertising</h2>
-    <p>Third-party vendors, including Google, may use cookies to serve ads based on your prior visits to
+    <h2 data-rise>Cookies and advertising</h2>
+    <p data-rise>Third-party vendors, including Google, may use cookies to serve ads based on your prior visits to
     this website or other websites. You can opt out of personalised advertising at
     <a href="https://www.google.com/settings/ads" rel="nofollow noopener">Google Ads Settings</a>, or opt
     out of third-party vendor cookies at
     <a href="https://www.aboutads.info/choices/" rel="nofollow noopener">aboutads.info/choices</a>.</p>
 
-    <h2>Analytics</h2>
-    <p>This site may use privacy-respecting analytics to understand which guides people read. This data is
+    <h2 data-rise>Analytics</h2>
+    <p data-rise>This site may use privacy-respecting analytics to understand which guides people read. This data is
     aggregated and is not used to identify you personally.</p>
 
-    <h2>Affiliate links</h2>
-    <p>Some guides may contain affiliate links. If you click one and sign up for a service, this site may
+    <h2 data-rise>Affiliate links</h2>
+    <p data-rise>Some guides may contain affiliate links. If you click one and sign up for a service, this site may
     earn a small commission at no extra cost to you. Affiliate relationships never decide what gets
     recommended — only options worth suggesting to a friend moving to Korea are included.</p>
 
-    <h2>Third-party links</h2>
-    <p>Guides link to official government sources and other third-party sites for accuracy. Seoul Settled
+    <h2 data-rise>Third-party links</h2>
+    <p data-rise>Guides link to official government sources and other third-party sites for accuracy. Seoul Settled
     is not responsible for the privacy practices or content of external sites.</p>
 
-    <h2>Contact</h2>
-    <p>Questions about this policy? See the <a href="../about/">About page</a>.</p>
+    <h2 data-rise>Contact</h2>
+    <p data-rise>Questions about this policy? See the <a href={about}>About page</a>.</p>
   </section>
 </Base>

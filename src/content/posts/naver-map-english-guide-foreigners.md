@@ -1,5 +1,7 @@
 ---
 title: "Naver Map in English: Setup Guide for Foreigners"
+displayTitle: "Naver Map in English"
+topic: "daily"
 slug: "naver-map-english-guide-foreigners"
 date: 2026-10-12
 description: "You open Google Maps in Seoul, type your destination, tap the walking icon and get nothing. No route, no blue line, just a message that directions aren’t…"
@@ -11,10 +13,10 @@ tags:
   - "Seoul Life"
   - "Step-by-Step Guides"
 hero:
-  src: "https://images.unsplash.com/photo-1786095417599-3a5b39d12aff?w=1200&q=80&auto=format&fit=crop"
-  alt: "N Seoul Tower above Gyeongbokgung Palace and the Seoul skyline"
-  credit: "Kim Mingzhu on Unsplash"
-  creditUrl: "https://unsplash.com/@mingzhu49"
+  src: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Seoul-Myeongdong-01.jpg/1920px-Seoul-Myeongdong-01.jpg"
+  alt: "A busy street in Myeongdong, Seoul"
+  credit: "by Tom@HK, CC BY 2.0, via Wikimedia Commons"
+  creditUrl: "https://commons.wikimedia.org/w/index.php?curid=2766630"
 ---
 
 You open Google Maps in Seoul, type your destination, tap the walking icon and get nothing. No route, no blue line, just a message that directions aren’t available. It’s not your phone. Here is how to use Naver Map in English, why Google Maps fails in Korea, and the settings that make Naver Map actually pleasant.
@@ -48,8 +50,8 @@ Jun’s tip: do this on home Wi-Fi, not while standing in a station with a crowd
 This is where most foreigners give up. Some app-store reviewers complain that searching by English business names fails and that addresses don’t match. The app is clearly built around Korean text.
 
 <figure class="fig">
-  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Seoul-Myeongdong-01.jpg/1920px-Seoul-Myeongdong-01.jpg" alt="A busy street in Myeongdong, Seoul" loading="lazy" decoding="async" />
-  <figcaption>Photo: <a href="https://commons.wikimedia.org/w/index.php?curid=2766630" rel="nofollow noopener">by Tom@HK, CC BY 2.0, via Wikimedia Commons</a></figcaption>
+  <img src="https://images.unsplash.com/photo-1786095417599-3a5b39d12aff?w=1200&q=80&auto=format&fit=crop" alt="N Seoul Tower above Gyeongbokgung Palace and the Seoul skyline" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://unsplash.com/@mingzhu49" rel="nofollow noopener">Kim Mingzhu on Unsplash</a></figcaption>
 </figure>
 
 - **Paste the Korean name.** If a friend or a website gives you the Korean name (한글), copy it into the search bar. It works far better than a romanized spelling.
@@ -90,22 +92,17 @@ Walking directions are the biggest upgrade over Google Maps. The Play listing sa
 
 ## Quick checklist
 
-- Install Naver Map and set English
-
-- Allow location while using the app
-
-- Save home and work as bookmarks
-
-- Screenshot Korean names for places you’ll visit
-
-- Have mobile data ready
-
-- Install Kakao Map as a backup
+<ul class="checklist">
+  <li>Install Naver Map and set English</li>
+  <li>Allow location while using the app</li>
+  <li>Save home and work as bookmarks</li>
+  <li>Screenshot Korean names for places you’ll visit</li>
+  <li>Have mobile data ready</li>
+  <li>Install Kakao Map as a backup</li>
+</ul>
 
 ## Next up
 
 In the next post I’ll cover ordering delivery in Korea without speaking Korean: which apps work, how to pay and what to do about the address field.
-
-**Your turn:** which Korean app confused you most in your first month? Tell me in the comments and I’ll try to cover it.
 
 *Facts checked against Google’s Maps Platform coverage page and NAVER’s Google Play listing in October 2026. App features change often, so check your own app version.*

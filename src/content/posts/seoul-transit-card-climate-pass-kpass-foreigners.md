@@ -1,5 +1,7 @@
 ---
 title: "Seoul Transit Card for Foreigners: Climate Pass Guide"
+displayTitle: "The Seoul Transit Card"
+topic: "daily"
 slug: "seoul-transit-card-climate-pass-kpass-foreigners"
 date: 2026-10-16
 description: "If you searched for the Seoul Climate Card and found guides telling you to load 62,000 won for unlimited rides, those guides are out of date. The Climate…"
@@ -10,10 +12,10 @@ tags:
   - "Seoul Life"
   - "Transportation"
 hero:
-  src: "https://images.unsplash.com/photo-1737969925456-ef52fbec2c55?w=1200&q=80&auto=format&fit=crop"
-  alt: "A Seoul subway transfer corridor with Korean and English signs"
-  credit: "KS KYUNG on Unsplash"
-  creditUrl: "https://unsplash.com/@mygallery"
+  src: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Seoul-metro-713-Nowon-station-platform-20181122-135330.jpg/1920px-Seoul-metro-713-Nowon-station-platform-20181122-135330.jpg"
+  alt: "A Seoul Metro station platform"
+  credit: "LERK, CC BY-SA 4.0, via Wikimedia Commons"
+  creditUrl: "https://commons.wikimedia.org/w/index.php?curid=78728770"
 ---
 
 If you searched for the Seoul Climate Card and found guides telling you to load 62,000 won for unlimited rides, those guides are out of date. The Climate Card was replaced on September 1, 2026, and the new setup is a bit confusing. This guide explains how the **Seoul transit card for foreigners** works now: what changed, what to buy, and how to get your refund.
@@ -49,8 +51,8 @@ Also, the benefits are only for Seoul residents. The old Climate Card worked for
 The city lists three ways to get an Everyone’s Card:
 
 <figure class="fig">
-  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Seoul-metro-713-Nowon-station-platform-20181122-135330.jpg/1920px-Seoul-metro-713-Nowon-station-platform-20181122-135330.jpg" alt="A Seoul Metro station platform" loading="lazy" decoding="async" />
-  <figcaption>Photo: <a href="https://commons.wikimedia.org/w/index.php?curid=78728770" rel="nofollow noopener">LERK, CC BY-SA 4.0, via Wikimedia Commons</a></figcaption>
+  <img src="https://images.unsplash.com/photo-1737969925456-ef52fbec2c55?w=1200&q=80&auto=format&fit=crop" alt="A Seoul subway transfer corridor with Korean and English signs" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://unsplash.com/@mygallery" rel="nofollow noopener">KS KYUNG on Unsplash</a></figcaption>
 </figure>
 
 1. Apply for a credit or debit card from one of the participating card companies.
@@ -65,6 +67,11 @@ If your address can’t be verified automatically, the Q&A says you can upload a
 
 Jun’s tip: do the registration on a laptop with your browser’s translate feature turned on. It is easier than doing it on a phone while standing at a subway gate.
 
+<figure class="fig">
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Sejong_Bus_T-money.JPG/1920px-Sejong_Bus_T-money.JPG" alt="A T-money transit card reader on a Korean bus" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://commons.wikimedia.org/wiki/File:Sejong_Bus_T-money.JPG" rel="nofollow noopener">hyolee2, CC BY-SA 3.0, via Wikimedia Commons</a></figcaption>
+</figure>
+
 ## What visitors and new arrivals can still buy
 
 If you don’t have an ARC yet, or you’re only here for a short stay, the Climate Card short-term passes continue. Seoul says the 1-, 2-, 3-, 5- and 7-day passes remain available, and they can’t be combined with the monthly program. From October 1, the city says they work within Seoul and for trips ending at Incheon International Airport.
@@ -75,22 +82,18 @@ Jun’s tip: a short-term pass only makes sense if you ride a lot. A regular tra
 
 ## Quick checklist
 
-- Do you have your ARC and a Seoul address?
-
-- Did you pick a card (bank card, convenience store prepaid, or mobile)?
-
-- Did you register the card on your issuer’s site and on K-Pass before riding?
-
-- Did you add a bank account for the monthly refund?
-
-- Did you check the current refund rates? The temporary half-price measure the city announced ran through September, so confirm what applies now.
+<ul class="checklist">
+  <li>Do you have your ARC and a Seoul address?</li>
+  <li>Did you pick a card (bank card, convenience store prepaid, or mobile)?</li>
+  <li>Did you register the card on your issuer’s site and on K-Pass before riding?</li>
+  <li>Did you add a bank account for the monthly refund?</li>
+  <li>Did you check the current refund rates? The temporary half-price measure the city announced ran through September, so confirm what applies now.</li>
+</ul>
 
 ## Final thoughts
 
 The name changed, but the idea is simple: ride with a registered card, and Seoul pays part of it back. Once you’ve done the registration once, you can forget about it. Getting around is easier with a good map, so see my [Naver Map guide](/naver-map-english-guide-foreigners/).
 
 Next up: how to send money abroad from Korea without getting hit by bad exchange rates.
-
-Which transit card do you use in Seoul, and did the registration give you any trouble? Tell me in the comments and I’ll cover it in a future update.
 
 *Checked against official Seoul Metropolitan Government pages in October 2026. Rules change, so confirm on the official site before you act.*

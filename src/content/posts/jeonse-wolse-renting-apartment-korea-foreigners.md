@@ -1,5 +1,7 @@
 ---
 title: "Jeonse vs Wolse in Korea: Renting an Apartment Guide"
+displayTitle: "Jeonse vs Wolse"
+topic: "home"
 slug: "jeonse-wolse-renting-apartment-korea-foreigners"
 date: 2026-10-15
 description: "You found a nice place in Seoul, and the listing says \"전세\" or \"월세\" with a deposit that looks like a typo. Nobody warned you that renting an apartment in…"
@@ -10,10 +12,10 @@ tags:
   - "Housing"
   - "Living in Korea"
 hero:
-  src: "https://images.unsplash.com/photo-1651836173242-7018b32762b7?w=1200&q=80&auto=format&fit=crop"
-  alt: "Apartment blocks across Seoul with mountains behind"
-  credit: "NK Lee on Unsplash"
-  creditUrl: "https://unsplash.com/@nlee02"
+  src: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Daechi_Dongbo_Centreville_Apartment_Complex_2.jpg/1920px-Daechi_Dongbo_Centreville_Apartment_Complex_2.jpg"
+  alt: "An apartment complex in Daechi-dong, Seoul"
+  credit: "kallerna, CC BY-SA 4.0, via Wikimedia Commons"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Daechi_Dongbo_Centreville_Apartment_Complex_2.jpg"
 ---
 
 You found a nice place in Seoul, and the listing says "전세" or "월세" with a deposit that looks like a typo. Nobody warned you that renting an apartment in Korea works nothing like renting back home. Here is how jeonse and wolse work, and what to check before you hand over any money.
@@ -43,8 +45,8 @@ That is why your ARC and your address report are not just admin chores. If you h
 The same portal, citing the HUG jeonse fraud prevention site, lists the key checks before signing:
 
 <figure class="fig">
-  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Daechi_Dongbo_Centreville_Apartment_Complex_2.jpg/1920px-Daechi_Dongbo_Centreville_Apartment_Complex_2.jpg" alt="An apartment complex in Daechi-dong, Seoul" loading="lazy" decoding="async" />
-  <figcaption>Photo: <a href="https://commons.wikimedia.org/wiki/File:Daechi_Dongbo_Centreville_Apartment_Complex_2.jpg" rel="nofollow noopener">kallerna, CC BY-SA 4.0, via Wikimedia Commons</a></figcaption>
+  <img src="https://images.unsplash.com/photo-1651836173242-7018b32762b7?w=1200&q=80&auto=format&fit=crop" alt="Apartment blocks across Seoul with mountains behind" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://unsplash.com/@nlee02" rel="nofollow noopener">NK Lee on Unsplash</a></figcaption>
 </figure>
 
 - Make sure the deposit is appropriate relative to the market price of the home.
@@ -77,6 +79,11 @@ According to the easy law portal, do these after signing:
 
 You can report a change of residence at immigration, a local administrative welfare center, or through [HiKorea](https://www.hikorea.go.kr/). A fixed date can be obtained at the administrative welfare center, district court or registry office, or through the Supreme Court’s Internet Registry Office.
 
+<figure class="fig">
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Legal_Contract_%26_Signature_-_Warm_Tones.jpg/1920px-Legal_Contract_%26_Signature_-_Warm_Tones.jpg" alt="Signing a contract" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://commons.wikimedia.org/w/index.php?curid=55666535" rel="nofollow noopener">Blogtrepreneur, CC BY 2.0, via Wikimedia Commons</a></figcaption>
+</figure>
+
 ## Deposit guarantee insurance and where to get help
 
 For extra protection, the portal suggests a financial guarantee product that covers the refund of your deposit. It lists the Korea Housing & Urban Guarantee Corporation (HUG), the Korea Housing Finance Corporation (HF) and Seoul Guarantee Insurance (SGI). Eligibility differs by provider, so contact them directly.
@@ -85,24 +92,18 @@ If you need advice in English, the Seoul Foreign Resident Center offers real est
 
 ## Quick checklist
 
-- Finish ARC registration and your address report first
-
-- Compare deposit and monthly rent as total cost
-
-- Pull the register copy before signing and again on signing day
-
-- Put every verbal promise in the special terms
-
-- Report your move-in within 15 days and get the fixed date
-
-- Ask about deposit guarantee insurance
-
-- Save 02-2229-4900 for English help
+<ul class="checklist">
+  <li>Finish ARC registration and your address report first</li>
+  <li>Compare deposit and monthly rent as total cost</li>
+  <li>Pull the register copy before signing and again on signing day</li>
+  <li>Put every verbal promise in the special terms</li>
+  <li>Report your move-in within 15 days and get the fixed date</li>
+  <li>Ask about deposit guarantee insurance</li>
+  <li>Save 02-2229-4900 for English help</li>
+</ul>
 
 ## Next on Seoul Settled
 
 Next up: Korea’s recycling rules, decoded, so your new building’s trash room stops being a mystery.
-
-Did a deposit or a contract term surprise you when you rented in Korea? Tell me in the comments and I will cover it in a future guide.
 
 *Checked against the Seoul Metropolitan Government and the Korean easy law portal in October 2026. Rules change and contracts vary, so confirm with a licensed agent or the Seoul Foreign Resident Center. This is general information, not legal advice.*

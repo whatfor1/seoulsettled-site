@@ -70,5 +70,27 @@ const fullTitle = title === siteName ? title : `${title} — ${siteName}`;
         </nav>
       </div>
     </footer>
+
+    <script is:inline>
+      // Entrance motion only. Everything is visible without this script (see .no-js and
+      // the reduced-motion rules in global.css) — nothing here gates content.
+      (function () {
+        var items = document.querySelectorAll('[data-rise]');
+        if (!items.length) return;
+        if (!('IntersectionObserver' in window) ||
+            window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+          items.forEach(function (el) { el.classList.add('in'); });
+          return;
+        }
+        var io = new IntersectionObserver(function (entries) {
+          entries.forEach(function (e) {
+            if (!e.isIntersecting) return;
+            e.target.classList.add('in');
+            io.unobserve(e.target);
+          });
+        }, { rootMargin: '0px 0px -8% 0px', threshold: 0.05 });
+        items.forEach(function (el) { io.observe(el); });
+      })();
+    </script>
   </body>
 </html>
