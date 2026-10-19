@@ -94,6 +94,6 @@ Jun’s tip: a short-term pass only makes sense if you ride a lot. A regular tra
 
 The name changed, but the idea is simple: ride with a registered card, and Seoul pays part of it back. Once you’ve done the registration once, you can forget about it. Getting around is easier with a good map, so see my [Naver Map guide](/naver-map-english-guide-foreigners/).
 
-Next up: how to send money abroad from Korea without getting hit by bad exchange rates.
+Next up: [how to send money abroad from Korea](/send-money-abroad-korea-foreigners/) without getting hit by bad exchange rates.
 
 *Checked against official Seoul Metropolitan Government pages in October 2026. Rules change, so confirm on the official site before you act.*

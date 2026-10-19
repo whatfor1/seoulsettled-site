@@ -19,7 +19,7 @@ keyFact:
   label: "No-document transfer limit for foreign residents"
   value: "$50,000 per year"
 sourcesCheckedOn: 2026-10-19
-draft: true
+draft: false
 ---
 
 Search "Korea overseas remittance limit" right now and most of what comes up says $100,000 a year. That number is real, it started in January 2026, and it does not apply to you if you're here on a foreign passport. The Korea Federation of Banks' own guidance names the new $100,000 allowance for "residents, excluding foreign residents." Foreign residents are still working with the older $50,000 figure. This guide is the version for that second group: what the real limit is, what triggers paperwork, what it costs, and what to do if a transfer gets stuck.
