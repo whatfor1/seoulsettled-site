@@ -102,6 +102,6 @@ Don’t panic, but don’t wait. A fine may be imposed once the deadline passes,
 
 ## Next up and your turn
 
-Once your address is sorted, next time I’ll walk through how to set up utilities and a home internet plan in Korea without speaking Korean.
+Once your address is sorted, here's [how to pay your utility bills and set up home internet](/pay-utility-bills-internet-setup-korea-foreigners/) in Korea without speaking Korean.
 
 *Rules change, so I checked this against official sources in October 2026. Confirm the latest details on HiKorea or by calling 1345 before you go.*
