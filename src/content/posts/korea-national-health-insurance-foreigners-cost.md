@@ -90,4 +90,4 @@ I checked these figures against NHIS’s own pages in October 2026. Rates change
 
 ## Next up
 
-Next time I’ll cover the Korean tax basics for foreigners, including what the year-end settlement is and when it happens.
+Next, here's [the Korean tax basics for foreigners](/year-end-tax-settlement-korea-foreign-workers/), including what the year-end settlement is and when it happens.
