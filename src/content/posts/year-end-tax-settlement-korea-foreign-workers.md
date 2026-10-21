@@ -18,7 +18,7 @@ keyFact:
   label: "Foreign worker flat tax option"
   value: "19% flat rate, for up to 20 years"
 sourcesCheckedOn: 2026-10-21
-draft: true
+draft: false
 ---
 
 Every January, Korean payroll departments run a calculation called 연말정산 (year-end tax settlement): it compares the income tax your employer withheld from your paychecks all year against what you actually owed, and pays out or claws back the difference in your February salary. Foreign employees go through the same process as Korean coworkers, with one extra option most Koreans don't get: a flat tax rate that trades away every deduction for a single flat percentage. Here is how the settlement works, when it happens, who the flat rate actually helps, and what to do if your employer gets it wrong or you miss it.

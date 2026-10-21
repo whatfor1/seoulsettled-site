@@ -19,7 +19,7 @@ keyFact:
   label: "Electricity late fee if you miss the due date"
   value: "1.5% added to the bill, 2.5% total after 2 months"
 sourcesCheckedOn: 2026-10-20
-draft: true
+draft: false
 ---
 
 Four different companies bill you for one apartment: KEPCO for electricity, a regional gas company for heating and cooking gas, your district's waterworks office for water, and KT, SK Broadband or LG U+ for internet. None of them talk to each other, none of them send a combined bill, and each one has its own late-fee clock running the moment you move in. This is what each bill actually contains, what happens if you're late, and what the internet contract doesn't tell you until you try to cancel it.
