@@ -81,6 +81,6 @@ This also covers gaps your employer's settlement never caught: a dependent you f
 
 ## What's next on Seoul Settled
 
-If you're filing this for the first time, make sure your [bank account](/open-bank-account-korea-foreigner/) is the one your employer has on file for the refund deposit, and double-check your [ARC registration](/how-to-get-arc-korea/) details match what's on Hometax. Next, I'll cover how to extend your stay in Korea before your visa runs out, continuing from the [new Songpa immigration office guide](/seoul-immigration-office-new-address-songpa/).
+If you're filing this for the first time, make sure your [bank account](/open-bank-account-korea-foreigner/) is the one your employer has on file for the refund deposit, and double-check your [ARC registration](/how-to-get-arc-korea/) details match what's on Hometax. Next, here's [how to extend your stay in Korea](/extend-stay-period-korea-visa-extension-hikorea/) before your visa runs out, continuing from the [new Songpa immigration office guide](/seoul-immigration-office-new-address-songpa/).
 
 I checked every figure and deadline above against the actual law text on law.go.kr and the National Tax Service's own announcements on October 21, 2026. Tax rules shift every December, so re-confirm the numbers on Hometax or with your employer's payroll team before you file.

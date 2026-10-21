@@ -98,6 +98,6 @@ The move doesn't change the paperwork. For a first ARC application you still nee
 </ul>
 ## Next up and your turn
 
-Next, I'll cover how to extend your stay in Korea before your visa runs out, and what to do if you're cutting it close.
+Next, here's [how to extend your stay in Korea](/extend-stay-period-korea-visa-extension-hikorea/) before your visa runs out, and what to do if you're cutting it close.
 
 *This post was checked against the official Korea Immigration Service notice and news reports in October 2026. Details can change, so confirm the latest on HiKorea or by calling 1345 before you go.*
