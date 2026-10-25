@@ -21,9 +21,10 @@ hero:
   alt: "The arrivals hall at Incheon International Airport — the 90-day clock starts here"
   credit: "AirportTerminalGuy, CC BY 4.0, via Wikimedia Commons"
   creditUrl: "https://commons.wikimedia.org/wiki/File:ICN_T2_arrival.jpg"
+sourcesCheckedOn: 2026-10-26
 ---
 
-You landed in Korea, the jet lag is fading, and then someone at work or school asks: "Did you get your ARC yet?" Here's the catch nobody tells you on the plane: the clock started the day you entered the country. If you're staying more than 90 days, you have 90 days to register, and almost everything else in Korean life (bank account, phone plan, lease) is easier with the card in your hand.
+The stamp in your passport starts a 90-day countdown the moment it's pressed at immigration, whether or not anyone tells you so. Miss it, and the Immigration Act doesn't treat it as a paperwork slip — unregistered foreigners face up to a 10,000,000 KRW fine or up to 1 year in prison, plus possible deportation. Register on time, and almost everything else in Korean life (bank account, phone plan, lease) gets easier with the card in hand.
 
 This guide walks you through getting your ARC in Korea step by step: who needs one, what to bring, how to book, what happens at the immigration office, and what to do after. I'm Jun, a Seoul local, and every step below is checked against official government sources. One missing document can cost you a second trip, so let's get it right the first time.
 
@@ -122,6 +123,14 @@ You can receive the card **in person** at the office where you applied **or by m
 
 3. **Watch the expiry.** The Seoul guidebook says the card is valid until your permitted period of stay ends, and it must be renewed or updated before then. Put that date in your phone calendar today.
 
+## When it goes wrong
+
+**If you miss the 90-day deadline.** Under Articles 46 and 95 of the Immigration Act, a foreigner who never registers can be fined up to 10,000,000 KRW or imprisoned for up to 1 year, and can be deported, per [easylaw.go.kr's plain-language summary of the Act](https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=2853&ccfNo=2&cciNo=3&cnpClsNo=1), run by Korea's Ministry of Government Legislation. Being a few days late isn't treated the same as never registering at all — the longer you wait past day 90, the worse it gets — but neither the Seoul guidebook nor the MOFA page publishes the exact graduated fine schedule, and two secondary sources we checked disagreed on the brackets. Don't guess: call the Immigration Contact Center at **1345** the moment you realize you're past the deadline and book the earliest HiKorea slot, rather than waiting for a "better" time.
+
+**If your application is turned away at the window.** The HiKorea reservation system itself warns that booking a visit "does not mean a receipt of your petition" — the officer can still reject your file at the counter if a document is missing or wrong. If that happens, you walk out with nothing, and the 90-day clock keeps running while you fix the problem and book a new slot. Bring the photocopies from Step 1 specifically so a missing original doesn't cost you a second trip.
+
+**If you showed up at the wrong office.** Registration has to happen at the office with jurisdiction over your address, not whichever branch is closest. Turning up at the wrong one typically means being redirected to file at the correct office instead, which burns a reservation slot you'll need to rebook — confirm your office on HiKorea or by calling 1345 before you go, not after.
+
 ## Quick checklist
 
 <ul class="checklist">
@@ -134,10 +143,8 @@ You can receive the card **in person** at the office where you applied **or by m
   <li>Receipt kept after fingerprinting</li>
   <li>Pickup or mail address double-checked</li>
 </ul>
-## Final thoughts
+## What's next on Seoul Settled
 
-Getting your ARC in Korea isn't hard, but it is unforgiving about details: the right office, the right photo size, the right documents for your visa. Book early, bring copies, and you'll walk out with a receipt on the first try.
+The card itself is just a plastic rectangle; what it unlocks is the real point. Once it's in your hand, go [open a Korean bank account](/open-bank-account-korea-foreigner/) — most branches won't even start the paperwork without it. If you're changing address, your ARC is also the trigger for the 15-day move-in report in my [address change guide](/report-address-change-korea-arc-15-days/), and if your Seoul appointment got rescheduled by the office move, check my [Songpa office guide](/seoul-immigration-office-new-address-songpa/) before you book. And if your phone isn't sorted yet, my list of [10 Korean apps every foreigner in Seoul needs](/korean-apps-for-foreigners-in-seoul/) covers what to install while you wait for pickup.
 
-Once your card arrives, the next big step is money. In my next post, I'll cover **opening a Korean bank account as a foreigner**. And if you haven't set up your phone yet, start with my list of [10 Korean apps every foreigner in Seoul needs](/korean-apps-for-foreigners-in-seoul/).
-
-*Rules and fees can change. This post was checked against official sources in October 2026; always confirm the latest on HiKorea or by calling 1345.*
+The office that processes your file won't chase you down if something's off on your end — a wrong address on the mail-delivery option, a missed deadline, an expired card you forgot to renew. You're the only one tracking your own 90-day clock, so put the date somewhere you'll actually see it.
