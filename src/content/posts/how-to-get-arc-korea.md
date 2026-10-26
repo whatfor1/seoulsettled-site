@@ -121,7 +121,7 @@ You can receive the card **in person** at the office where you applied **or by m
 
 2. **Other details changed?** MOFA notes that changes to your name, passport number, passport validity and similar details also need to be reported within 14 days.
 
-3. **Watch the expiry.** The Seoul guidebook says the card is valid until your permitted period of stay ends, and it must be renewed or updated before then. Put that date in your phone calendar today.
+3. **Watch the expiry.** The Seoul guidebook says the card is valid until your permitted period of stay ends, and it must be renewed or updated before then. Put that date in your phone calendar today — and note that losing or damaging the card, or (for F-5 permanent residents) hitting its own 10-year mark, is a separate filing from this one.
 
 ## When it goes wrong
 
@@ -145,6 +145,6 @@ You can receive the card **in person** at the office where you applied **or by m
 </ul>
 ## What's next on Seoul Settled
 
-The card itself is just a plastic rectangle; what it unlocks is the real point. Once it's in your hand, go [open a Korean bank account](/open-bank-account-korea-foreigner/) — most branches won't even start the paperwork without it. If you're changing address, your ARC is also the trigger for the 15-day move-in report in my [address change guide](/report-address-change-korea-arc-15-days/), and if your Seoul appointment got rescheduled by the office move, check my [Songpa office guide](/seoul-immigration-office-new-address-songpa/) before you book. And if your phone isn't sorted yet, my list of [10 Korean apps every foreigner in Seoul needs](/korean-apps-for-foreigners-in-seoul/) covers what to install while you wait for pickup.
+The card itself is just a plastic rectangle; what it unlocks is the real point. Once it's in your hand, go [open a Korean bank account](/open-bank-account-korea-foreigner/) — most branches won't even start the paperwork without it. If you're changing address, your ARC is also the trigger for the 15-day move-in report in my [address change guide](/report-address-change-korea-arc-15-days/), and if your Seoul appointment got rescheduled by the office move, check my [Songpa office guide](/seoul-immigration-office-new-address-songpa/) before you book. If your card itself ever needs replacing, see my [guide to ARC reissuance](/arc-card-reissue-renewal-korea/). And if your phone isn't sorted yet, my list of [10 Korean apps every foreigner in Seoul needs](/korean-apps-for-foreigners-in-seoul/) covers what to install while you wait for pickup.
 
 The office that processes your file won't chase you down if something's off on your end — a wrong address on the mail-delivery option, a missed deadline, an expired card you forgot to renew. You're the only one tracking your own 90-day clock, so put the date somewhere you'll actually see it.
