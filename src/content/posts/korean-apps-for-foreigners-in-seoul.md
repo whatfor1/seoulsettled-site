@@ -23,7 +23,7 @@ I'm Jun, a Seoul local. Over the years I've helped a lot of foreign coworkers an
 
 ## Before you start: get a Korean phone number
 
-Many Korean apps verify you with a text message to a Korean number. Without one, sign-ups stall. If you can, get a local SIM or eSIM first. It makes everything below much easier.
+Many Korean apps verify you with a text message to a Korean number. Without one, sign-ups stall. If you can, get a local SIM or eSIM first — my [guide to getting a Korean phone number](/korean-phone-number-foreigners-prepaid-postpaid/) covers prepaid vs postpaid and what each actually costs. It makes everything below much easier.
 
 ## The ten apps
 
