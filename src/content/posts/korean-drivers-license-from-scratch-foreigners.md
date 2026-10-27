@@ -15,6 +15,11 @@ keyFact:
   value: "18 years old"
 sourcesCheckedOn: 2026-10-28
 draft: false
+hero:
+  src: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Busan_south_driver%27s_license_examination_office.JPG/1920px-Busan_south_driver%27s_license_examination_office.JPG"
+  alt: "A driver's license examination office building in Busan, South Korea"
+  credit: "Hyolee2, CC BY-SA 3.0, via Wikimedia Commons"
+  creditUrl: "https://commons.wikimedia.org/wiki/File:Busan_south_driver's_license_examination_office.JPG"
 ---
 
 Eighteen is the minimum age Korea's Road Traffic Act sets for a regular driver's license, and it applies the same way to a foreigner with an ARC as it does to a Korean citizen — nationality changes almost nothing about this process. What changes everything is whether you already hold a foreign license. If you do, you exchange it; I cover that in a [separate guide](/driving-in-korea-foreigners-license-exchange/). If you've never held a license anywhere, in any country, you go through Korea's full first-time process instead: six steps, three real tests, and your Alien Registration Card as the document that gets you in the door.
@@ -36,8 +41,8 @@ Before you can file anything, you need:
 A first-time application for a Class 1 or Class 2 regular license is filed in person — either at a police station or at a driver's license examination office (운전면허시험장) — not online. You can look up your nearest exam office and reserve test slots through the Road Traffic Authority's civil-affairs site, [safedriving.or.kr](https://www.safedriving.or.kr/).
 
 <figure class="fig">
-  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Busan_south_driver%27s_license_examination_office.JPG/1920px-Busan_south_driver%27s_license_examination_office.JPG" alt="A driver's license examination office building in Busan, South Korea" loading="lazy" decoding="async" />
-  <figcaption>Photo: <a href="https://commons.wikimedia.org/wiki/File:Busan_south_driver's_license_examination_office.JPG" rel="nofollow noopener">Hyolee2, CC BY-SA 3.0, via Wikimedia Commons</a></figcaption>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Driving_car_in_Daegwallyeong.JPG/1920px-Driving_car_in_Daegwallyeong.JPG" alt="A car driving on a mountain road near Daegwallyeong, South Korea" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://commons.wikimedia.org/wiki/File:Driving_car_in_Daegwallyeong.JPG" rel="nofollow noopener">ACROFAN, CC BY-SA 3.0, via Wikimedia Commons</a></figcaption>
 </figure>
 
 ## The six-step order, and what each one actually tests
