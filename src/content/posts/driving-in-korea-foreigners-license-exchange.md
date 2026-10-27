@@ -23,6 +23,8 @@ You landed, got your ARC, rented a car for a weekend trip, and then wondered: am
 
 I’m Jun, a Seoul local, and I wrote this by reading the government’s own legal guide. I link every rule to the page where I found it, so you can double-check.
 
+**Never held a license anywhere, in any country?** This guide is about exchanging an existing foreign license — if you don't have one to exchange, you need Korea's full first-time process instead, which I cover in my [guide to getting a Korean license from scratch](/korean-drivers-license-from-scratch-foreigners/).
+
 ## Can you drive in Korea with a foreign license?
 
 Short version: you can drive with either an international driving permit (IDP) or a "mutually recognized" foreign license, but only for one year from your date of entry. This comes from the Road Traffic Act, as summarized on [Korea’s Easy Law portal](https://m.easylaw.go.kr/MOM/SubCsmOvRetrieve.laf?ccfNo=1&cciNo=1&cnpClsNo=1&csmSeq=2332&langCd=700101).
