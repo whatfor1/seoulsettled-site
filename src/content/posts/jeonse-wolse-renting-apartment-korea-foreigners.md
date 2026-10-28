@@ -16,6 +16,7 @@ hero:
   alt: "An apartment complex in Daechi-dong, Seoul"
   credit: "kallerna, CC BY-SA 4.0, via Wikimedia Commons"
   creditUrl: "https://commons.wikimedia.org/wiki/File:Daechi_Dongbo_Centreville_Apartment_Complex_2.jpg"
+sourcesCheckedOn: 2026-10-28
 ---
 
 You found a nice place in Seoul, and the listing says "전세" or "월세" with a deposit that looks like a typo. Nobody warned you that renting an apartment in Korea works nothing like renting back home. Here is how jeonse and wolse work, and what to check before you hand over any money.
@@ -36,13 +37,13 @@ Jun’s tip: when you compare listings, do the math on the deposit as money you 
 
 ## Who is protected by Korean housing law?
 
-This is the part most guides skip. Korea’s [easy law portal](https://m.easylaw.go.kr/MOM/SubCsmOvRetrieve.laf?ccfNo=1&cciNo=1&cnpClsNo=1&csmSeq=2495&langCd=700101) says the Housing Lease Protection Act is intended to protect Korean nationals. In principle, foreigners are not covered. However, a foreigner who has completed alien registration and reported their change of residence may be exceptionally protected.
+This is the part most guides skip. Korea’s [easy law portal](https://m.easylaw.go.kr/MOM/SubCsmOvRetrieve.laf?ccfNo=1&cciNo=1&cnpClsNo=1&csmSeq=2495&langCd=700101) says the Housing Lease Protection Act is intended to protect Korean nationals. In principle, foreigners are not covered. However, a foreigner who has completed alien registration and reported their change of residence may be exceptionally protected, per Article 1 of the Act, Article 88-2(2) of the Immigration Control Act, and a 1993 Seoul Civil District Court ruling (93Gahap73367) that the portal cites directly.
 
 That is why your ARC and your address report are not just admin chores. If you have not done the first one yet, start with our guide to [getting your ARC in Korea](/how-to-get-arc-korea/).
 
 ## Before you sign: what to check
 
-The same portal, citing the HUG jeonse fraud prevention site, lists the key checks before signing:
+The same portal, citing the [HUG Safe Lump-sum Deposit Lease Portal](https://www.khug.or.kr/jeonse)'s fraud-prevention list, names the key checks before signing:
 
 <figure class="fig">
   <img src="https://images.unsplash.com/photo-1651836173242-7018b32762b7?w=1200&q=80&auto=format&fit=crop" alt="Apartment blocks across Seoul with mountains behind" loading="lazy" decoding="async" />
@@ -75,7 +76,7 @@ According to the easy law portal, do these after signing:
 
 2. Obtain a fixed date (확정일자) on the contract. This gives you priority over later creditors if the home is auctioned or sold.
 
-3. If the deposit is over KRW 60 million or the monthly rent is over KRW 300,000, report the lease within 30 days. Submitting the contract is deemed an application for the fixed date.
+3. If the deposit is over 60,000,000 won or the monthly rent is over 300,000 won, report the lease within 30 days. Submitting the contract is deemed an application for the fixed date.
 
 You can report a change of residence at immigration, a local administrative welfare center, or through [HiKorea](https://www.hikorea.go.kr/). A fixed date can be obtained at the administrative welfare center, district court or registry office, or through the Supreme Court’s Internet Registry Office.
 
@@ -84,11 +85,38 @@ You can report a change of residence at immigration, a local administrative welf
   <figcaption>Photo: <a href="https://commons.wikimedia.org/w/index.php?curid=55666535" rel="nofollow noopener">Blogtrepreneur, CC BY 2.0, via Wikimedia Commons</a></figcaption>
 </figure>
 
+## How much of your deposit is protected if the landlord goes bankrupt
+
+Even without guarantee insurance, the Housing Lease Protection Act gives small-sum tenants a right to be repaid ahead of other secured creditors, as long as you secured perfection (the residence report above) before an auction was registered. The easy law portal lists the current caps by region:
+
+| Region | Your deposit must be under | Amount protected first |
+|---|---|---|
+| Seoul | 165,000,000 won | 55,000,000 won |
+| Overcrowding control zones outside Seoul, plus Sejong, Yongin, Hwaseong, Gimpo | 145,000,000 won | 48,000,000 won |
+| Other metropolitan cities, plus Ansan, Gwangju, Paju, Icheon, Pyeongtaek | 85,000,000 won | 28,000,000 won |
+| Everywhere else | 75,000,000 won | 25,000,000 won |
+
+If your deposit is above these caps, this right does not apply to you, which is the main reason to also look at guarantee insurance below.
+
 ## Deposit guarantee insurance and where to get help
 
-For extra protection, the portal suggests a financial guarantee product that covers the refund of your deposit. It lists the Korea Housing & Urban Guarantee Corporation (HUG), the Korea Housing Finance Corporation (HF) and Seoul Guarantee Insurance (SGI). Eligibility differs by provider, so contact them directly.
+For extra protection, the portal suggests a financial guarantee product that covers the refund of your deposit if the landlord does not pay it back. Eligibility differs by provider, so contact them directly:
 
-If you need advice in English, the Seoul Foreign Resident Center offers real estate consulting on Mondays from 2 PM to 5 PM at 40 Dosin-ro, Yeongdeungpo-gu. You can walk in, call 02-2229-4900 or email help@sfrc.seoul.kr, per the Seoul housing page above. The same page points to a list of real estate agencies that handle foreign languages.
+- [Korea Housing & Urban Guarantee Corporation (HUG)](https://www.khug.or.kr/) — 1566-9009
+- [Korea Housing Finance Corporation (HF)](https://www.hf.go.kr/) — 1688-8114
+- [Seoul Guarantee Insurance (SGI)](https://www.sgic.co.kr/) — 1670-7000
+
+If you need advice in English, the Seoul Foreign Resident Center offers real estate consulting on Mondays from 2 PM to 5 PM at 40 Dosin-ro, Yeongdeungpo-gu. You can walk in, call 02-2229-4900 or email help@sfrc.seoul.kr, per the Seoul housing page above. The same page points to a list of real estate agencies that handle foreign languages. Setting up the account you'll wire the deposit from is its own hurdle — see our [guide to opening a bank account in Korea](/open-bank-account-korea-foreigner/) if you haven't done that yet.
+
+## If something goes wrong
+
+**You missed the 15-day residence report.** The easy law portal is blunt about the consequence: without perfection, you cannot assert your right to stay or recover the deposit from a new owner if the property changes hands. File it the moment you realize, then get your fixed date immediately after — late is still far better than never, but you were unprotected for every day in between.
+
+**You missed the 30-day lease report.** Submitting the lease agreement itself counts as applying for the fixed date, so if you skipped the report but already have a fixed date stamped on your contract, you likely still have preferential repayment rights from that date. Confirm at the administrative welfare center rather than assuming either way.
+
+**The landlord won't return the deposit (jeonse fraud).** The HUG Safe Lump-sum Deposit Lease Portal's [Lump-sum Deposit Lease Fraud Victim Support Center](https://www.khug.or.kr/jeonse) offers four kinds of help: legal consultation and litigation representation, financial assistance such as acquisition-tax relief and housing purchase loans, emergency rental housing if you're at risk of eviction, and living-expense support if the case is officially recognized as a crisis under the Emergency Welfare Support Act. Start with HUG's number above rather than handling it alone. If the deposit was wired from overseas and you're untangling the paper trail, our [guide to sending money abroad from Korea](/send-money-abroad-korea-foreigners/) covers the transfer records banks keep.
+
+**Your application for guarantee insurance was rejected.** HUG, HF and SGI each set their own eligibility rules, so a rejection from one does not mean the others will also refuse. Call the next provider on the list before assuming you have no coverage option.
 
 ## Quick checklist
 
@@ -98,12 +126,13 @@ If you need advice in English, the Seoul Foreign Resident Center offers real est
   <li>Pull the register copy before signing and again on signing day</li>
   <li>Put every verbal promise in the special terms</li>
   <li>Report your move-in within 15 days and get the fixed date</li>
-  <li>Ask about deposit guarantee insurance</li>
-  <li>Save 02-2229-4900 for English help</li>
+  <li>Check whether your deposit falls under the small-sum preferential repayment caps for your region</li>
+  <li>Ask about deposit guarantee insurance from HUG, HF or SGI</li>
+  <li>Save 02-2229-4900 for English help, and 1566-9009 if you suspect jeonse fraud</li>
 </ul>
 
 ## Next on Seoul Settled
 
 Next up: Korea’s recycling rules, decoded, so your new building’s trash room stops being a mystery.
 
-*Checked against the Seoul Metropolitan Government and the Korean easy law portal in October 2026. Rules change and contracts vary, so confirm with a licensed agent or the Seoul Foreign Resident Center. This is general information, not legal advice.*
+*None of this is legal advice, and the protections above have a hard edge: once your deposit sits above your region's cap, the law doesn't step in — a guarantee product has to. Work out which one actually covers your deposit size before you wire it, not after you've signed.*
