@@ -77,7 +77,7 @@ If credit approval doesn't come through, several banks issue check cards built s
 
 **Your card is lost or stolen.** Call your card company's hotline immediately, not your bank. The numbers differ by company: Shinhan Card's English line is 1544-7333, Samsung Card's is 1688-8751, KB Kookmin's English/Chinese line is 1644-9993, and Lotte Card's English line is 1899-8100. BC Card, Citi, NH Nonghyup, Woori and Hana cards each have their own separate lost-card line listed on the back of the card itself — call the number printed there, since a general bank hotline usually can't freeze a card issued by a different card company.
 
-**You applied through an app and it won't let you finish.** Foreign-resident identity verification on banking and card apps checks your name against your phone carrier, your ID and your bank account, character for character including spacing. A mismatch anywhere in that chain fails the whole thing — fix the spelling at whichever one is wrong, then retry.
+**You applied through an app and it won't let you finish.** Foreign-resident identity verification on banking and card apps checks your name against your phone carrier, your ID and your bank account, character for character including spacing. A mismatch anywhere in that chain fails the whole thing — fix the spelling at whichever one is wrong, then retry. Our [guide to PASS, Kakao인증 and the financial certificate](/korea-identity-verification-pass-app-foreigners/) covers which identity system is actually running that check and what each one needs from a foreigner to pass it.
 
 ## Quick list before you apply
 
@@ -92,6 +92,6 @@ If credit approval doesn't come through, several banks issue check cards built s
 
 ## What's next
 
-The [bank account guide](/open-bank-account-korea-foreigner/) covers the account you'll need before any of this, and the [phone number guide](/korean-phone-number-foreigners-prepaid-postpaid/) covers the Korean number that both the credit check and most card applications depend on.
+The [bank account guide](/open-bank-account-korea-foreigner/) covers the account you'll need before any of this, and the [phone number guide](/korean-phone-number-foreigners-prepaid-postpaid/) covers the Korean number that both the credit check and most card applications depend on. If an app's identity check is the thing actually blocking you, see our [identity verification guide](/korea-identity-verification-pass-app-foreigners/) for how PASS, Kakao인증 and the financial certificate each work.
 
 Sources checked October 26, 2026: the Financial Supervisory Service's Financial Guidebook as reproduced in KOTRA's Living in Korea guide, the Seoul Metropolitan Government's banking page, KCB's AllCredit consumer portal, and Korean financial press reporting on KB Kookmin Card's foreigner-specific check card. Card terms and discount figures change over time — confirm current numbers with the issuing bank before applying.
