@@ -16,6 +16,7 @@ hero:
   alt: "Inside a Korean immigration service office"
   credit: "User:Piotrus, CC BY-SA 3.0, via Wikimedia Commons"
   creditUrl: "https://commons.wikimedia.org/wiki/File:Ansan_foreigner_immigration_service_interior_02.jpg"
+sourcesCheckedOn: 2026-10-31
 ---
 
 If you have a HiKorea appointment at the Seoul Immigration Office on or after October 19, 2026, do not go to Mok-dong. The office is moving to a brand-new building in Songpa-gu, and the old Mok-dong building stops handling cases from that day. Here is the new address, how to get there by subway and bus, who the office serves, and what changes for your visit.
@@ -38,11 +39,16 @@ Source: the [official relocation notice](https://www.immigration.go.kr/bbs/immig
 
 The official notice gives three routes:
 
-1. **Subway:** take Line 8 to **Munjeong Station** (문정역) and leave by **Exit 4**. It's about a **10-minute walk**.
+1. **Subway:** take Line 8 to **Munjeong Station** (문정역) and leave by **Exit 4**. It's about a **10 minute walk**.
 
-2. **Bus:** get off at the **Munjeong Rodeo Street Entrance** stop (문정로데오거리입구). It's about a **15-minute walk**.
+2. **Bus:** get off at the **Munjeong Rodeo Street Entrance** stop (문정로데오거리입구). It's about a **15 minute walk**.
 
-3. **Village bus Songpa 02** (송파02): get off at **Hillstate Echo Songpa** (힐스테이트에코송파) or **Seoul Korean Medicine Hospital** (서울한방병원). It's only about a **2-minute walk**.
+3. **Village bus Songpa 02** (송파02): get off at **Hillstate Echo Songpa** (힐스테이트에코송파) or **Seoul Korean Medicine Hospital** (서울한방병원). It's only about a **2 minute walk**.
+
+<figure class="fig">
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Seoul-metro-818-Munjeong-station-platform-20181124-161232.jpg/1920px-Seoul-metro-818-Munjeong-station-platform-20181124-161232.jpg" alt="Platform at Munjeong Station on Seoul Subway Line 8" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://commons.wikimedia.org/wiki/File:Seoul-metro-818-Munjeong-station-platform-20181124-161232.jpg" rel="nofollow noopener">LERK, CC BY-SA 4.0, via Wikimedia Commons</a></figcaption>
+</figure>
 
 **Jun's tip:** search "서울출입국·외국인청" or the Korean address "송파구 정의로 55" in Naver Map rather than the English name. In the first weeks after a move, map apps can still point the English name to the old Mok-dong building. If you haven't set up Naver Map yet, my [Naver Map in English guide](/naver-map-english-guide-foreigners/) walks you through it.
 
@@ -65,7 +71,7 @@ If you live elsewhere in Seoul, for example north of the river in Jongno or Mapo
 
 According to [Yonhap News](https://www.yna.co.kr/view/AKR20260923132000371), the new building is designed to fix some long-standing complaints about the old one:
 
-- **More parking:** roughly 60 spaces, up from about 25 at Mok-dong. Still, I'd take the subway.
+- **More parking:** roughly 60 spaces, up from about 25 at Mok-dong — still only enough for a fraction of daily visitors, so I'd take the subway.
 
 - **One floor for visa and stay services:** the residence service counters are combined on the first floor, so less walking between floors.
 
@@ -85,7 +91,23 @@ Most visits to the immigration office need a reservation on [HiKorea's visit res
 
 ## What to bring (it hasn't changed)
 
-The move doesn't change the paperwork. For a first ARC application you still need your passport, application form, a passport-size photo, the fee, and visa-specific documents. My full checklist is in [How to Get Your ARC in Korea](/how-to-get-arc-korea/). If you just moved apartments, remember the address report deadline: see my [15-day address change guide](/report-address-change-korea-arc-15-days/). You can often do that one at your local community center instead.
+The move doesn't change the paperwork. For a first ARC application you still need your passport, application form, one **3.5 cm × 4.5 cm** color photo on a white background, the fee, and visa-specific documents within **90 days** of entering Korea. The fee is **35,000 KRW**, and per the Seoul city guidebook the card itself usually takes **3 to 4 weeks** to process after your visit — my full checklist is in [How to Get Your ARC in Korea](/how-to-get-arc-korea/).
+
+## You can also report an address change here
+
+If your new place is in one of the districts this office covers, you don't have to make a separate trip to your dong office just to report a move. [Hanam City's own civil-affairs page](https://www.hanam.go.kr/english/contents.do?key=9642) lists the **Seoul Immigration Office** itself as one of three valid places to file the Immigration Act address report, alongside your community center and city hall — because Hanam is one of the Gyeonggi-do areas this office serves.
+
+The same page spells out what to expect: the Immigration Act gives you **15 days** from your move-in date to file, the processing time is **3 days** for an online filing versus an in-person visit it processes the same day (within **3 hours** of your visit during office hours), and the service charge is listed as **0 KRW** — not applicable, in the page's own words. Bring your passport, ARC, and proof of your new address (a lease, a letter from your accommodation provider, or a utility bill). My [15-day address change guide](/report-address-change-korea-arc-15-days/) covers the full document list and what counts as proof of address.
+
+## If something goes wrong
+
+**You missed the move and show up at Mok-dong after October 19.** The official notice is explicit that the old building stops all casework the day the new one opens — there's no staff left there to redirect you. If you realize this before you leave home, go straight to Songpa instead; if you're already there, call 1345 and ask whether you can still make your slot the same day.
+
+**What if your HiKorea reservation still lists the old Mok-dong address?** That can happen if you booked before the October 2 notice went out. Call 1345 with your reservation number before your appointment day, not after you've already traveled, and ask them to confirm which building it's actually tied to.
+
+**Your application is turned back because you're outside this office's service area.** If the office tells you your address falls under a different jurisdiction, re-read the district list above, then rebook through HiKorea for the correct office — a same-day transfer between immigration offices isn't a thing you can count on.
+
+**You arrive without a HiKorea reservation at all.** Most services here are appointment-only. Walking in without one risks a wasted trip, so book first and bring a screenshot in case you lose signal inside the new building.
 
 ## Quick checklist before you go
 
@@ -100,4 +122,4 @@ The move doesn't change the paperwork. For a first ARC application you still nee
 
 Next, here's [how to extend your stay in Korea](/extend-stay-period-korea-visa-extension-hikorea/) before your visa runs out, and what to do if you're cutting it close.
 
-*This post was checked against the official Korea Immigration Service notice and news reports in October 2026. Details can change, so confirm the latest on HiKorea or by calling 1345 before you go.*
+*I checked the move date, address and route details against the Immigration Service's own relocation notice, the parking and layout changes against Yonhap's coverage of the new building, the district list against EKW's report, and the address-report fee and processing time against Hanam City's civil-affairs page — all current as of October 2026. A building move causes the most confusion in its first few weeks, so if a map app or an old bookmark still points you to Mok-dong, trust the address printed above instead: 55 Jeongui-ro, Songpa-gu.*
