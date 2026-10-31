@@ -27,11 +27,44 @@ const TOPICS = [
 
 const fmt = (d: Date) =>
   d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+
+const SITE = Astro.site!.toString().replace(/\/$/, '');
+const DESCRIPTION =
+  'Practical, step-by-step guides to living in Korea — visas, banking, housing, healthcare and everyday life, checked against official sources.';
+
+/* Article pages carry their own Article schema; the home page carried none, so a crawler
+   had no statement of what this site is or who publishes it. A @graph pairing the WebSite
+   with its publisher is what makes the site resolvable as one entity. The publisher name
+   matches the one in [slug].astro's Article schema on purpose — two different publisher
+   names across the site would describe two different organisations. */
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'WebSite',
+      '@id': `${SITE}/#website`,
+      url: `${SITE}/`,
+      name: 'Seoul Settled',
+      description: DESCRIPTION,
+      inLanguage: 'en',
+      publisher: { '@id': `${SITE}/#publisher` },
+    },
+    {
+      '@type': 'Organization',
+      '@id': `${SITE}/#publisher`,
+      name: 'Seoul Settled',
+      url: `${SITE}/`,
+      description: 'Guides to the paperwork and daily logistics of settling in South Korea.',
+    },
+  ],
+};
 ---
 
 <Base
   title="Seoul Settled"
-  description="Practical, step-by-step guides to living in Korea — visas, banking, housing, healthcare and everyday life, checked against official sources."
+  description={DESCRIPTION}
+  image={start?.data.hero?.src}
+  jsonLd={jsonLd}
 >
   <section class="wrap lede">
     <div class="lede-text">
