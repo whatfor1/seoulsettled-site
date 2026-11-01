@@ -107,6 +107,6 @@ Many people wait until month eleven and discover the embassy paperwork takes wee
 
 ## What’s next on Seoul Settled
 
-Next up: [how to send money abroad from Korea](/send-money-abroad-korea-foreigners/) without getting hit by bad exchange rates.
+Next up: [how to send money abroad from Korea](/send-money-abroad-korea-foreigners/) without getting hit by bad exchange rates. If you're planning to buy rather than just rent, a Korean or exchanged license covers driving the car — it doesn't cover registering one, which runs on a separate 15-day clock; see my [guide to buying and registering a car](/buy-car-korea-foreigners-registration-insurance/) for that part.
 
 *Rules checked against Korea’s Easy Law portal in October 2026. Rules and fees change, so confirm with the Road Traffic Authority before you go.*

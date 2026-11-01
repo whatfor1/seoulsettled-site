@@ -107,6 +107,6 @@ The Seoul city page says you can send up to $50,000 out of the country at once (
 
 ## What’s next
 
-Once the account is open, the next big question is your phone plan — see the [prepaid vs. postpaid guide](/korean-phone-number-foreigners-prepaid-postpaid/) for which one a bank-app sign-up actually needs.
+Once the account is open, the next big question is your phone plan — see the [prepaid vs. postpaid guide](/korean-phone-number-foreigners-prepaid-postpaid/) for which one a bank-app sign-up actually needs. If you're about to buy a car, the registration office will want to see compulsory insurance already active in your name before it touches your paperwork — paying for that, the acquisition tax and the plate fee all run through this account, so see my [guide to buying and registering a car](/buy-car-korea-foreigners-registration-insurance/) for the full sequence.
 
 The three sources above — KOTRA’s Invest Korea, Seoul’s city government and KB Kookmin Bank — don’t cross-reference each other, so this page is what puts the document list, the restricted-account limits and the app requirements in one place. All three were pulled again on October 26, 2026; branch-level rules still vary, so the front-desk staff has the final word on your specific paperwork.
