@@ -16,6 +16,7 @@ hero:
   alt: "A street food stall in Seoul"
   credit: "LinasD, CC BY-SA 4.0, via Wikimedia Commons"
   creditUrl: "https://commons.wikimedia.org/w/index.php?curid=78575904"
+sourcesCheckedOn: 2026-11-02
 ---
 
 It's 9 p.m., you're hungry, the fridge is empty, and every delivery app on your phone is in Korean or wants a phone number you don't have. Ordering food delivery in Korea as a foreigner got a lot easier in 2026, but only if you pick the right app and know which advice online is outdated. Here is how to order delivery in Korea without speaking Korean.
@@ -48,6 +49,8 @@ Jun's tip: restaurant names and menu items are often still Korean, because resta
 
 This is the part that changes fastest. As reported by Korea Sorted, Baemin's operator said in August that foreigners can order as a guest after a text-message check of an overseas phone number, while a full account needs a Korean number and an alien registration number. If you already have your ARC, my guide to [getting your ARC in Korea](/how-to-get-arc-korea/) covers that card.
 
+If you don't have a Korean number yet, don't wait for your ARC to start ordering: KT's own prepaid page shows a 10,000 won top-up stays active for 60 days with no sign-up fee, and switching to a postpaid plan later costs a flat 800 won number-portability fee. My full guide to [getting a Korean phone number](/korean-phone-number-foreigners-prepaid-postpaid/) covers prepaid versus postpaid in detail.
+
 <figure class="fig">
   <img src="https://images.unsplash.com/photo-1769558688746-7ac36d8ce999?w=1200&q=80&auto=format&fit=crop" alt="A table of Korean dishes and side dishes" loading="lazy" decoding="async" />
   <figcaption>Photo: <a href="https://unsplash.com/@anbinhpho" rel="nofollow noopener">Anbinh Pho on Unsplash</a></figcaption>
@@ -78,6 +81,12 @@ Both list English in app stores, but I couldn't find an official statement from 
 
 - Delivery fees are shown before you place the order, so read the total, not just the menu price.
 
+- If a card keeps failing for no clear reason, the problem may be on the Korean bank side rather than your card — my guide to [opening a Korean bank account](/open-bank-account-korea-foreigner/) covers what a local account fixes and what it doesn't.
+
+## How much you'll actually need to spend
+
+Delivery isn't free, and the checkout screen is the first place you'll see why. A 2025 survey of 502 restaurant owners by the consumer group [Sobija Gongik Network](https://byline.network/2025/06/24_delivery/) found average restaurant-set minimum orders of 14,079 won on Baemin, 14,404 won on Coupang Eats and 14,724 won on Yogiyo, versus 13,589 won on public (city-run) delivery apps. A [separate report](https://www.khan.co.kr/article/202411151415011) on the industry's 2024 commission overhaul, set to run for 3 years, put the broader market range even wider — restaurants commonly set minimums anywhere from 12,000 won to 25,000 won. If your cart falls short, add a side or a drink instead of guessing: all three apps block checkout below the restaurant's own minimum, and that minimum is set by the restaurant, not the app.
+
 ## Delivery-day checklist
 
 <ul class="checklist">
@@ -87,7 +96,19 @@ Both list English in app stores, but I couldn't find an official statement from 
   <li>Set a minimum-order budget; many restaurants have one.</li>
 </ul>
 
-Jun's tip: apartment buildings are the number one reason a delivery fails. Add the gate code or the words “call on arrival” to the note, and keep your phone on loud for ten minutes after the rider picks up.
+Jun's tip: apartment buildings are the number one reason a delivery fails. Add the gate code or the words “call on arrival” to the note, and keep your phone on loud for 10 minutes after the rider picks up.
+
+## When something goes wrong
+
+Most delivery problems have a fast fix if you catch them early.
+
+**Your card is rejected at checkout.** Overseas cards sometimes fail a Korean merchant's fraud check for no visible reason. Switch to Apple Pay if your card qualifies — Baemin has accepted foreign-issued Visa, Mastercard, JCB and Amex through Apple Pay since June 2026 — or try a second card before giving up on the order.
+
+**The restaurant rejects or cancels your order.** Restaurants can decline an order if they're too busy, out of an ingredient, or closing for the night. Delivery apps issue an automatic refund when an order is rejected or cancelled before cooking starts, so check your payment method for the refund rather than your door.
+
+**What if the rider can't find your building?** This is the single most common failure for foreign residents. Write your gate code, floor and unit number in the delivery note, ideally in Korean, and keep your ringer on so you can pick up when the rider calls.
+
+**You forget to update your saved address after moving.** If you forget to change the default address before ordering, the food goes to your old place and there is no fast way to redirect a rider mid-delivery. Open the app and check the saved address every time you move, not just the first time you set it up.
 
 ## Quick answers
 
