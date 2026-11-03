@@ -133,6 +133,6 @@ If you need advice in English, the Seoul Foreign Resident Center offers real est
 
 ## Next on Seoul Settled
 
-Next up: Korea’s recycling rules, decoded, so your new building’s trash room stops being a mystery.
+If you're weighing buying instead of renting, see my [guide to buying property in Korea as a foreigner](/buying-property-korea-foreigners/) — the acquisition report and permit rules are completely different from anything in this post. Next up: Korea’s recycling rules, decoded, so your new building’s trash room stops being a mystery.
 
 *None of this is legal advice, and the protections above have a hard edge: once your deposit sits above your region's cap, the law doesn't step in — a guarantee product has to. Work out which one actually covers your deposit size before you wire it, not after you've signed.*
