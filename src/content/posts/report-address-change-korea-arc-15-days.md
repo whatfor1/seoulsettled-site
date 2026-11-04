@@ -19,13 +19,14 @@ hero:
   alt: "Apartment buildings in Nowon-gu, Seoul"
   credit: "Ox1997cow, CC BY-SA 3.0, via Wikimedia Commons"
   creditUrl: "https://commons.wikimedia.org/w/index.php?curid=121586717"
+sourcesCheckedOn: 2026-11-04
 ---
 
 Moving apartments in Korea and forgetting the address report is one of the easiest ways for a foreigner to pick up a fine. Here is how to report a change of address in Korea, step by step, and what to bring so you only go once.
 
 ## Why reporting your new address matters
 
-If you are a registered foreign resident (you hold an ARC, the Alien Registration Card), the Immigration Act requires you to report a new address. According to the [Study in Korea guide](https://www.studyinkorea.go.kr/en/life/residenceAndStayInfo.do), which cites HiKorea, you must report within 15 days of moving in. Missing that window is a violation of Article 36 of the Immigration Act and may mean a fine of up to 1 million KRW.
+If you are a registered foreign resident (you hold an ARC, the Alien Registration Card), the Immigration Act requires you to report a new address. According to the [Study in Korea guide](https://www.studyinkorea.go.kr/en/life/residenceAndStayInfo.do), which cites HiKorea, you must report within 15 days of moving in. The same page states the penalty directly: missing that window is a violation of Article 36 of the Immigration Act and carries a fine of up to 1,000,000 won.
 
 The 15 days start on the day you move into the new place, not the day you sign the lease. Count weekends and holidays too. If you rented with a lease, check the move-in date written in the contract. I covered the lease side in my [jeonse vs wolse guide](/jeonse-wolse-renting-apartment-korea-foreigners/).
 
@@ -41,7 +42,12 @@ You have three options, based on the [Hanam City page](https://www.hanam.go.kr/e
 
 - **The immigration office** with jurisdiction over the new address.
 
-You can also apply online through [HiKorea](https://www.hikorea.go.kr). The Hanam page says online applications take about 3 days, while in-person visits are handled immediately. It also lists the service charge as not applicable.
+<figure class="fig">
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Seoul_Seongbuk-gu_Office.JPG/1280px-Seoul_Seongbuk-gu_Office.JPG" alt="A district (gu) office building in Seoul" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://commons.wikimedia.org/wiki/File:Seoul_Seongbuk-gu_Office.JPG" rel="nofollow noopener">Ahn Woo-seok, CC0, via Wikimedia Commons</a></figcaption>
+</figure>
+
+You can also apply online through [HiKorea](https://www.hikorea.go.kr). The Hanam page lists the processing time as about 3 days for an online application versus about 3 hours during office hours for an in-person visit, and lists the service charge as not applicable.
 
 **Jun’s tip:** the community center is usually the easiest. Immigration offices work by appointment, and a dong office is usually the quicker stop. Call ahead to confirm they handle foreigner reports, and go in the morning to avoid the lunchtime rush.
 
@@ -104,4 +110,4 @@ Don’t panic, but don’t wait. A fine may be imposed once the deadline passes,
 
 Once your address is sorted, here's [how to pay your utility bills and set up home internet](/pay-utility-bills-internet-setup-korea-foreigners/) in Korea without speaking Korean.
 
-*Rules change, so I checked this against official sources in October 2026. Confirm the latest details on HiKorea or by calling 1345 before you go.*
+*Your address on file gets checked again when you extend your stay or change visa status, so handle this report before either of those applications, not after. I checked the 15-day window and the 1,000,000-won fine figure against Study in Korea's official guide and the Hanam City page in November 2026.*
