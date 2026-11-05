@@ -16,6 +16,7 @@ hero:
   alt: "A Seoul Metro station platform"
   credit: "LERK, CC BY-SA 4.0, via Wikimedia Commons"
   creditUrl: "https://commons.wikimedia.org/w/index.php?curid=78728770"
+sourcesCheckedOn: 2026-11-05
 ---
 
 If you searched for the Seoul Climate Card and found guides telling you to load 62,000 won for unlimited rides, those guides are out of date. The Climate Card was replaced on September 1, 2026, and the new setup is a bit confusing. This guide explains how the **Seoul transit card for foreigners** works now: what changed, what to buy, and how to get your refund.
@@ -61,9 +62,7 @@ The city lists three ways to get an Everyone’s Card:
 
 3. Download a supported mobile app. The Tmoney app offers a mobile card.
 
-After you have the card, you must register the card number on the K-Pass website and with your card issuer before you use it. The city says to register your personal information and card number first, then ride. The K-Pass site, [korea-pass.kr](https://korea-pass.kr/), is in Korean, so keep a translation app ready.
-
-If your address can’t be verified automatically, the Q&A says you can upload a Certificate of Domestic Residence for foreigners under My Local Government in your K-Pass account.
+After you have the card, you must register the card number on the K-Pass website and with your card issuer before you use it. The K-Pass site, [korea-pass.kr](https://korea-pass.kr/), is in Korean, so keep a translation app ready.
 
 Jun’s tip: do the registration on a laptop with your browser’s translate feature turned on. It is easier than doing it on a phone while standing at a subway gate.
 
@@ -71,6 +70,14 @@ Jun’s tip: do the registration on a laptop with your browser’s translate fea
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Sejong_Bus_T-money.JPG/1920px-Sejong_Bus_T-money.JPG" alt="A T-money transit card reader on a Korean bus" loading="lazy" decoding="async" />
   <figcaption>Photo: <a href="https://commons.wikimedia.org/wiki/File:Sejong_Bus_T-money.JPG" rel="nofollow noopener">hyolee2, CC BY-SA 3.0, via Wikimedia Commons</a></figcaption>
 </figure>
+
+## If something goes wrong
+
+**What if K-Pass can’t verify your address automatically?** This happens often for foreigners, since the system checks your Foreign Resident Registration Number first and that lookup doesn’t always find a match. If your application is rejected at that step, you don’t need to start over or call anyone. Seoul’s [official Q&A](https://english.seoul.go.kr/smg-steps-up-outreach-ahead-of-climate-pass-launch-on-september-1-encouraging-early-card-conversion/) gives the exact fix: log in to K-Pass, go to **My > My Local Government**, click **Upload File**, and attach your Certificate of Domestic Residence for Foreigners. That certificate stands in for the registration number check.
+
+**If you forget to register the card before you ride,** that month's refund may not count the trips you took first. The same Q&A is explicit that you must register your personal information and card number on the K-Pass website, and only then use the registered card for the refund to apply — registering partway through a month is fine, but only rides after registration are counted for that month.
+
+**If you missed the September 1, 2026 switchover,** check which Climate Card you had. A postpaid Climate Card kept paying fare benefits only through September 30; since October 1 it has quietly become a plain transportation card with no refund, and its area shrank to Seoul plus Gimpo, Goyang, Gwacheon, Guri, Seongnam, Hanam and Namyangju. There’s no penalty for switching late — apply for an Everyone’s Card (K-Pass) now and register it the same way as above.
 
 ## What visitors and new arrivals can still buy
 
