@@ -18,7 +18,7 @@ hero:
 keyFact:
   label: "No-document transfer limit for foreign residents"
   value: "$50,000 per year"
-sourcesCheckedOn: 2026-10-19
+sourcesCheckedOn: 2026-11-06
 draft: false
 ---
 
@@ -85,4 +85,4 @@ If your application is rejected for a fixable reason — wrong document, mismatc
 
 This is the money guide promised at the end of the [driving-license exchange guide](/driving-in-korea-foreigners-license-exchange/) and the [Climate Pass guide](/seoul-transit-card-climate-pass-kpass-foreigners/) — thanks for your patience if you've been waiting on it. If you haven't opened a Korean account yet, start with [opening a bank account as a foreigner](/open-bank-account-korea-foreigner/), since the designated-bank registration described above happens at that same counter. If that transfer is funding a property purchase, see my [guide to buying property in Korea as a foreigner](/buying-property-korea-foreigners/) for the extra acquisition report this kind of transfer triggers.
 
-*I checked the regulation citations and fee tables above against the Korea Federation of Banks, Seoul Metropolitan Government and Woori Bank's own pages on October 19, 2026. Annual limits and bank fees are exactly the kind of numbers that move without an announcement, so check your own bank's current table before sending a large amount.*
+*I checked the regulation citations and fee tables above against the Korea Federation of Banks, Seoul Metropolitan Government and Woori Bank's own pages again on November 6, 2026 — all figures, including the Article 4-4 citation and the won fee schedule, were unchanged. Annual limits and bank fees are exactly the kind of numbers that move without an announcement, so check your own bank's current table before sending a large amount.*
