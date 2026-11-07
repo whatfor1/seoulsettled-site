@@ -60,7 +60,7 @@ NPS lays out three ways to file, per its [official refund guidance](https://www.
 <ul class="checklist">
   <li>Visit any NPS branch in Korea before you leave, with your refund application, passport, and alien registration card, and have the money sent to your bank account</li>
   <li>Apply at an NPS branch within 1 month of your departure date for the airport payment service, then collect the cash in person at Incheon Airport Terminal 1's arrival hall, Exit A2, at the airport counseling center (open 9:00 a.m. to 6:00 p.m.)</li>
-  <li>File by mail from overseas after you've already left — this requires your documents to be notarized in your country of residence and then authenticated by a Korean consulate (or Apostille-certified, for convention countries), which makes it the slowest and most paperwork-heavy of the three</li>
+  <li>File by mail from overseas after you've already left — this requires your documents to be notarized in your country of residence and then authenticated by a Korean consulate (or [Apostille](/apostille-documents-korea-foreigners/)-certified, for convention countries), which makes it the slowest and most paperwork-heavy of the three</li>
 </ul>
 
 Either way you'll need proof you're leaving within a month (a flight ticket or booking confirmation), your ARC, and bank details — a passbook copy for a Korean account, or a statement showing your name, account number, and bank code in English for an overseas one. Once approved, NPS says the money typically reaches your account within about 3 to 5 business days, with the whole claim usually wrapped up within a month.

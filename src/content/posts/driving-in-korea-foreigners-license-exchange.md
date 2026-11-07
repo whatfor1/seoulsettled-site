@@ -88,13 +88,13 @@ For a foreign national, the Easy Law guide and the [Road Traffic Authority's own
 
 - Three color photos taken within 6 months, 3.5 x 4.5 cm
 
-- An embassy certificate or an Apostille for your license
+- An embassy certificate or an [Apostille](/apostille-documents-korea-foreigners/) for your license
 
 - A certificate of entry and exit records, from your birth year to today
 
 If you do not have an ARC yet, read my guide to [getting your ARC in Korea](/how-to-get-arc-korea/) first.
 
-Jun's tip: the embassy certificate or Apostille is the step that delays people, because it has to be arranged before you go to the office. Ask your embassy how long it takes, and only then book a day off. The Road Traffic Authority's own page also warns that the exact document list varies by applicant category (which country issued your license, and whether you're a foreign national or an overseas Korean), so double-check which column applies to you before you go.
+Jun's tip: the embassy certificate or Apostille is the step that delays people, because it has to be arranged before you go to the office. Ask your embassy how long it takes, and only then book a day off — my [guide to apostilles and document authentication](/apostille-documents-korea-foreigners/) covers which path applies depending on where you're from. The Road Traffic Authority's own page also warns that the exact document list varies by applicant category (which country issued your license, and whether you're a foreign national or an overseas Korean), so double-check which column applies to you before you go.
 
 ## What does the exchange cost?
 
