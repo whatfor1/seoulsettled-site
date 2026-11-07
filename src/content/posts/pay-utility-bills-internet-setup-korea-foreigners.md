@@ -18,7 +18,7 @@ hero:
 keyFact:
   label: "Electricity late fee if you miss the due date"
   value: "1.5% added to the bill, 2.5% total after 2 months"
-sourcesCheckedOn: 2026-10-20
+sourcesCheckedOn: 2026-11-07
 draft: false
 ---
 
@@ -86,4 +86,4 @@ If you're disputing a bill you think is wrong — a reading that looks too high,
 
 This is the utilities guide promised at the end of the [address-change guide](/report-address-change-korea-arc-15-days/) — if you haven't registered your new address within 15 days of moving yet, do that first, since several of the account names above get checked against it. If you're still deciding on a neighborhood or lease type, the [jeonse and wolse guide](/jeonse-wolse-renting-apartment-korea-foreigners/) covers what's negotiable before you sign. And if a bank account is the thing standing between you and getting internet installed, start with [opening a bank account as a foreigner](/open-bank-account-korea-foreigner/).
 
-Every fee and deadline above came from the company that actually charges it — KEPCO, Seoul City Gas, KT, and Korea's own policy news service — pulled directly on October 20, 2026. None of those four companies coordinate with each other, and none of them will tell you what the other three charge, so this page is the only place that puts all four side by side.
+Every fee and deadline above came from the company that actually charges it — KEPCO, Seoul City Gas, KT, and Korea's own policy news service — and I checked each source again on November 7, 2026: the 2.7% power-fund surcharge, KEPCO's 1.5%/2.5% late-surcharge tiers, the gas company's 2%-a-month late fee, KT's document lists, and the 2023 contract-penalty reform dates were all unchanged. None of those four companies coordinate with each other, and none of them will tell you what the other three charge, so this page is the only place that puts all four side by side.
