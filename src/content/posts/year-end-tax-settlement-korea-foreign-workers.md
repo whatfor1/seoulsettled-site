@@ -17,7 +17,7 @@ hero:
 keyFact:
   label: "Foreign worker flat tax option"
   value: "19% flat rate, for up to 20 years"
-sourcesCheckedOn: 2026-10-21
+sourcesCheckedOn: 2026-11-08
 draft: false
 ---
 
@@ -83,4 +83,4 @@ This also covers gaps your employer's settlement never caught: a dependent you f
 
 If you're filing this for the first time, make sure your [bank account](/open-bank-account-korea-foreigner/) is the one your employer has on file for the refund deposit, and double-check your [ARC registration](/how-to-get-arc-korea/) details match what's on Hometax. Next, here's [how to extend your stay in Korea](/extend-stay-period-korea-visa-extension-hikorea/) before your visa runs out, continuing from the [new Songpa immigration office guide](/seoul-immigration-office-new-address-songpa/).
 
-I checked every figure and deadline above against the actual law text on law.go.kr and the National Tax Service's own announcements on October 21, 2026. Tax rules shift every December, so re-confirm the numbers on Hometax or with your employer's payroll team before you file.
+I checked every figure and deadline above against the actual law text on law.go.kr and the National Tax Service's own announcements again on November 8, 2026 — the 19% flat rate, the 20-year/December 31, 2026 sunset, both rent-credit tiers and the 10,000,000 won cap, the housing-fund spouse deduction, the foreign-engineer reduction, and the 5-year/2-month correction-request window were all unchanged, and the 2026 reform that would raise the flat rate to 21% still hadn't passed as of this check. Tax rules shift every December, so re-confirm the numbers on Hometax or with your employer's payroll team before you file.
