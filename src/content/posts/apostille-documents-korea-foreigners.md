@@ -54,7 +54,7 @@ Immigration and licensing offices don't ask for an apostille for its own sake �
 <ul class="checklist">
   <li>Exchanging a foreign driving license for a Korean one — the Road Traffic Authority's document list asks for "an embassy certificate or an Apostille for your license," confirmed in my <a href="/driving-in-korea-foreigners-license-exchange/">driving license exchange guide</a></li>
   <li>Filing for a National Pension lump-sum refund by mail after you've already left Korea, which requires your documents "notarized in your country of residence and then authenticated by a Korean consulate (or Apostille-certified, for convention countries)" — see my <a href="/national-pension-korea-foreigners-lump-sum-refund/">pension refund guide</a></li>
-  <li>A status change built on a foreign civil document, like a marriage certificate backing an F-6 filing — see my <a href="/change-visa-status-korea-foreigners/">visa status change guide</a> for the 30-day filing deadline that starts once you have the document in hand</li>
+  <li>A status change built on a foreign civil document, like a marriage certificate backing an F-6 filing — see my <a href="/change-visa-status-korea-foreigners/">visa status change guide</a> for the 30-day filing deadline that starts once you have the document in hand, and my <a href="/marriage-registration-korea-foreigners-f6-visa/">guide to marriage registration and the F-6 visa</a> for the civil-registration step itself</li>
   <li>Education and criminal-background-check documents for certain work visas, which immigration and HR offices generally require to carry either an apostille or consular confirmation before they'll accept a foreign-issued copy</li>
 </ul>
 

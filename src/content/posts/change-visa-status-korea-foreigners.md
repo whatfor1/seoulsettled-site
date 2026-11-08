@@ -21,7 +21,7 @@ sourcesCheckedOn: 2026-10-31
 draft: false
 ---
 
-Our [extension guide](/extend-stay-period-korea-visa-extension-hikorea/) covers keeping the status you already have past its expiry date. This one covers something legally different: swapping that status for a different one entirely — D-2 student to E-7 specialized worker, D-4 language track to D-2 degree track, D-10 job-seeker to E-7, or a marriage that opens the door to F-6. Korea's immigration law treats these as two separate permissions with two separate fee schedules, and mixing them up on an application is one of the easier ways to waste a HiKorea appointment.
+Our [extension guide](/extend-stay-period-korea-visa-extension-hikorea/) covers keeping the status you already have past its expiry date. This one covers something legally different: swapping that status for a different one entirely — D-2 student to E-7 specialized worker, D-4 language track to D-2 degree track, D-10 job-seeker to E-7, or a marriage that opens the door to F-6 — see my [guide to marriage registration and the F-6 visa](/marriage-registration-korea-foreigners-f6-visa/) for the civil-registration step that has to happen before any of this. Korea's immigration law treats these as two separate permissions with two separate fee schedules, and mixing them up on an application is one of the easier ways to waste a HiKorea appointment.
 
 ## Extension keeps your status. This changes it.
 
