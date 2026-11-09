@@ -17,7 +17,7 @@ hero:
 keyFact:
   label: "Overstaying without permission"
   value: "up to 3 years in prison or a 30,000,000 KRW fine"
-sourcesCheckedOn: 2026-10-22
+sourcesCheckedOn: 2026-11-09
 draft: false
 ---
 
@@ -74,4 +74,4 @@ Extension isn't unlimited for every status. Two examples worth knowing if they a
 
 If a change of address is part of why your extension paperwork needs updating, see the [15-day address change guide](/report-address-change-korea-arc-15-days/) first. And if your HiKorea appointment is in Seoul, double-check you're heading to the [new Songpa office](/seoul-immigration-office-new-address-songpa/), not the old one. Next, see the [national pension system for foreign workers](/national-pension-korea-foreigners-lump-sum-refund/) — what you pay, and the lump-sum refund you can claim when you leave Korea for good.
 
-The fee, the caps, and the penalty figures above came straight from the Immigration Control Act, its enforcement decree, and the Ministry of Government Legislation's plain-language guide, checked October 22, 2026. One number I deliberately left out: how many months before expiry each visa category can actually file, since the sources I found disagreed and the law itself doesn't name a figure. If that detail matters for your case, HiKorea's system will show your own window once you're logged in — trust that over any number in this post or any other.
+I checked every figure above against the actual law text on law.go.kr, the government's own processing-time listing on gov.kr, and the Ministry of Government Legislation's plain-language guide again on November 9, 2026: Article 25's extension requirement, the 15-day/60-day processing window, the 60,000/30,000 KRW fees, the 20% online-application discount, the E-8 and H-2 visa caps, the 14-day departure deadline for denial notices under the enforcement decree, and Article 94 item 17's penalty of up to 3 years in prison or a 30,000,000 KRW fine were all unchanged. One number I deliberately left out: how many months before expiry each visa category can actually file, since the sources I found disagreed and the law itself doesn't name a figure. If that detail matters for your case, HiKorea's system will show your own window once you're logged in — trust that over any number in this post or any other.
