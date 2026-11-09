@@ -40,7 +40,7 @@ Reissuance (재발급) is not the same filing as your original [ARC registration
 
 - Your **name, gender, date of birth, or nationality changed**.
 
-A sixth case sits outside that list but matters just as much: if you hold **F-5 permanent residence**, your card itself expires every 10 years even though your immigration status never does. More on that below.
+A sixth case sits outside that list but matters just as much: if you hold [**F-5 permanent residence**](/f5-permanent-residency-korea-foreigners/), your card itself expires every 10 years even though your immigration status never does. More on that below.
 
 <figure class="fig">
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Passport_documents_desk_%28Unsplash%29.jpg/1920px-Passport_documents_desk_%28Unsplash%29.jpg" alt="Passport and documents laid out on a desk" loading="lazy" decoding="async" />

@@ -74,7 +74,7 @@ Exemptions exist: couples who can show they lived together for **45 days or more
 
 ## If you're already in Korea on a different visa
 
-Marrying while already in Korea on a D-2, E-7, or other status doesn't require leaving the country to apply for F-6 from abroad. Instead it runs through the status-change process covered in my [guide to changing visa status](/change-visa-status-korea-foreigners/): a **30-day** filing deadline from the date of the marriage under Article 24(2) of the Immigration Control Act, and a **100,000 won** fee (**200,000 won** if the change is to F-5 permanent residency instead). If the marriage certificate behind that filing was issued outside Korea, it may also need authentication before the immigration office will accept it — see my [guide to apostilles and document authentication](/apostille-documents-korea-foreigners/) for which path applies depending on where it was issued.
+Marrying while already in Korea on a D-2, E-7, or other status doesn't require leaving the country to apply for F-6 from abroad. Instead it runs through the status-change process covered in my [guide to changing visa status](/change-visa-status-korea-foreigners/): a **30-day** filing deadline from the date of the marriage under Article 24(2) of the Immigration Control Act, and a **100,000 won** fee (**200,000 won** if the change is to [F-5 permanent residency](/f5-permanent-residency-korea-foreigners/) instead). If the marriage certificate behind that filing was issued outside Korea, it may also need authentication before the immigration office will accept it — see my [guide to apostilles and document authentication](/apostille-documents-korea-foreigners/) for which path applies depending on where it was issued.
 
 ## When it goes wrong
 

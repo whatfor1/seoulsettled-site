@@ -34,7 +34,7 @@ Our [year-end settlement guide](/year-end-tax-settlement-korea-foreign-workers/)
   <figcaption>Photo: <a href="https://commons.wikimedia.org/wiki/File:Alien_Registration_Card_of_South_Korea.png" rel="nofollow noopener">Korea.net / Korean Culture and Information Service, CC BY-SA 2.0, via Wikimedia Commons</a></figcaption>
 </figure>
 
-Some visa categories don't need this step at all: F-2 (long-term residency points-based), F-5 (permanent residency) and F-6 (marriage) holders already have unrestricted work rights, so freelancing doesn't require the Article 20 filing. If you're not sure which category you're in, that's a question for your immigration office before it's a question for a tax office.
+Some visa categories don't need this step at all: F-2 (long-term residency points-based), [F-5 (permanent residency)](/f5-permanent-residency-korea-foreigners/) and F-6 (marriage) holders already have unrestricted work rights, so freelancing doesn't require the Article 20 filing. If you're not sure which category you're in, that's a question for your immigration office before it's a question for a tax office.
 
 ## How the money actually gets taxed first
 
