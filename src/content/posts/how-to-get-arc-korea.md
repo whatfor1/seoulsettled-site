@@ -21,7 +21,7 @@ hero:
   alt: "The arrivals hall at Incheon International Airport — the 90-day clock starts here"
   credit: "AirportTerminalGuy, CC BY 4.0, via Wikimedia Commons"
   creditUrl: "https://commons.wikimedia.org/wiki/File:ICN_T2_arrival.jpg"
-sourcesCheckedOn: 2026-10-26
+sourcesCheckedOn: 2026-11-09
 ---
 
 The stamp in your passport starts a 90-day countdown the moment it's pressed at immigration, whether or not anyone tells you so. Miss it, and the Immigration Act doesn't treat it as a paperwork slip — unregistered foreigners face up to a 10,000,000 KRW fine or up to 1 year in prison, plus possible deportation. Register on time, and almost everything else in Korean life (bank account, phone plan, lease) gets easier with the card in hand.
@@ -45,8 +45,8 @@ According to that same page, you'll need the card for many everyday things, incl
 In other words: get this done first, and the rest of your setup gets much easier.
 
 <figure class="fig">
-  <img src="https://images.unsplash.com/photo-1747115084263-afbe6739b7ba?w=1200&q=80&auto=format&fit=crop" alt="Passports resting on a fabric surface" loading="lazy" decoding="async" />
-  <figcaption>Photo: <a href="https://unsplash.com/@jakubzerdzicki" rel="nofollow noopener">Jakub Żerdzicki on Unsplash</a></figcaption>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Alien_Registration_Card_of_South_Korea.png" alt="Sample Alien Registration Card (Residence Card) showing the bilingual Korean/English layout issued by Seoul Immigration Office" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://commons.wikimedia.org/wiki/File:Alien_Registration_Card_of_South_Korea.png" rel="nofollow noopener">Korea.net / Korean Culture and Information Service, CC BY-SA 2.0, via Wikimedia Commons</a></figcaption>
 </figure>
 
 ## Who needs an ARC, and the 90-day deadline
