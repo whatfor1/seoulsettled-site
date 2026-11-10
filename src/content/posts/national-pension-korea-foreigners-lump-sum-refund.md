@@ -17,7 +17,7 @@ hero:
 keyFact:
   label: "National Pension contribution rate, 2026"
   value: "9.5% of pay, split with your employer"
-sourcesCheckedOn: 2026-10-23
+sourcesCheckedOn: 2026-11-10
 draft: false
 ---
 
@@ -59,11 +59,11 @@ NPS lays out three ways to file, per its [official refund guidance](https://www.
 
 <ul class="checklist">
   <li>Visit any NPS branch in Korea before you leave, with your refund application, passport, and alien registration card, and have the money sent to your bank account</li>
-  <li>Apply at an NPS branch within 1 month of your departure date for the airport payment service, then collect the cash in person at Incheon Airport Terminal 1's arrival hall, Exit A2, at the airport counseling center (open 9:00 a.m. to 6:00 p.m.)</li>
+  <li>Use the airport cash payment option, per the NPS's [English lump-sum refund guidance](https://www.nps.or.kr/eng/ntnlpnsplan/frgnrlpsmrfnd/getOHAI0015M0.do): first visit any NPS branch except the Incheon Airport one, within 1 month of departure, with your passport, ARC, and flight ticket, and select "Airport Payment" when you file; your former employer also has to report your resignation to NPS by the day before you leave. On departure day, go first to the NPS Incheon Airport Center in Terminal 1 (1st floor, between Exits 1 and 2, Booths 7–8, open 9:00 a.m.–6:00 p.m.) — every applicant goes to the Terminal 1 counter even if flying out of Terminal 2 — then to a Woori Bank currency-exchange counter before immigration, and finally to a Woori Bank booth in the duty-free area after immigration to collect the cash. It only runs on weekday flights departing 10:30 a.m.–midnight from Terminal 1 (11:00 a.m.–midnight from Terminal 2), pays out in foreign currency only (16 currencies, not Korean won), and doesn't run weekends, public holidays, or the last business day of December — so list a bank account as backup in case it falls through</li>
   <li>File by mail from overseas after you've already left — this requires your documents to be notarized in your country of residence and then authenticated by a Korean consulate (or [Apostille](/apostille-documents-korea-foreigners/)-certified, for convention countries), which makes it the slowest and most paperwork-heavy of the three</li>
 </ul>
 
-Either way you'll need proof you're leaving within a month (a flight ticket or booking confirmation), your ARC, and bank details — a passbook copy for a Korean account, or a statement showing your name, account number, and bank code in English for an overseas one. Once approved, NPS says the money typically reaches your account within about 3 to 5 business days, with the whole claim usually wrapped up within a month.
+Either way you'll need proof you're leaving within a month (a flight ticket or booking confirmation), your ARC, and bank details — a passbook copy for a Korean account, or a statement showing your name, account number, and bank code in English for an overseas one. NPS's official processing period for the whole claim is 1 month, per the [gov.kr service listing](https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=14600000303) — there's no published faster figure for the bank-transfer route, so don't plan around getting it sooner.
 
 ## When it goes wrong: deadlines missed and claims denied
 
