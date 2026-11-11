@@ -17,7 +17,7 @@ hero:
 keyFact:
   label: "HUG guarantee ceiling"
   value: "700 million KRW deposit (Seoul/metro area), capped at 90% of the home's value"
-sourcesCheckedOn: 2026-10-24
+sourcesCheckedOn: 2026-11-11
 draft: false
 ---
 
