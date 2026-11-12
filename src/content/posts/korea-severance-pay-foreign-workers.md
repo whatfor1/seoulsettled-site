@@ -57,7 +57,7 @@ Miss that 14-day window without an agreement, and the employer owes **20% annual
 
 ## If you're on an E-9 or H-2 visa: the departure insurance route
 
-Employers of E-9 (non-professional employment) and H-2 (working visit) visa holders don't pay severance directly out of pocket on departure — they're required to enroll you in **departure guarantee insurance (출국만기보험)** or an equivalent trust, within **15 days** of your contract taking effect (your entry date for a first-time E-9 arrival, or your contract start date for an H-2 worker or workplace changer).
+Employers of E-9 (non-professional employment) and H-2 (working visit) visa holders don't pay severance directly out of pocket on departure — they're required to enroll you in **departure guarantee insurance (출국만기보험)** or an equivalent trust, within **15 days** of your contract taking effect (your entry date for a first-time E-9 arrival, or your contract start date for an H-2 worker or [workplace changer](/e9-visa-change-workplace-korea-foreign-workers/)).
 
 The mechanics, confirmed on [easylaw.go.kr's foreign-worker employment guide](https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?csmSeq=2042&ccfNo=3&cciNo=1&cnpClsNo=4) and its [departure-procedures page](https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=2042&ccfNo=4&cciNo=2&cnpClsNo=1):
 
