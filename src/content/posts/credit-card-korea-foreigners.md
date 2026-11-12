@@ -17,7 +17,7 @@ hero:
 keyFact:
   label: "Credit score checks"
   value: "3 free per year, by law"
-sourcesCheckedOn: 2026-10-26
+sourcesCheckedOn: 2026-11-12
 draft: false
 ---
 
@@ -25,7 +25,7 @@ The bank account is open, the debit card works, and then the credit card applica
 
 ## Why the rejection happens
 
-Korea's two private credit bureaus, KCB and NICE, build your score from domestic financial activity tied to your resident or foreign-registration number: phone contracts, utility accounts, past loans, card repayment history. Arrive with none of that and there's nothing for either bureau to score — not a bad score, just an absent one, which most banks treat the same way as a bad one. The [Seoul Metropolitan Government's banking guide](https://english.seoul.go.kr/service/living/convenience/1-banking) warns foreign residents directly that a thin Korean credit history "can get a credit-card request turned down," and recommends taking the debit card instead, since it needs no credit check at all.
+Korea's two private credit bureaus, KCB and NICE, build your score from domestic financial activity tied to your resident or foreign-registration number: phone contracts, utility accounts, past loans, card repayment history. Arrive with none of that and there's nothing for either bureau to score — not a bad score, just an absent one, which most banks treat the same way as a bad one. The [Seoul Metropolitan Government's banking guide](https://english.seoul.go.kr/service/living/convenience/1-banking) tells foreign residents plainly: "if you don't have a good credit record, your request for a credit card might be rejected." A debit card sidesteps that screening entirely — it only ever spends money already in the account, so there's no credit check to fail.
 
 <figure class="fig">
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Kookmin_Bank_Sanbon_Intersection_Branch_20240722.jpg/1920px-Kookmin_Bank_Sanbon_Intersection_Branch_20240722.jpg" alt="A KB Kookmin Bank branch in South Korea" loading="lazy" decoding="async" />
@@ -94,4 +94,4 @@ If credit approval doesn't come through, several banks issue check cards built s
 
 The [bank account guide](/open-bank-account-korea-foreigner/) covers the account you'll need before any of this, and the [phone number guide](/korean-phone-number-foreigners-prepaid-postpaid/) covers the Korean number that both the credit check and most card applications depend on. If an app's identity check is the thing actually blocking you, see our [identity verification guide](/korea-identity-verification-pass-app-foreigners/) for how PASS, Kakao인증 and the financial certificate each work.
 
-Sources checked October 26, 2026: the Financial Supervisory Service's Financial Guidebook as reproduced in KOTRA's Living in Korea guide, the Seoul Metropolitan Government's banking page, KCB's AllCredit consumer portal, and Korean financial press reporting on KB Kookmin Card's foreigner-specific check card. Card terms and discount figures change over time — confirm current numbers with the issuing bank before applying.
+Sources checked November 12, 2026: the Financial Supervisory Service's Financial Guidebook as reproduced in KOTRA's Living in Korea guide, the Seoul Metropolitan Government's banking page, KCB's AllCredit consumer portal, and Korean financial press reporting on KB Kookmin Card's foreigner-specific check card. Card terms and discount figures change over time — confirm current numbers with the issuing bank before applying.
