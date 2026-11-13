@@ -20,7 +20,7 @@ hero:
 keyFact:
   label: "Switch carriers, keep your number"
   value: "800 won + VAT (MNP fee)"
-sourcesCheckedOn: 2026-10-26
+sourcesCheckedOn: 2026-11-13
 draft: false
 ---
 
@@ -48,7 +48,7 @@ Walk into a carrier store or pick up a SIM at the airport, show your passport, a
 
 KT's own [prepaid price page](https://shop.kt.com/m/smart/phonePricePopView.do?prodCtgCd=11&usimType=LTE) lays out charging tiers with no sign-up fee, no base rate and no contract: top up 10,000 won and the line stays active 60 days; 30,000 won covers 180 days plus 100 minutes of KT-to-KT calls; 50,000 won covers a full 365 days plus 200 minutes. Everything above that is pay-as-you-go, charged in small increments per second of calls and per text.
 
-If you'd rather have real data from day one, SK Telecom's budget arm SK 7mobile [publishes its line-up](https://www.sk7mobile.com/prod/data/callingPlanList.do?refCode=USIM): 1,900 won a month for 500MB and 60 minutes, up to 16,900 won for 7GB with unlimited throttled data, or 33,000 won for 11GB with a faster 3Mbps throttle. These are self-service MVNO plans, not the KT-style pay-as-you-go prepaid above, but they show how wide the price range actually is before you've even seen an ARC-only postpaid plan.
+If you'd rather have real data from day one, SK Telecom's budget arm SK 7mobile [publishes its line-up](https://www.sk7mobile.com/prod/data/callingPlanList.do?refCode=USIM): 1,900 won a month for 500MB and 60 minutes, 16,900 won for 7GB that drops to a 1Mbps throttle once it's gone, or 33,000 won for 11GB (plus a daily 2GB bonus) that throttles to a faster 3Mbps once that's used up. These are self-service MVNO plans, not the KT-style pay-as-you-go prepaid above, but they show how wide the price range actually is before you've even seen an ARC-only postpaid plan.
 
 **Jun's tip:** a passport-registered prepaid number may not pass the identity checks that banks and some apps run. Treat it as a bridge for maps, messaging and calls, and don't be surprised if a verification code fails.
 
@@ -137,4 +137,4 @@ Prices change often, so treat the figures above as a starting point, not a quote
 
 Once you have a number, the next problem is getting around — see my [guide to Naver Map in English](/naver-map-english-guide-foreigners/) for when Google Maps stops giving directions. If an app is still rejecting your phone verification, my [list of Korean apps for foreigners in Seoul](/korean-apps-for-foreigners-in-seoul/) covers which ones need a local number and which don't, and my [identity verification guide](/korea-identity-verification-pass-app-foreigners/) covers PASS, Kakao인증 and the bank-issued financial certificate in more depth.
 
-The pricing above came straight from KT's and SK 7mobile's own price pages and KT's own customer-service page, pulled October 26, 2026 — not from a comparison blog, since those go stale within months. One number I couldn't pin down anywhere official: the exact security deposit for a credit-history-free postpaid sign-up. If a store quotes you one, that figure is real and this post's absence of one isn't a reason to argue with them.
+The pricing above came straight from KT's and SK 7mobile's own price pages and KT's own customer-service page, re-checked November 13, 2026 — not from a comparison blog, since those go stale within months. One number I couldn't pin down anywhere official: the exact security deposit for a credit-history-free postpaid sign-up. If a store quotes you one, that figure is real and this post's absence of one isn't a reason to argue with them.
