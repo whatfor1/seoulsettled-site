@@ -17,10 +17,10 @@ hero:
   alt: "A Kookmin Bank branch in South Korea"
   credit: "LandAndTree, CC0, via Wikimedia Commons"
   creditUrl: "https://commons.wikimedia.org/wiki/File:Kookmin_Bank_Okcheon_Branch_20240730.jpg"
-sourcesCheckedOn: 2026-10-26
+sourcesCheckedOn: 2026-11-14
 ---
 
-You can’t get paid, pay rent or use most Korean apps without a Korean bank account, and the first branch visit is where plans fall apart: wrong document, wrong phone, a “restricted” account you didn’t ask for. Here’s how to open a bank account in Korea as a foreigner, in the right order, so you only go once.
+You can’t get paid, pay rent or use most Korean apps without a Korean bank account, and the first branch visit is where plans fall apart: wrong document, wrong phone, a “restricted” account you didn’t ask for — one capped at 3,000,000 won a day until you bring the missing paperwork back. Here’s how to open a bank account in Korea as a foreigner, in the right order, so you only go once.
 
 ## What you’ll be asked for
 
@@ -73,7 +73,7 @@ Check the ID’s expiry date before you start. An expired or surrendered card is
 
 ## Foreigner-specific accounts and fees
 
-KB’s Global Star account is aimed at foreigners. As of its May 29, 2026 update, the page lists a 50% discount on exchange and overseas-transfer fees when you trade at a branch counter, plus a 70% exchange-fee discount when you move money from this account into a foreign-currency deposit. Fee waivers on internet-banking transfers and ATM withdrawals kick in once you have a single salary transfer of 500,000 won or more in the previous month. Terms change, so ask the branch what’s current. Deposits are protected up to 100,000,000 won per person, principal and interest combined, according to the same page.
+KB’s Global Star account is aimed at foreigners. As of its [June 4, 2026 update](https://kbthink.com/saving-guide/foreigner-account.html), the page lists a 50% discount on exchange and overseas-transfer fees when you trade at a branch counter, plus a 70% exchange-fee discount when you move money from this account into a foreign-currency deposit. Fee waivers on internet-banking transfers and ATM withdrawals kick in once you have a single salary transfer of 500,000 won or more in the previous month. Terms change, so ask the branch what’s current. Deposits are protected up to 100,000,000 won per person, principal and interest combined, according to the same page.
 
 <figure class="fig">
   <img src="https://images.unsplash.com/photo-1643134756961-e2f24abc2919?w=1200&q=80&auto=format&fit=crop" alt="A Korean 10,000 won banknote" loading="lazy" decoding="async" />
@@ -109,4 +109,4 @@ The Seoul city page says you can send up to $50,000 out of the country at once (
 
 Once the account is open, the next big question is your phone plan — see the [prepaid vs. postpaid guide](/korean-phone-number-foreigners-prepaid-postpaid/) for which one a bank-app sign-up actually needs. If you're about to buy a car, the registration office will want to see compulsory insurance already active in your name before it touches your paperwork — paying for that, the acquisition tax and the plate fee all run through this account, so see my [guide to buying and registering a car](/buy-car-korea-foreigners-registration-insurance/) for the full sequence. And if you ever lose a job here, both severance pay and government unemployment benefit (구직급여) get paid into an account like this one — see my [unemployment benefits guide](/unemployment-benefits-korea-foreign-workers/) for who actually qualifies. And if that account is funding a property purchase, see my [guide to buying property in Korea as a foreigner](/buying-property-korea-foreigners/) for the acquisition report and permit rules that come with it. If clients are about to start paying freelance invoices into this account, see my [freelance income tax guide](/freelance-income-tax-korea-foreigners/) for the visa permission most statuses need first and the May tax filing that follows.
 
-The three sources above — KOTRA’s Invest Korea, Seoul’s city government and KB Kookmin Bank — don’t cross-reference each other, so this page is what puts the document list, the restricted-account limits and the app requirements in one place. All three were pulled again on October 26, 2026; branch-level rules still vary, so the front-desk staff has the final word on your specific paperwork.
+The three sources above — KOTRA’s Invest Korea, Seoul’s city government and KB Kookmin Bank — don’t cross-reference each other, so this page is what puts the document list, the restricted-account limits and the app requirements in one place. Seoul’s city government page and KB Kookmin’s foreigner-account page were re-checked November 14, 2026; the Invest Korea PDF’s figures were last independently re-verified October 26, 2026, since the PDF couldn’t be re-fetched this round. Branch-level rules still vary, so the front-desk staff has the final word on your specific paperwork.
