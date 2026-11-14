@@ -26,7 +26,7 @@ On an E-9 (non-professional employment) visa, you don't automatically keep your 
 
 ## Who this covers
 
-This article is about E-9 workers — the employment permit (EPS) visa used in manufacturing, construction, agriculture, livestock, and fishing. H-2 (working visit) visa holders from Chinese or CIS ethnic-Korean backgrounds operate under a related but separate framework; some of the numbers below (the deadlines, the Article 25 text) are E-9-specific. If you're on E-7, D-10, or another work visa, your situation is a straightforward change of workplace through HiKOREA rather than the EPS job-center process described here — see my [visa status change guide](/change-visa-status-korea-foreigners/) instead.
+This article is about E-9 workers — the employment permit (EPS) visa used in manufacturing, construction, agriculture, livestock, and fishing. H-2 (working visit) visa holders from Chinese or CIS ethnic-Korean backgrounds operate under a related but separate framework; some of the numbers below (the deadlines, the Article 25 text) are E-9-specific. If you're on [E-7](/e7-visa-korea-specialized-worker-requirements/), D-10, or another work visa, your situation is a straightforward change of workplace through HiKOREA rather than the EPS job-center process described here — see my [visa status change guide](/change-visa-status-korea-foreigners/) instead.
 
 ## The reasons the law recognizes
 
