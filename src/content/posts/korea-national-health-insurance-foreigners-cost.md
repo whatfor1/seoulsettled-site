@@ -19,7 +19,7 @@ hero:
   alt: "Entrance to the main building of Severance Hospital in Seoul"
   credit: "RyuMinjoo, CC BY-SA 4.0, via Wikimedia Commons"
   creditUrl: "https://commons.wikimedia.org/w/index.php?curid=182107222"
-sourcesCheckedOn: 2026-10-27
+sourcesCheckedOn: 2026-11-15
 ---
 
 Your first Korean paycheck arrives smaller than the contract said, or a bill for health insurance lands in your mailbox and you have no idea why. Korea health insurance for foreigners is mandatory for most residents, and the amount depends on one thing: whether you are on a company payroll or not. This guide explains both cases with the 2026 numbers.
@@ -106,7 +106,7 @@ NHIS says insurance for foreigners has the same coverage as for Korean citizens:
 
 **Jun’s tip:** If a bill looks wrong, don’t ignore it and don’t just pay it. Call the English line with your ARC number in front of you and ask them to explain the calculation. Unpaid insurance can build up, and fixing it early is far less stressful.
 
-I checked these figures against NHIS’s own pages in October 2026. Rates change every January, so re-check before you budget for next year.
+I checked these figures against NHIS’s own pages again in November 2026. Rates change every January, so re-check before you budget for next year.
 
 ## Next up
 
