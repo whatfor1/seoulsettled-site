@@ -32,7 +32,7 @@ This is the step that trips up foreign workers specifically, and it depends enti
 
 **Mandatory enrollment.** If you hold F-2 (residence), F-5 (permanent residency), or F-6 (marriage migrant) status, you're a mandatory Employment Insurance subscriber — same as a Korean national. Your employer reports your enrollment from your hire date, and if they didn't, it can be applied retroactively.
 
-**Voluntary enrollment, employer consent required.** Most work-visa holders — E-1 through E-7, E-9, E-10, C-4, F-4, and H-2 — fall under 임의가입 (voluntary coverage). You are not automatically in the system. You have to ask your employer to enroll you, and the employer has to agree, before you're ever a subscriber at all. If you never had that conversation, you were likely never enrolled, and there's no 구직급여 to claim no matter how long you worked.
+**Voluntary enrollment, employer consent required.** Most work-visa holders — E-1 through E-7, E-9, E-10, C-4, [F-4](/f4-visa-korea-overseas-korean-requirements/), and H-2 — fall under 임의가입 (voluntary coverage). You are not automatically in the system. You have to ask your employer to enroll you, and the employer has to agree, before you're ever a subscriber at all. If you never had that conversation, you were likely never enrolled, and there's no 구직급여 to claim no matter how long you worked.
 
 Why this matters in practice: if you're on an E-9 or H-2 visa, don't assume the deductions on your payslip include unemployment insurance. Check your 4대보험 enrollment status directly — the National Pension Service's integrated portal or a call to your employer's payroll will confirm it — before you plan around a benefit you may never have been signed up for.
 

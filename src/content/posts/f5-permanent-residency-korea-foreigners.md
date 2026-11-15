@@ -42,7 +42,7 @@ The actual eligibility table — [출입국관리법 시행령 별표 1의3](htt
 <ul class="checklist">
   <li><strong>General long-term route:</strong> an adult who has held D-7 (intra-company transferee) through E-7 (specific activities) status, or F-2 (long-term residency points-based) status, for 5 years or more</li>
   <li><strong>Family route:</strong> the spouse or minor child of a Korean national or an F-5 holder, with 2 years or more of residence in Korea — this is the path most F-6 marriage-visa holders eventually take</li>
-  <li><strong>Overseas-Korean route:</strong> an F-4 holder with 2 years or more of continuous residence, where the Ministry of Justice recognizes an ongoing need to stay</li>
+  <li><strong>Overseas-Korean route:</strong> an [F-4](/f4-visa-korea-overseas-korean-requirements/) holder with 2 years or more of continuous residence, where the Ministry of Justice recognizes an ongoing need to stay</li>
   <li><strong>Investor route:</strong> an investor under the Foreign Investment Promotion Act with 500,000 US dollars or more invested and 5 or more Korean employees</li>
 </ul>
 

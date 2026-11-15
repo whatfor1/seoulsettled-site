@@ -30,7 +30,7 @@ If you are a registered foreign resident (you hold an ARC, the Alien Registratio
 
 The 15 days start on the day you move into the new place, not the day you sign the lease. Count weekends and holidays too. If you rented with a lease, check the move-in date written in the contract. I covered the lease side in my [jeonse vs wolse guide](/jeonse-wolse-renting-apartment-korea-foreigners/).
 
-A quick note: you may see “14 days” on some university and guide pages. The official Korean law text and government pages I checked say 15 days for most foreign residents. The 14-day figure applies to overseas Koreans (F-4) holding an Overseas Korean Resident Card, per the [Hanam City English page](https://www.hanam.go.kr/english/contents.do?key=9642). If in doubt, report early.
+A quick note: you may see “14 days” on some university and guide pages. The official Korean law text and government pages I checked say 15 days for most foreign residents. The 14-day figure applies to [overseas Koreans (F-4)](/f4-visa-korea-overseas-korean-requirements/) holding an Overseas Korean Resident Card, per the [Hanam City English page](https://www.hanam.go.kr/english/contents.do?key=9642). If in doubt, report early.
 
 ## Where you can report your address change
 

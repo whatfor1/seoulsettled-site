@@ -61,7 +61,7 @@ There is also a floor. The NHIS guidance page says that if the calculated fee is
 
 ## Student reductions and other discounts
 
-NHIS’s foreigner page lists a reduction for D-2 and D-4 visa holders, and for overseas Korean students on F-4, of 50% from March 2023 onward, except for households made up only of minors. It also lists 50% for people living on islands or in remote areas, and 22% for people living in farming or fishing villages. Check the page for your exact case, because the rules differ by visa.
+NHIS’s foreigner page lists a reduction for D-2 and D-4 visa holders, and for overseas Korean students on [F-4](/f4-visa-korea-overseas-korean-requirements/), of 50% from March 2023 onward, except for households made up only of minors. It also lists 50% for people living on islands or in remote areas, and 22% for people living in farming or fishing villages. Check the page for your exact case, because the rules differ by visa.
 
 ## What the insurance covers
 
