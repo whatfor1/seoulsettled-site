@@ -17,7 +17,7 @@ hero:
   alt: "A Kookmin Bank branch in South Korea"
   credit: "LandAndTree, CC0, via Wikimedia Commons"
   creditUrl: "https://commons.wikimedia.org/wiki/File:Kookmin_Bank_Okcheon_Branch_20240730.jpg"
-sourcesCheckedOn: 2026-11-14
+sourcesCheckedOn: 2026-11-16
 ---
 
 You can’t get paid, pay rent or use most Korean apps without a Korean bank account, and the first branch visit is where plans fall apart: wrong document, wrong phone, a “restricted” account you didn’t ask for — one capped at 3,000,000 won a day until you bring the missing paperwork back. Here’s how to open a bank account in Korea as a foreigner, in the right order, so you only go once.
@@ -76,8 +76,8 @@ Check the ID’s expiry date before you start. An expired or surrendered card is
 KB’s Global Star account is aimed at foreigners. As of its [June 4, 2026 update](https://kbthink.com/saving-guide/foreigner-account.html), the page lists a 50% discount on exchange and overseas-transfer fees when you trade at a branch counter, plus a 70% exchange-fee discount when you move money from this account into a foreign-currency deposit. Fee waivers on internet-banking transfers and ATM withdrawals kick in once you have a single salary transfer of 500,000 won or more in the previous month. Terms change, so ask the branch what’s current. Deposits are protected up to 100,000,000 won per person, principal and interest combined, according to the same page.
 
 <figure class="fig">
-  <img src="https://images.unsplash.com/photo-1643134756961-e2f24abc2919?w=1200&q=80&auto=format&fit=crop" alt="A Korean 10,000 won banknote" loading="lazy" decoding="async" />
-  <figcaption>Photo: <a href="https://unsplash.com/@pushingho" rel="nofollow noopener">minho jeong on Unsplash</a></figcaption>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Kookmin_Bank_Debit_Card_Nori.jpg/1280px-Kookmin_Bank_Debit_Card_Nori.jpg" alt="A Kookmin Bank debit card issued in Korea" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://commons.wikimedia.org/wiki/File:Kookmin_Bank_Debit_Card_Nori.jpg" rel="nofollow noopener">Ox1997cow, Public domain, via Wikimedia Commons</a></figcaption>
 </figure>
 
 ## Sending money abroad
