@@ -37,7 +37,7 @@ The law carves out one exemption from the second and third conditions: a foreign
 
 ## Nineteen routes, but most readers fit one of four
 
-The actual eligibility table — [출입국관리법 시행령 별표 1의3](https://law.go.kr/flDownload.do?gubun=&flSeq=85170247), last amended December 12, 2023 — runs to nineteen numbered categories, covering everything from overseas doctorates to research staff at designated R&D facilities. Four routes account for most applicants:
+The actual eligibility table — [출입국관리법 시행령 별표 1의3](https://law.go.kr/flDownload.do?gubun=&flSeq=85170247), last amended December 12, 2023 — runs to nineteen numbered categories, covering everything from overseas doctorates to research staff at designated R&D facilities. Four routes account for most applicants. If you're still on an E or D visa and don't want to wait the full 5 years, our [F-2-7 points-based visa guide](/f2-7-points-based-visa-korea-skilled-workers/) covers a scored shortcut into F-2 that can shave years off this general route:
 
 <ul class="checklist">
   <li><strong>General long-term route:</strong> an adult who has held D-7 (intra-company transferee) through E-7 (specific activities) status, or F-2 (long-term residency points-based) status, for 5 years or more</li>
