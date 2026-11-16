@@ -18,7 +18,7 @@ hero:
 keyFact:
   label: "To apply after loss, damage, or an info change"
   value: "14 days"
-sourcesCheckedOn: 2026-10-27
+sourcesCheckedOn: 2026-11-16
 draft: false
 ---
 
@@ -112,4 +112,4 @@ The same document list and 35,000 KRW fee above apply to a 10-year renewal. Seve
 
 Once your replacement card is in hand, the things it unlocks are the same as a first-time ARC: a [Korean bank account](/open-bank-account-korea-foreigner/), a [phone plan](/korean-phone-number-foreigners-prepaid-postpaid/), and a lease. If the reason your card needs updating is a move, check my [15-day address change guide](/report-address-change-korea-arc-15-days/) next — that filing and a reissuance sometimes happen in the same visit. And if your office visit is in Seoul, confirm you're heading to the [new Songpa office](/seoul-immigration-office-new-address-songpa/), not the old Mok-dong building.
 
-The fee, the document list, and the 10-year figure above came from the Ministry of Justice's own service listing and the Immigration Act text, checked October 27, 2026. The one number I left out on purpose is the fine for missing the 14-day deadline — the sources I checked don't agree on it, so call 1345 for the real figure instead of trusting a round number from any blog, including this one.
+The fee, the document list, and the 10-year figure above came from the Ministry of Justice's own service listing and the Immigration Act text, re-checked November 16, 2026. The one number I left out on purpose is the fine for missing the 14-day deadline — the sources I checked don't agree on it, so call 1345 for the real figure instead of trusting a round number from any blog, including this one.
