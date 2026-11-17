@@ -47,7 +47,7 @@ D-10 exists to let you search for work in positions that correspond to E-1 throu
 What D-10 does **not** give you is general work rights. It's a preparation status — in principle, profit-making activity is restricted, same as any other non-work visa category. Two things change that:
 
 - **Approved internships** tied to your job search, now subject to the loosened caps above instead of the old 1-year total limit.
-- **A separate part-time work permit** (체류자격외활동허가) if you want paid side work beyond an internship — the same permission freelancers on other visas file for. [Korea's civil-service listing for this permit](https://www.gov.kr/portal/service/serviceInfo/PTR000050540) sets the fee at **120,000 won**, non-refundable once accepted for processing.
+- **A separate part-time work permit** (체류자격외활동허가) if you want paid side work beyond an internship — the same permission freelancers on other visas file for. [Korea's civil-service listing for this permit](https://www.gov.kr/portal/service/serviceInfo/PTR000050540) sets the fee at **120,000 won**, non-refundable once accepted for processing. That's a different, pricier filing than the one still-enrolled D-2 and D-4 students use for an alba — see our [D-2/D-4 part-time work permit guide](/d2-student-visa-part-time-work-korea/) if you haven't graduated yet.
 
 ## Renewing D-10 status
 
