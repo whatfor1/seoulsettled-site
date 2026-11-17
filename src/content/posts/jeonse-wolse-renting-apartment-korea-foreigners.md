@@ -16,7 +16,7 @@ hero:
   alt: "An apartment complex in Daechi-dong, Seoul"
   credit: "kallerna, CC BY-SA 4.0, via Wikimedia Commons"
   creditUrl: "https://commons.wikimedia.org/wiki/File:Daechi_Dongbo_Centreville_Apartment_Complex_2.jpg"
-sourcesCheckedOn: 2026-10-28
+sourcesCheckedOn: 2026-11-17
 ---
 
 You found a nice place in Seoul, and the listing says "전세" or "월세" with a deposit that looks like a typo. Nobody warned you that renting an apartment in Korea works nothing like renting back home. Here is how jeonse and wolse work, and what to check before you hand over any money.
@@ -114,7 +114,7 @@ If you need advice in English, the Seoul Foreign Resident Center offers real est
 
 **You missed the 30-day lease report.** Submitting the lease agreement itself counts as applying for the fixed date, so if you skipped the report but already have a fixed date stamped on your contract, you likely still have preferential repayment rights from that date. Confirm at the administrative welfare center rather than assuming either way.
 
-**The landlord won't return the deposit (jeonse fraud).** The HUG Safe Lump-sum Deposit Lease Portal's [Lump-sum Deposit Lease Fraud Victim Support Center](https://www.khug.or.kr/jeonse) offers four kinds of help: legal consultation and litigation representation, financial assistance such as acquisition-tax relief and housing purchase loans, emergency rental housing if you're at risk of eviction, and living-expense support if the case is officially recognized as a crisis under the Emergency Welfare Support Act. Start with HUG's number above rather than handling it alone. If the deposit was wired from overseas and you're untangling the paper trail, our [guide to sending money abroad from Korea](/send-money-abroad-korea-foreigners/) covers the transfer records banks keep.
+**The landlord won't return the deposit (jeonse fraud).** The HUG Safe Lump-sum Deposit Lease Portal's [Lump-sum Deposit Lease Fraud Victim Support Center](https://www.khug.or.kr/jeonse) offers four kinds of help: legal consultation and litigation representation, financial assistance such as acquisition-tax relief and housing purchase loans, emergency rental housing if you're at risk of eviction, and living-expense support if the case is officially recognized as a crisis under the Emergency Welfare Support Act. Call the center's own line, **1533-8119** (or 02-6917-8119), rather than HUG's general guarantee-product number above — it's a separate desk, and you'll wait less by going straight to it. If the deposit was wired from overseas and you're untangling the paper trail, our [guide to sending money abroad from Korea](/send-money-abroad-korea-foreigners/) covers the transfer records banks keep.
 
 **Your application for guarantee insurance was rejected.** HUG, HF and SGI each set their own eligibility rules, so a rejection from one does not mean the others will also refuse. Call the next provider on the list before assuming you have no coverage option.
 
@@ -128,7 +128,7 @@ If you need advice in English, the Seoul Foreign Resident Center offers real est
   <li>Report your move-in within 15 days and get the fixed date</li>
   <li>Check whether your deposit falls under the small-sum preferential repayment caps for your region</li>
   <li>Ask about deposit guarantee insurance from HUG, HF or SGI</li>
-  <li>Save 02-2229-4900 for English help, and 1566-9009 if you suspect jeonse fraud</li>
+  <li>Save 02-2229-4900 for English help, and 1533-8119 for HUG's dedicated jeonse-fraud support line</li>
 </ul>
 
 ## Next on Seoul Settled
