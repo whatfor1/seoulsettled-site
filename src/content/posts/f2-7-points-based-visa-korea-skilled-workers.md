@@ -37,7 +37,7 @@ F-2-7 is one sub-category of the broader F-2 (거주, "residence") status, creat
 Before your points get calculated, your current status has to be on the eligible list, and you have to have held it for long enough. Based on the notice's own eligibility criteria, cross-checked across multiple licensed labor-law and immigration-consultancy summaries of the scheme:
 
 <ul class="checklist">
-  <li>E-1 (professor), E-2 (conversation instructor), E-3 (research), E-4 (technical guidance), E-5 (professional), or E-6 (arts and entertainment, excluding E-6-2 venue performers) — held for 1 year or more</li>
+  <li>E-1 (professor), [E-2](/e2-visa-korea-english-teacher-requirements/) (conversation instructor), E-3 (research), E-4 (technical guidance), E-5 (professional), or E-6 (arts and entertainment, excluding E-6-2 venue performers) — held for 1 year or more</li>
   <li>D-5 through D-9 (journalism through corporate investment) — held for 1 year or more</li>
 </ul>
 
