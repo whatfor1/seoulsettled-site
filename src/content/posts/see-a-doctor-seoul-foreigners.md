@@ -27,7 +27,7 @@ For a cold, a stomach bug or a minor ache, walk into a neighborhood clinic. For 
 
 ## Clinic or hospital: which one do you need?
 
-The Working Holiday Info Center, run by Korea’s foreign ministry, [describes two main types](https://whic.mofa.go.kr/contents.do?contentsNo=46&menuNo=108) of medical institutions. Primary care means local clinics, public health centers and small hospitals that treat common illnesses such as colds, flu and digestive problems. General hospitals, including specialized and university hospitals, handle more serious conditions and detailed examinations.
+The [Working Holiday Info Center](/h1-working-holiday-visa-korea-requirements/), run by Korea’s foreign ministry, [describes two main types](https://whic.mofa.go.kr/contents.do?contentsNo=46&menuNo=108) of medical institutions. Primary care means local clinics, public health centers and small hospitals that treat common illnesses such as colds, flu and digestive problems. General hospitals, including specialized and university hospitals, handle more serious conditions and detailed examinations.
 
 Jun’s tip: in Korea, the doctor you see is chosen by the body part, not by a single family doctor. A clinic with “이비인후과” on the sign is ear, nose and throat, “내과” is internal medicine, “정형외과” is orthopedics. Searching a Korean map app for the department name near you finds the right clinic faster than typing “doctor”.
 

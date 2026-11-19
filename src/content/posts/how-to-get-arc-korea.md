@@ -73,7 +73,7 @@ The Seoul guidebook lists the core set you submit to the immigration office:
 
 5. **Fee: 35,000 KRW** (effective January 1, 2025, per the [Seoul guidebook](https://english.seoul.go.kr/wp-content/uploads/2026/05/2026-Living-in-Seoul.pdf)).
 
-Many visa types also need proof of where you live, such as your housing contract. The MOFA page lists a housing contract for working holiday visa holders, and the exact list varies by visa, so check your own status on [HiKorea](https://www.hikorea.go.kr/resv/ResvIntroR.pt?locale=en) or call the Immigration Contact Center at 1345 before you go.
+Many visa types also need proof of where you live, such as your housing contract. The MOFA page lists a housing contract for [working holiday visa](/h1-working-holiday-visa-korea-requirements/) holders, and the exact list varies by visa, so check your own status on [HiKorea](https://www.hikorea.go.kr/resv/ResvIntroR.pt?locale=en) or call the Immigration Contact Center at 1345 before you go.
 
 **Jun's tip:** Make one photocopy of everything, including your passport photo page and your lease. You may not need them, but if you do, the copy machine queue is the last place you want to be. Also note that the MOFA page lists the fee as "35,000 KRW cash" for working holiday applicants, so carrying the exact amount in cash is a cheap insurance policy.
 
