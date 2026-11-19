@@ -12,7 +12,7 @@ tags:
 keyFact:
   label: "Minimum severance pay"
   value: "30 days' average wage per year worked"
-sourcesCheckedOn: 2026-10-29
+sourcesCheckedOn: 2026-11-19
 draft: false
 hero:
   src: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Kia_Motors_South_Korea_factory.jpg/1920px-Kia_Motors_South_Korea_factory.jpg"
@@ -97,4 +97,4 @@ If you're on any other visa type — E-7, D-10, F-series, whatever brought you h
 
 If you're also leaving the country for good, read this alongside the [National Pension lump-sum refund guide](/national-pension-korea-foreigners-lump-sum-refund/) — severance and your pension refund are two separate pots of money, and people regularly forget to claim one while chasing the other. Severance pay is taxed as retirement income rather than regular salary, which is a different calculation than the one in the [year-end tax settlement guide](/year-end-tax-settlement-korea-foreign-workers/); your employer's payroll or accounting team handles that withholding automatically. And whichever account the payout lands in, make sure it's one you can still access — see the [bank account guide](/open-bank-account-korea-foreigner/) if you need to open or check one before you go. Severance isn't the only thing you might be owed if you stay in Korea job-hunting rather than leaving — see my [guide to unemployment benefits (구직급여)](/unemployment-benefits-korea-foreign-workers/) for the separate, government-paid claim that depends on your visa type and insured period rather than your years of service.
 
-Every figure above came from the Labor Standards Act, the Employee Retirement Benefit Security Act, and the Act on Employment, etc. of Foreign Workers, as summarized on Korea's plain-language legal portal, checked October 29, 2026. The one number I'm not giving you is a dollar-amount example calculation using a made-up salary — your actual 3-month wage total is the only number that matters, so ask your employer's payroll department for the breakdown rather than estimating from a guide.
+Every figure above came from the Labor Standards Act, the Employee Retirement Benefit Security Act, and the Act on Employment, etc. of Foreign Workers, as summarized on Korea's plain-language legal portal, re-checked November 19, 2026 — all unchanged since the last check. The one number I'm not giving you is a dollar-amount example calculation using a made-up salary — your actual 3-month wage total is the only number that matters, so ask your employer's payroll department for the breakdown rather than estimating from a guide.
