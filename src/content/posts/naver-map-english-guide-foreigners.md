@@ -17,7 +17,7 @@ hero:
   alt: "A busy street in Myeongdong, Seoul"
   credit: "by Tom@HK, CC BY 2.0, via Wikimedia Commons"
   creditUrl: "https://commons.wikimedia.org/w/index.php?curid=2766630"
-sourcesCheckedOn: 2026-10-29
+sourcesCheckedOn: 2026-11-20
 ---
 
 You open Google Maps in Seoul, type your destination, tap the walking icon and get nothing. No route, no blue line, just a message that directions aren’t available. It’s not your phone. Here is how to use Naver Map in English, why Google Maps fails in Korea, and the settings that make Naver Map actually pleasant.
@@ -34,7 +34,7 @@ In practice, Google Maps still shows you the map and the place names. It just ca
 
 ## Naver Map in English: setup in 5 minutes
 
-Naver Map is made by NAVER Corp., Korea’s biggest search company. Its [Google Play listing](https://play.google.com/store/apps/details?id=com.nhn.android.nmap&hl=en) says it offers Korean, English, Japanese and Chinese maps and English navigation. Its feature list includes transit directions with real-time departure and arrival times, street view, and a booking tab. Both that listing and the [English-language App Store listing](https://apps.apple.com/us/app/naver-maps-navigation/id311867728) show it as a 0 won download — Apple's page also lists the install size at 474.9 MB, which is large enough to download on Wi-Fi rather than mobile data.
+Naver Map is made by NAVER Corp., Korea’s biggest search company. Its [Google Play listing](https://play.google.com/store/apps/details?id=com.nhn.android.nmap&hl=en) says it offers Korean, English, Japanese and Chinese maps and English navigation. Its feature list includes transit directions with real-time departure and arrival times, street view, and a booking tab. Both that listing and the [English-language App Store listing](https://apps.apple.com/us/app/naver-maps-navigation/id311867728) show it as a 0 won download — Apple's page currently lists the install size at 494.4 MB, which is large enough to download on Wi-Fi rather than mobile data.
 
 1. Download “NAVER Map” from your app store.
 
@@ -119,4 +119,4 @@ Walking directions are the biggest upgrade over Google Maps. The Play listing sa
 
 In the next post I’ll cover ordering delivery in Korea without speaking Korean: which apps work, how to pay and what to do about the address field.
 
-*Facts checked against Google’s Maps Platform coverage page and NAVER’s Google Play listing in October 2026. App features change often, so check your own app version.*
+*Facts re-checked against Google’s Maps Platform coverage page and NAVER’s Google Play and App Store listings on November 20, 2026 — the App Store install size had grown since the last check. App features and sizes change often, so check your own app version.*
