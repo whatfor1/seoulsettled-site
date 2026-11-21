@@ -17,7 +17,7 @@ hero:
 keyFact:
   label: "Financial certificate (금융인증서) validity"
   value: "3 years, renewable from 90 days before expiry"
-sourcesCheckedOn: 2026-10-30
+sourcesCheckedOn: 2026-11-21
 draft: false
 ---
 
@@ -50,7 +50,7 @@ In practice this means Kakao인증 is usually the second step, not the first: ge
 
 The financial certificate (금융인증서) is issued through your own bank's app once you already hold a Korean bank account and a phone registered in your own name to receive the verification text. KB국민은행's own certificate-center page confirms the certificate's validity runs **3 years** from issuance, and can be renewed starting **90 days** before it expires and up until the expiry date itself, per [KB국민은행's financial certificate guide](https://obank.kbstar.com/quics?page=C110573). That's longer than most people expect — the older certified-certificate system required a renewal every 12 months, so the financial certificate is deliberately built to need less maintenance.
 
-Once issued, a financial certificate works across more than just banking apps — [gov.kr's own FAQ on the 2020 certificate changes](https://www.gov.kr/portal/faq/3200) confirms the government added 금융인증서 as a login option for Gov24 (정부24) alongside 공동인증서, on top of the banking, card and investment apps it was originally built for. If you're going to set up only one certificate beyond PASS, this is usually the one worth the extra bank-branch step, precisely because it doesn't expire every year like the certificate it replaced.
+Once issued, a financial certificate works across more than just banking apps — [Gov24's own login page](https://www.gov.kr/nlogin/?regType=itab) lists 금융인증서 ("금융결제원 인증서로 로그인") as a full login method alongside 공동인증서, on top of the banking, card and investment apps it was originally built for. If you're going to set up only one certificate beyond PASS, this is usually the one worth the extra bank-branch step, precisely because it doesn't expire every year like the certificate it replaced.
 
 <figure class="fig">
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Government_Complex_Sejong_20190611_02.jpg/1920px-Government_Complex_Sejong_20190611_02.jpg" alt="Government Complex Sejong, which houses the ministries that regulate Korea's electronic signature system" loading="lazy" decoding="async" />
