@@ -16,7 +16,7 @@ hero:
   alt: "Emergency department entrance at Gangnam Severance Hospital"
   credit: "Parkyongjoo, CC BY-SA 3.0, via Wikimedia Commons"
   creditUrl: "https://commons.wikimedia.org/w/index.php?curid=30932621"
-sourcesCheckedOn: 2026-10-30
+sourcesCheckedOn: 2026-11-22
 ---
 
 You wake up with a fever, your Korean is limited to “kamsahamnida”, and Google Maps shows forty places that all say “의원” or “병원”. Which door do you walk through? Here is how to see a doctor in Seoul as a foreigner.
@@ -91,7 +91,7 @@ The Korea Tourism Organization page lists these numbers: 112 for police, 119 for
 
 My rule: if it is life-threatening, call 119 and do not wait. If you are only unsure which place is open at 10 p.m., call 1339 or 1330 and ask.
 
-A 119 ambulance for a genuine emergency is free nationwide, regardless of how far it drives or how many patients it carries, according to Korea's [Easy Law portal page on emergency medical costs](https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=906&ccfNo=2&cciNo=4&cnpClsNo=1). That free ride only covers genuine emergencies, though. A private or hospital-run ambulance used for a non-urgent transfer between facilities is billed separately: a standard ambulance runs 40,000 won for the first 10 km (26,600 won if it's run by a non-profit), plus 1,500 won per additional kilometer, and a specially-equipped ambulance starts at 95,500 won for the first 10 km plus 2,300 won per kilometer after that. All of those rates go up 20% on weeknights from 6 p.m. to 9 a.m., on Saturdays and on public holidays, and the ambulance can charge 6,000 won for every 10 minutes it waits once it's been at the hospital more than 30 minutes.
+A 119 ambulance for a genuine emergency is free nationwide, regardless of how far it drives or how many patients it carries, according to Korea's [Easy Law portal page on emergency medical costs](https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=906&ccfNo=2&cciNo=4&cnpClsNo=1). That free ride only covers genuine emergencies, though. A private or hospital-run ambulance used for a non-urgent transfer between facilities is billed separately, under a fee schedule that rose on August 14, 2026: a standard ambulance run by a hospital or private operator costs 40,000 won for the first 10 km plus 1,500 won per additional kilometer, while the same trip on a non-profit-run standard ambulance costs 26,600 won for the first 10 km plus 1,000 won per additional kilometer — the two don't share one per-kilometer rate. A specially-equipped ambulance starts at 95,500 won for the first 10 km plus 2,300 won per kilometer after that. All of those rates go up 20% on weeknights from 6 p.m. to 9 a.m., on Saturdays and on public holidays, and the ambulance can charge 6,000 won for every 10 minutes it waits once it's been at the hospital more than 30 minutes.
 
 ## If something goes wrong
 
@@ -117,4 +117,4 @@ A 119 ambulance for a genuine emergency is free nationwide, regardless of how fa
 
 Next up: finding an apartment in Korea, with jeonse, wolse and key money explained without the jargon.
 
-*I checked the co-payment percentages against NHIS's own benefits page and the ambulance and refusal rules against Korea's Easy Law portal, down to the per-kilometer rate, in October 2026. The one price nobody regulates is the English certificate fee — that one is set hospital by hospital, so ask before they print it. This guide is general information, not medical advice.*
+*I re-checked the co-payment percentages against NHIS's own benefits page and the ambulance and refusal rules against Korea's Easy Law portal, down to the per-kilometer rate, on November 22, 2026 — the ambulance figures above reflect the fee schedule that took effect August 14, 2026, and I corrected a per-kilometer rate that had been wrongly shared between hospital-run and non-profit ambulances. The one price nobody regulates is the English certificate fee — that one is set hospital by hospital, so ask before they print it. This guide is general information, not medical advice.*
