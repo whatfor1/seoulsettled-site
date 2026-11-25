@@ -19,7 +19,7 @@ hero:
   alt: "Entrance to the main building of Severance Hospital in Seoul"
   credit: "RyuMinjoo, CC BY-SA 4.0, via Wikimedia Commons"
   creditUrl: "https://commons.wikimedia.org/w/index.php?curid=182107222"
-sourcesCheckedOn: 2026-11-15
+sourcesCheckedOn: 2026-11-26
 ---
 
 Your first Korean paycheck arrives smaller than the contract said, or a bill for health insurance lands in your mailbox and you have no idea why. Korea health insurance for foreigners is mandatory for most residents, and the amount depends on one thing: whether you are on a company payroll or not. This guide explains both cases with the 2026 numbers.
@@ -53,8 +53,8 @@ NHIS’s [2026 rate notice](https://www.nhis.or.kr/nhis/etc/20251204_banner_pop0
 Regional subscribers pay by a points system based on income, property and cars. The NHIS contribution page sets the value per point at 211.5 won for 2026. Property includes things like a rented home, so your housing situation matters. If you are still choosing a lease, our [jeonse vs wolse guide](/jeonse-wolse-renting-apartment-korea-foreigners/) covers the basics.
 
 <figure class="fig">
-  <img src="https://images.unsplash.com/photo-1758691462651-611d730c5272?w=1200&q=80&auto=format&fit=crop" alt="A doctor sitting at a desk in a clinic office" loading="lazy" decoding="async" />
-  <figcaption>Photo: <a href="https://unsplash.com/@silverkblack" rel="nofollow noopener">Vitaly Gariev on Unsplash</a></figcaption>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/231226_%EA%B5%AD%EB%AF%BC%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%EA%B3%B5%EB%8B%A8_%EB%B3%B8%EB%B6%80.jpg/1280px-231226_%EA%B5%AD%EB%AF%BC%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%EA%B3%B5%EB%8B%A8_%EB%B3%B8%EB%B6%80.jpg" alt="Exterior of the National Health Insurance Service headquarters building in Wonju" loading="lazy" decoding="async" />
+  <figcaption>Photo: <a href="https://commons.wikimedia.org/wiki/File:231226_%EA%B5%AD%EB%AF%BC%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%EA%B3%B5%EB%8B%A8_%EB%B3%B8%EB%B6%80.jpg" rel="nofollow noopener">Aspere, CC0, via Wikimedia Commons</a></figcaption>
 </figure>
 
 There is also a floor. The NHIS guidance page says that if the calculated fee is less than the average fee, the average fee is charged. The 2026 notice puts the average premium for foreign regional subscribers at 158,630 won a month, made up of 140,210 won in health insurance and 18,420 won in long-term care. Holders of F-5 and F-6 visas are the exception: NHIS says their fee is calculated the same way as for Korean residents.
