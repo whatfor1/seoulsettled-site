@@ -16,7 +16,7 @@ hero:
   alt: "Inside a Korean immigration service office"
   credit: "User:Piotrus, CC BY-SA 3.0, via Wikimedia Commons"
   creditUrl: "https://commons.wikimedia.org/wiki/File:Ansan_foreigner_immigration_service_interior_02.jpg"
-sourcesCheckedOn: 2026-10-31
+sourcesCheckedOn: 2026-11-26
 ---
 
 If you have a HiKorea appointment at the Seoul Immigration Office on or after October 19, 2026, do not go to Mok-dong. The office is moving to a brand-new building in Songpa-gu, and the old Mok-dong building stops handling cases from that day. Here is the new address, how to get there by subway and bus, who the office serves, and what changes for your visit.
@@ -69,13 +69,13 @@ If you live elsewhere in Seoul, for example north of the river in Jongno or Mapo
 
 ## What's different at the new building
 
-According to [Yonhap News](https://www.yna.co.kr/view/AKR20260923132000371), the new building is designed to fix some long-standing complaints about the old one:
+According to [ThePowerNews's coverage of the opening ceremony](https://www.thepowernews.co.kr/view.php?ud=20261030175835275037600e7ec7_7), the new building is designed to fix some long-standing complaints about the old one:
 
 - **More parking:** roughly 60 spaces, up from about 25 at Mok-dong — still only enough for a fraction of daily visitors, so I'd take the subway.
 
-- **One floor for visa and stay services:** the residence service counters are combined on the first floor, so less walking between floors.
+- **One floor for visa and stay services:** at Mok-dong, residence-service counters were split across the 1st and 3rd floors; the new building puts them all on the 1st floor, so less walking between floors.
 
-- **More services in one place:** the online residence and visa service center and the 1345 Immigration Contact Center are also moving into the building.
+- **More services in one place:** the online residence and visa service center and the 1345 Immigration Contact Center, both previously housed in separate buildings, also moved into the new building.
 
 ## What this means for your HiKorea appointment
 
@@ -122,4 +122,4 @@ The same page spells out what to expect: the Immigration Act gives you **15 days
 
 Next, here's [how to extend your stay in Korea](/extend-stay-period-korea-visa-extension-hikorea/) before your visa runs out, and what to do if you're cutting it close.
 
-*I checked the move date, address and route details against the Immigration Service's own relocation notice, the parking and layout changes against Yonhap's coverage of the new building, the district list against EKW's report, and the address-report fee and processing time against Hanam City's civil-affairs page — all current as of October 2026. A building move causes the most confusion in its first few weeks, so if a map app or an old bookmark still points you to Mok-dong, trust the address printed above instead: 55 Jeongui-ro, Songpa-gu.*
+*I re-checked the move date, address and route details against the Immigration Service's own relocation notice, the parking and layout changes against ThePowerNews's coverage of the opening ceremony, the district list against EKW's report, and the address-report fee and processing time against Hanam City's civil-affairs page on November 26, 2026 — all unchanged since the last check. A building move causes the most confusion in its first few weeks, so if a map app or an old bookmark still points you to Mok-dong, trust the address printed above instead: 55 Jeongui-ro, Songpa-gu.*
