@@ -17,7 +17,7 @@ hero:
 keyFact:
   label: "Permit-free return window"
   value: "1 year for most registered foreigners (2 years for F-5 permanent residents)"
-sourcesCheckedOn: 2026-11-01
+sourcesCheckedOn: 2026-11-27
 draft: false
 ---
 
@@ -39,14 +39,15 @@ This is a genuinely different rule from what you'll find in older blog posts and
 The exemption has edges, and three groups fall outside it: anyone staying abroad longer than their exemption window (more than 1 year for most statuses, more than 2 for F-5), anyone whose status isn't in the exempted range, and anyone who wants the flexibility of multiple trips spaced out over a longer period than the automatic window covers. For those cases, [Article 30 of the Immigration Control Act](https://www.law.go.kr/LSW/lsLawLinkInfo.do?chrClsCd=010202&lsJoLnkSeq=1000817401) is the legal basis for applying, and the fee schedule sits in the enforcement rule attached to that article:
 
 <ul class="checklist">
-  <li>단수재입국허가 (single re-entry, one trip): 30,000 won, or 24,000 won filed online (20% off)</li>
-  <li>복수재입국허가 (multiple re-entry, more than one trip within the permit's validity): 50,000 won, or 40,000 won filed online</li>
+  <li>단수재입국허가 (single re-entry, one trip): 30,000 won in person</li>
+  <li>복수재입국허가 (multiple re-entry, more than one trip within the permit's validity): 50,000 won in person</li>
+  <li>Online filing gets a discount, but the exact won amount I could find disagreed between sources — confirm the current figure on HiKorea's own fee display before you pay, rather than trusting a specific number here</li>
   <li>Processing time: 3 days</li>
   <li>Document needed: your passport, if you're applying in person — online filing skips the in-person document step</li>
   <li>Form: 서식 제34호, the same unified application form used for extension and status-change filings</li>
 </ul>
 
-That 20% online discount is the same enforcement-rule discount our [extension guide](/extend-stay-period-korea-visa-extension-hikorea/) and [status-change guide](/change-visa-status-korea-foreigners/) already cite — it applies across all three filing types, not just this one. File through HiKorea's electronic system rather than walking into a branch and you save the same fraction every time.
+The 30,000 won and 50,000 won in-person fees come directly from [Article 30's enforcement rule](https://www.law.go.kr/LSW/lsLawLinkInfo.do?chrClsCd=010202&lsJoLnkSeq=1000817401). That rule, and a direct check of HiKorea's own fee page, don't break out a separate online figure — and the secondary write-ups that do quote one don't agree with each other, so I'm not printing a specific online won amount here. Our [extension guide](/extend-stay-period-korea-visa-extension-hikorea/) and [status-change guide](/change-visa-status-korea-foreigners/) describe the same online discount for their filing types; if you need the exact current online price for a re-entry permit, HiKorea shows it at checkout.
 
 The 3-day turnaround is fast compared to the other two filings in this series: extension processing runs 15 days to 60 days, and status change runs 3 weeks to 3 months, because both involve a substantive review of your new activity or circumstances. A re-entry permit doesn't — the office is just checking your passport and your current status, which is why it clears in a fraction of the time.
 
@@ -77,4 +78,4 @@ This is why the exemption window matters more than the fee table for most reader
 
 This is the third piece of the HiKorea filing trio: [extending your stay](/extend-stay-period-korea-visa-extension-hikorea/) keeps your current status past its expiry date, [changing your status](/change-visa-status-korea-foreigners/) swaps it for a different one, and this guide covers what happens when you simply leave and come back. All three share the same 20% online-filing discount and the same 서식 제34호 application form. If your Alien Registration Card itself needs attention before any of this — a reissue, a renewal, an address update — our [ARC guides](/how-to-get-arc-korea/) and [15-day address-change guide](/report-address-change-korea-arc-15-days/) cover that groundwork. And if your HiKorea appointment is in Seoul, double-check you're heading to the [new Songpa office](/seoul-immigration-office-new-address-songpa/), not the old one.
 
-The exemption window, the fees, and the Article 37-2 cancellation rule above came from the Immigration Control Act, its enforcement rule, and a Ministry of Foreign Affairs overseas-mission notice confirming the 2022.4.1 resumption, checked November 1, 2026. One thing this guide deliberately didn't pin down: the maximum validity period immigration offices actually grant for a multiple re-entry permit in practice, since the sources I checked didn't state a single consistent ceiling — ask your immigration office what they'll grant for your specific trip pattern rather than assuming a number from this post.
+The exemption window, the fees, and the Article 37-2 cancellation rule above came from the Immigration Control Act, its enforcement rule, and a Ministry of Foreign Affairs overseas-mission notice confirming the 2022.4.1 resumption, re-checked November 27, 2026 — all unchanged since the last check. Two things this guide deliberately didn't pin down: the exact won amount for the online-filing discount, since the sources I checked quoted different figures for it and I'd rather send you to HiKorea's own fee display than guess; and the maximum validity period immigration offices actually grant for a multiple re-entry permit in practice, since the sources I checked didn't state a single consistent ceiling — ask your immigration office what they'll grant for your specific trip pattern rather than assuming a number from this post.
