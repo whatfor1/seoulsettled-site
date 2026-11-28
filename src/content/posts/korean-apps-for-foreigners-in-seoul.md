@@ -16,7 +16,7 @@ hero:
   alt: "A busy street in Myeongdong, Seoul, with signs in Korean, English and Japanese"
   credit: "Sgroey, CC BY-SA 4.0, via Wikimedia Commons"
   creditUrl: "https://commons.wikimedia.org/wiki/File:Myeongdong_night_market_seoul_4.jpg"
-sourcesCheckedOn: 2026-11-01
+sourcesCheckedOn: 2026-11-28
 ---
 Google Maps barely works here. Half the menus are in Korean. And on your first day, someone will ask for your KakaoTalk ID before your name.
 
@@ -46,7 +46,7 @@ A strong second map. Handy for checking a place's reviews and opening hours when
 
 Korea's main taxi app. Set your pickup and destination, and you never have to pronounce an address to a driver. You can pay in the app once a card is registered, or simply pay the driver at the end of the ride.
 
-Knowing the fare helps you catch a problem before you get in. Seoul's own city newsroom confirms the [current medium-taxi fare](https://mediahub.seoul.go.kr/archives/2006817): a base fare of 4,800 KRW covers the first 1.6 km, then the meter adds 100 KRW roughly every 131 meters. Late at night a 20% surcharge pushes the base fare to 5,800 KRW, and a steeper surcharge after that raises it to 6,700 KRW. If the fare the app shows looks far higher than that, double-check the destination pin before you confirm.
+Knowing the fare helps you catch a problem before you get in. Seoul's own city newsroom confirms the [current medium-taxi fare](https://mediahub.seoul.go.kr/archives/2006817): a base fare of 4,800 KRW covers the first 1.6 km, then the meter adds 100 KRW roughly every 131 meters. Late at night a 20% surcharge pushes the base fare to 5,800 KRW, and a steeper 40% surcharge after that raises it to 6,700 KRW. If the fare the app shows looks far higher than that, double-check the destination pin before you confirm.
 
 ### 5. Papago
 
